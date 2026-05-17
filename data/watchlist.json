@@ -1,0 +1,69 @@
+{
+  "customers": [
+    "TSMC",
+    "Micron Technology",
+    "Samsung Electronics",
+    "SK hynix",
+    "Intel"
+  ],
+  "topics": [
+    "Fab announcements",
+    "CapEx changes",
+    "EUV roadmap",
+    "HBM demand",
+    "NAND / DRAM pricing",
+    "Advanced packaging"
+  ],
+  "queries": [
+    {
+      "customer": "TSMC",
+      "topic": "Fab announcements",
+      "query": "TSMC fab announcement 2nm ramp capacity"
+    },
+    {
+      "customer": "TSMC",
+      "topic": "EUV roadmap",
+      "query": "TSMC EUV roadmap 2nm A16"
+    },
+    {
+      "customer": "Micron Technology",
+      "topic": "Fab announcements",
+      "query": "Micron Boise fab capacity CHIPS memory"
+    },
+    {
+      "customer": "Micron Technology",
+      "topic": "NAND / DRAM pricing",
+      "query": "Micron DRAM NAND pricing outlook HBM"
+    },
+    {
+      "customer": "Samsung Electronics",
+      "topic": "NAND / DRAM pricing",
+      "query": "Samsung Electronics DRAM NAND pricing utilization"
+    },
+    {
+      "customer": "Samsung Electronics",
+      "topic": "Advanced packaging",
+      "query": "Samsung advanced packaging HBM foundry"
+    },
+    {
+      "customer": "SK hynix",
+      "topic": "HBM demand",
+      "query": "SK hynix HBM demand expansion capacity"
+    },
+    {
+      "customer": "SK hynix",
+      "topic": "CapEx changes",
+      "query": "SK hynix capex memory HBM investment"
+    },
+    {
+      "customer": "Intel",
+      "topic": "EUV roadmap",
+      "query": "Intel foundry EUV roadmap 18A 14A"
+    },
+    {
+      "customer": "Intel",
+      "topic": "Fab announcements",
+      "query": "Intel foundry fab announcement capacity"
+    }
+  ]
+}
