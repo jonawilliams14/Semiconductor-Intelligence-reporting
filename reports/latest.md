@@ -1,18 +1,17 @@
-# Semiconductor Intelligence Agent
+# Semiconductor Intelligence Report
 
 Generated: 2026-05-22T00:00:00-07:00
 
+Tracked entities: 53
+
 ## What matters to conductor etch this week
 
-- **TSMC 2nm ramp** - Watch leading-edge ramp timing, yield language, and capacity signals because conductor etch demand follows process complexity and volume readiness.
-- **SK hynix HBM expansion** - HBM growth can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.
-- **Intel foundry update** - Foundry execution and EUV roadmap progress can shift the timing of etch-intensive leading-edge capacity.
-- **Micron Boise capacity news** - US memory expansion is a direct WFE timing watch for cleanroom readiness, CapEx phasing, and tool allocation.
+- **Intel Foundry advanced packaging and EUV roadmap** - EMIB, Foveros, and 18A/14A progress can shift leading-edge etch timing.
+- **TSMC 2nm and CoWoS capacity** - 2nm ramps and CoWoS expansion are direct watch items for etch-intensive capacity.
+- **NVIDIA, Broadcom, and cloud AI ASIC demand** - AI accelerator demand is a leading indicator for HBM, advanced packaging, and foundry starts.
+- **Micron, SK hynix, Samsung HBM expansion** - HBM growth can pull advanced DRAM capacity and packaging intensity forward.
+- **OSAT and packaging capacity** - ASE, Amkor, JCET, and Powertech capacity can expose bottlenecks around chiplets and HBM integration.
 
-## Ranked seed signals
+## Expanded coverage
 
-1. TSMC 2nm ramp and fab readiness
-2. SK hynix HBM demand expansion
-3. Intel foundry and EUV roadmap update
-4. Micron Boise and US memory capacity
-5. Samsung DRAM / NAND pricing and utilization
+The watchlist now covers foundries, memory and IDMs, fabless and system chip integrators, EDA/IP, and advanced packaging/OSAT suppliers.
