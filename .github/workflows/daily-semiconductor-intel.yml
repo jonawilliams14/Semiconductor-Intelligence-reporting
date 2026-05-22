@@ -1,4 +1,4 @@
-name: Daily Semiconductor Intelligence
+name: Daily Semiconductor Intelligence Report
 
 on:
   schedule:
