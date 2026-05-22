@@ -1,25 +1,18 @@
-# Semiconductor Intelligence Agent
+# Semiconductor Intelligence Report
 
-Daily monitor for customer and market signals that matter to conductor etch product management.
+Daily monitor for foundry, memory, IDM, fabless, cloud AI silicon, EDA/IP, and advanced-packaging signals that matter to conductor etch product management.
 
 ## Watchlist
 
-Customers:
+The report tracks 50+ entities across:
 
-- TSMC
-- Micron Technology
-- Samsung Electronics
-- SK hynix
-- Intel
+- Foundries: TSMC, Samsung Foundry, Intel Foundry, GlobalFoundries, UMC, SMIC, Tower, PSMC, VIS, Hua Hong, Rapidus
+- Memory and IDMs: Micron, Samsung Electronics, SK hynix, Kioxia, Western Digital, TI, STMicroelectronics, Infineon, NXP, Renesas
+- Fabless and system chip integrators: NVIDIA, AMD, Qualcomm, Broadcom, Marvell, MediaTek, Apple Silicon, Google TPU, Amazon Trainium, Microsoft Maia, Meta MTIA, Tesla Dojo, Cerebras, Groq, Tenstorrent, SambaNova, Ampere, Arm, SiFive, Alchip, GUC, Socionext, Cisco Silicon One, Arista, Credo
+- Design ecosystem: Synopsys, Cadence, Siemens EDA
+- Advanced packaging and OSAT: ASE, Amkor, JCET, Powertech
 
-Tracked themes:
-
-- Fab announcements
-- CapEx changes
-- EUV roadmap
-- HBM demand
-- NAND / DRAM pricing
-- Advanced packaging
+Tracked themes include fab announcements, CapEx, EUV, HBM, memory pricing, advanced packaging, foundry wins, AI accelerators, GPU/CPU roadmaps, custom ASICs, automotive/edge silicon, EDA/IP design starts, and OSAT capacity.
 
 ## Dashboard
 
@@ -42,13 +35,4 @@ The script reads `data/watchlist.json`, searches public Google News RSS feeds, r
 - `data/latest-report.json` for the dashboard
 - `reports/latest.md` for a readable brief
 
-## GitHub Pages setup
-
-1. Open repository **Settings -> Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Choose branch `main` and folder `/root`.
-4. Save.
-
-The workflow in `.github/workflows/daily-semiconductor-intel.yml` runs every weekday at 13:15 UTC, roughly 6:15 AM Pacific during daylight saving time. Use **Actions -> Daily Semiconductor Intelligence -> Run workflow** to refresh it on demand.
-
-The dashboard answers the operating question directly: **What matters to conductor etch this week?**
+The workflow in `.github/workflows/daily-semiconductor-intel.yml` runs every weekday at 13:15 UTC. Use **Actions -> Daily Semiconductor Intelligence -> Run workflow** to refresh it on demand.
