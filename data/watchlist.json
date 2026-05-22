@@ -1,69 +1,73 @@
 {
-  "customers": [
-    "TSMC",
-    "Micron Technology",
-    "Samsung Electronics",
-    "SK hynix",
-    "Intel"
-  ],
-  "topics": [
-    "Fab announcements",
-    "CapEx changes",
-    "EUV roadmap",
-    "HBM demand",
-    "NAND / DRAM pricing",
-    "Advanced packaging"
-  ],
+  "customers": ["TSMC", "Samsung Foundry", "Intel Foundry", "GlobalFoundries", "UMC", "SMIC", "Tower Semiconductor", "PSMC", "Vanguard International Semiconductor", "Hua Hong Semiconductor", "Rapidus", "Micron Technology", "Samsung Electronics", "SK hynix", "Kioxia", "Western Digital", "Texas Instruments", "STMicroelectronics", "Infineon", "NXP", "Renesas", "NVIDIA", "AMD", "Qualcomm", "Broadcom", "Marvell", "MediaTek", "Apple Silicon", "Google TPU", "Amazon Trainium", "Microsoft Maia", "Meta MTIA", "Tesla Dojo", "Cerebras", "Groq", "Tenstorrent", "SambaNova", "Ampere Computing", "Arm", "SiFive", "Alchip", "Global Unichip", "Socionext", "Cisco Silicon One", "Arista Networks", "Credo Technology", "Synopsys", "Cadence", "Siemens EDA", "ASE", "Amkor", "JCET", "Powertech Technology"],
+  "customer_groups": {
+    "Foundries": ["TSMC", "Samsung Foundry", "Intel Foundry", "GlobalFoundries", "UMC", "SMIC", "Tower Semiconductor", "PSMC", "Vanguard International Semiconductor", "Hua Hong Semiconductor", "Rapidus"],
+    "Memory and IDMs": ["Micron Technology", "Samsung Electronics", "SK hynix", "Kioxia", "Western Digital", "Texas Instruments", "STMicroelectronics", "Infineon", "NXP", "Renesas"],
+    "Fabless and system chip integrators": ["NVIDIA", "AMD", "Qualcomm", "Broadcom", "Marvell", "MediaTek", "Apple Silicon", "Google TPU", "Amazon Trainium", "Microsoft Maia", "Meta MTIA", "Tesla Dojo", "Cerebras", "Groq", "Tenstorrent", "SambaNova", "Ampere Computing", "Arm", "SiFive", "Alchip", "Global Unichip", "Socionext", "Cisco Silicon One", "Arista Networks", "Credo Technology"],
+    "Design ecosystem": ["Synopsys", "Cadence", "Siemens EDA"],
+    "Advanced packaging and OSAT": ["ASE", "Amkor", "JCET", "Powertech Technology"]
+  },
+  "topics": ["Fab announcements", "CapEx changes", "EUV roadmap", "HBM demand", "NAND / DRAM pricing", "Advanced packaging", "Foundry customer wins", "AI accelerator demand", "GPU / CPU roadmaps", "ASIC and custom silicon", "Automotive and edge silicon", "EDA / IP design starts", "OSAT / packaging capacity"],
   "queries": [
-    {
-      "customer": "TSMC",
-      "topic": "Fab announcements",
-      "query": "TSMC fab announcement 2nm ramp capacity"
-    },
-    {
-      "customer": "TSMC",
-      "topic": "EUV roadmap",
-      "query": "TSMC EUV roadmap 2nm A16"
-    },
-    {
-      "customer": "Micron Technology",
-      "topic": "Fab announcements",
-      "query": "Micron Boise fab capacity CHIPS memory"
-    },
-    {
-      "customer": "Micron Technology",
-      "topic": "NAND / DRAM pricing",
-      "query": "Micron DRAM NAND pricing outlook HBM"
-    },
-    {
-      "customer": "Samsung Electronics",
-      "topic": "NAND / DRAM pricing",
-      "query": "Samsung Electronics DRAM NAND pricing utilization"
-    },
-    {
-      "customer": "Samsung Electronics",
-      "topic": "Advanced packaging",
-      "query": "Samsung advanced packaging HBM foundry"
-    },
-    {
-      "customer": "SK hynix",
-      "topic": "HBM demand",
-      "query": "SK hynix HBM demand expansion capacity"
-    },
-    {
-      "customer": "SK hynix",
-      "topic": "CapEx changes",
-      "query": "SK hynix capex memory HBM investment"
-    },
-    {
-      "customer": "Intel",
-      "topic": "EUV roadmap",
-      "query": "Intel foundry EUV roadmap 18A 14A"
-    },
-    {
-      "customer": "Intel",
-      "topic": "Fab announcements",
-      "query": "Intel foundry fab announcement capacity"
-    }
+    {"customer":"TSMC","topic":"Fab announcements","query":"TSMC fab announcement 2nm ramp capacity Arizona Taiwan"},
+    {"customer":"TSMC","topic":"Advanced packaging","query":"TSMC CoWoS advanced packaging HBM capacity expansion"},
+    {"customer":"Samsung Foundry","topic":"Foundry customer wins","query":"Samsung Foundry customer wins 2nm GAA AI chip"},
+    {"customer":"Samsung Foundry","topic":"Advanced packaging","query":"Samsung I-Cube X-Cube advanced packaging HBM foundry"},
+    {"customer":"Intel Foundry","topic":"EUV roadmap","query":"Intel Foundry 18A 14A EUV roadmap customer"},
+    {"customer":"Intel Foundry","topic":"Advanced packaging","query":"Intel Foundry EMIB Foveros advanced packaging HBM"},
+    {"customer":"GlobalFoundries","topic":"Fab announcements","query":"GlobalFoundries fab expansion capacity automotive RF"},
+    {"customer":"UMC","topic":"CapEx changes","query":"UMC capex capacity expansion specialty foundry"},
+    {"customer":"SMIC","topic":"Fab announcements","query":"SMIC fab expansion capacity advanced node"},
+    {"customer":"Tower Semiconductor","topic":"Fab announcements","query":"Tower Semiconductor fab capacity specialty analog RF"},
+    {"customer":"PSMC","topic":"Fab announcements","query":"PSMC fab capacity memory foundry expansion"},
+    {"customer":"Vanguard International Semiconductor","topic":"Fab announcements","query":"Vanguard International Semiconductor VIS fab capacity expansion"},
+    {"customer":"Hua Hong Semiconductor","topic":"Fab announcements","query":"Hua Hong Semiconductor fab capacity expansion specialty foundry"},
+    {"customer":"Rapidus","topic":"EUV roadmap","query":"Rapidus 2nm EUV pilot line IBM foundry"},
+    {"customer":"Micron Technology","topic":"Fab announcements","query":"Micron Boise New York fab capacity CHIPS memory"},
+    {"customer":"Micron Technology","topic":"HBM demand","query":"Micron HBM demand capacity expansion AI memory"},
+    {"customer":"Samsung Electronics","topic":"NAND / DRAM pricing","query":"Samsung Electronics DRAM NAND pricing utilization HBM"},
+    {"customer":"Samsung Electronics","topic":"HBM demand","query":"Samsung Electronics HBM3E HBM4 capacity NVIDIA qualification"},
+    {"customer":"SK hynix","topic":"HBM demand","query":"SK hynix HBM demand expansion capacity AI memory"},
+    {"customer":"SK hynix","topic":"CapEx changes","query":"SK hynix capex memory investment HBM fab"},
+    {"customer":"Kioxia","topic":"NAND / DRAM pricing","query":"Kioxia NAND pricing production capacity flash memory"},
+    {"customer":"Western Digital","topic":"NAND / DRAM pricing","query":"Western Digital NAND pricing flash memory capacity Kioxia"},
+    {"customer":"Texas Instruments","topic":"Fab announcements","query":"Texas Instruments fab expansion 300mm analog capacity"},
+    {"customer":"STMicroelectronics","topic":"Automotive and edge silicon","query":"STMicroelectronics fab capacity silicon carbide automotive chips"},
+    {"customer":"Infineon","topic":"Automotive and edge silicon","query":"Infineon fab expansion power semiconductor automotive silicon carbide"},
+    {"customer":"NXP","topic":"Automotive and edge silicon","query":"NXP semiconductor automotive chips capacity foundry"},
+    {"customer":"Renesas","topic":"Automotive and edge silicon","query":"Renesas automotive semiconductor fab capacity MCU"},
+    {"customer":"NVIDIA","topic":"AI accelerator demand","query":"NVIDIA AI accelerator demand TSMC CoWoS HBM capacity"},
+    {"customer":"NVIDIA","topic":"GPU / CPU roadmaps","query":"NVIDIA GPU roadmap Blackwell Rubin TSMC CoWoS HBM"},
+    {"customer":"AMD","topic":"GPU / CPU roadmaps","query":"AMD GPU CPU roadmap MI350 MI400 TSMC advanced packaging"},
+    {"customer":"Qualcomm","topic":"ASIC and custom silicon","query":"Qualcomm Snapdragon roadmap TSMC Samsung Foundry 3nm 2nm"},
+    {"customer":"Broadcom","topic":"ASIC and custom silicon","query":"Broadcom custom AI ASIC Google TPU TSMC CoWoS HBM"},
+    {"customer":"Marvell","topic":"ASIC and custom silicon","query":"Marvell custom silicon AI ASIC TSMC advanced packaging"},
+    {"customer":"MediaTek","topic":"ASIC and custom silicon","query":"MediaTek Dimensity roadmap TSMC 3nm 2nm"},
+    {"customer":"Apple Silicon","topic":"GPU / CPU roadmaps","query":"Apple silicon M series TSMC 2nm 3nm advanced packaging"},
+    {"customer":"Google TPU","topic":"AI accelerator demand","query":"Google TPU Broadcom TSMC HBM CoWoS AI accelerator"},
+    {"customer":"Amazon Trainium","topic":"AI accelerator demand","query":"Amazon Trainium Inferentia AI chip TSMC HBM packaging"},
+    {"customer":"Microsoft Maia","topic":"AI accelerator demand","query":"Microsoft Maia AI accelerator TSMC HBM packaging"},
+    {"customer":"Meta MTIA","topic":"AI accelerator demand","query":"Meta MTIA AI accelerator TSMC HBM packaging"},
+    {"customer":"Tesla Dojo","topic":"AI accelerator demand","query":"Tesla Dojo AI chip TSMC advanced packaging"},
+    {"customer":"Cerebras","topic":"AI accelerator demand","query":"Cerebras wafer scale AI chip TSMC capacity"},
+    {"customer":"Groq","topic":"AI accelerator demand","query":"Groq AI accelerator chip foundry TSMC capacity"},
+    {"customer":"Tenstorrent","topic":"AI accelerator demand","query":"Tenstorrent AI chip foundry Samsung TSMC"},
+    {"customer":"SambaNova","topic":"AI accelerator demand","query":"SambaNova AI chip foundry TSMC packaging"},
+    {"customer":"Ampere Computing","topic":"GPU / CPU roadmaps","query":"Ampere Computing CPU roadmap foundry TSMC"},
+    {"customer":"Arm","topic":"EDA / IP design starts","query":"Arm CSS IP design wins 2nm AI chip foundry"},
+    {"customer":"SiFive","topic":"EDA / IP design starts","query":"SiFive RISC-V IP design win AI chip foundry"},
+    {"customer":"Alchip","topic":"ASIC and custom silicon","query":"Alchip custom ASIC AI TSMC CoWoS HBM"},
+    {"customer":"Global Unichip","topic":"ASIC and custom silicon","query":"Global Unichip GUC custom ASIC TSMC AI HBM"},
+    {"customer":"Socionext","topic":"ASIC and custom silicon","query":"Socionext custom SoC TSMC 3nm 2nm AI"},
+    {"customer":"Cisco Silicon One","topic":"ASIC and custom silicon","query":"Cisco Silicon One networking ASIC TSMC advanced node"},
+    {"customer":"Arista Networks","topic":"ASIC and custom silicon","query":"Arista Networks AI networking ASIC Broadcom custom silicon"},
+    {"customer":"Credo Technology","topic":"AI accelerator demand","query":"Credo Technology AI connectivity chiplet optical DSP"},
+    {"customer":"Synopsys","topic":"EDA / IP design starts","query":"Synopsys EDA AI chip design starts 2nm IP"},
+    {"customer":"Cadence","topic":"EDA / IP design starts","query":"Cadence EDA AI chip design starts 2nm IP"},
+    {"customer":"Siemens EDA","topic":"EDA / IP design starts","query":"Siemens EDA AI chip design starts semiconductor IP"},
+    {"customer":"ASE","topic":"OSAT / packaging capacity","query":"ASE advanced packaging capacity AI HBM chiplet"},
+    {"customer":"Amkor","topic":"OSAT / packaging capacity","query":"Amkor advanced packaging capacity AI HBM chiplet"},
+    {"customer":"JCET","topic":"OSAT / packaging capacity","query":"JCET advanced packaging capacity AI chiplet"},
+    {"customer":"Powertech Technology","topic":"OSAT / packaging capacity","query":"Powertech Technology packaging capacity HBM memory"}
   ]
 }
