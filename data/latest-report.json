@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T16:02:41.916163+00:00",
+  "generated_at": "2026-05-26T16:52:10.823525+00:00",
   "customers": [
     "TSMC",
     "Samsung Foundry",
@@ -210,6 +210,16 @@
     },
     {
       "customer": "SK hynix",
+      "topic": "CapEx changes",
+      "title": "SK Hynix reportedly shifts Cheongju mask fab toward HBM yield push - digitimes",
+      "summary": "digitimes reports that SK Hynix reportedly shifts Cheongju mask fab toward HBM yield push. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
+      "impact_score": 89,
+      "date": "2026-05-21",
+      "source": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT2ZxMkZYYk9abmNGbWJHeG1uUmQxazdPaXpOdjQ0NzNXU1BEOG1CTC1RYm43UEFDTjVGYk81T2hvLVdYUmk1TDl1ZWJVaURyWXp5NUxMNkdhMFlfaGtfOG5PXy0wa2dQSVVNWG9iSFlEektjOXBuQ1VXZjRXLXV5dl91Z1VnMmxJUEpJ?oc=5"
+    },
+    {
+      "customer": "SK hynix",
       "topic": "HBM demand",
       "title": "Samsung and SK Hynix rush to expand capacity as AI memory demand soars - digitimes",
       "summary": "digitimes reports that Samsung and SK Hynix rush to expand capacity as AI memory demand soars. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
@@ -217,16 +227,6 @@
       "date": "2026-05-14",
       "source": "digitimes",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU29RU2plQmstaVRpWllnXzVrTF9PbG9FQzg1OUU4aFl3RVhJRndMU0k4YnFic1YzYUt5VnlJY0o1NkRDbEhDQlBuUmlnTHU1dHRuRTZWT3BMcHhFVzNqVnRZWVlIN0k0RHpoVF9kUWRoT2JrYXh1WWFxMmppdEVUbUdXRHZaa2VwRTIzUHgyNnI2Ry1jTWVv?oc=5"
-    },
-    {
-      "customer": "TSMC",
-      "topic": "Advanced packaging",
-      "title": "TSMC CoWoS shortage drives SK Hynix-Intel 2.5D push - digitimes",
-      "summary": "digitimes reports that TSMC CoWoS shortage drives SK Hynix-Intel 2.5D push. TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.",
-      "impact_score": 79,
-      "date": "2026-05-12",
-      "source": "digitimes",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGlhbE16ZWtnd3Y4YThuV0ZMMXBPVmlwaHBkRmhDQW42MldHQkVmRTg0Q2Nzb3RCWmY0SFNJdFBlRlVxUHJhM2F2cGFHYnp1RFRJR0F2MkNVUXZNVW1rZU1Sc0pJRFdPbm43WHN4enA1NTVyNUNZdTgtZTdaYUFuT20xdXRQOGl3R0Itb0pKTQ?oc=5"
     },
     {
       "customer": "Cerebras",
@@ -261,12 +261,12 @@
     {
       "customer": "Intel Foundry",
       "topic": "Advanced packaging",
-      "title": "Intel's AI Narrative Has Changed - But the Economics Haven't - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-      "summary": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter reports that Intel's AI Narrative Has Changed - But the Economics Haven't. Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "title": "[News] Intel Reportedly Eyes World's First Glass Substrate Output at Rio Rancho; Offers Silicon Photonics to Customers - TrendForce",
+      "summary": "TrendForce reports that [News] Intel Reportedly Eyes World's First Glass Substrate Output at Rio Rancho; Offers Silicon Photonics to Customers. Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.",
       "impact_score": 75,
-      "date": "2026-05-20",
-      "source": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT3lZSjNvYzdmMjEzTU1BaDdGbkRlQWdycUZ2TTFCQk5ZODA0ajQ3V0hDUDF5YkVWb2R0OEhVRkpJN2tfZ29ndVhsYm1DN1pqUUlPUWlNS0locFNyXzdtanJuY2Jld2EwX1hwV2Q4VlMwVjhodVdlQ01sTXp1RjFLRG5ydw?oc=5"
+      "date": "2026-05-26",
+      "source": "TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRGZjaE9ycjZMNHRJanFQTkpBbzVRM1pkRGl5UlhJTTdNZE1pS3EtUFMxQ2FHYnZyRTVhNVFmYUxDSDRVTmpvTHNKZ2tGM1A0cTViak1HYVBBOTZSeURHbnp1V2VKamowQmNTZ3Q5UVl4NDRJbDVsb3h1OVBLd2xzWktmQ2FTNWFGT2RlTEhRZksyOXZhT1NhSFMyYWtTa2FlbFB0cDNIaFc0eVBWaTYxSVQxYlRORWFST05TMV9zWkI0bTQ0NEpQeEZxa3h1alJYQTNybk03NzNZaVNSZE5Dc3dsR2ZsWXdMMVRfZ1EzOA?oc=5"
     },
     {
       "customer": "Kioxia",
@@ -309,24 +309,24 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mam1fX1pZMHBHTEN5VmNUZWozZHhiNW93Sk5kZjdEQVFLdmQtQXJOWDlUY1BaNGNtNmR4UnNxM0E3RHEzeFNDVmN0T0hiYXpOTWo1ZEFIeFRWeDJfeUpJcjJYSlJiaERSRW5hMFpxU01OMlNLd3gzbw?oc=5"
     },
     {
-      "customer": "Cerebras",
-      "topic": "AI accelerator demand",
-      "title": "Cerebras risked it all on dinner plate-sized AI accelerators a decade ago. Today it's worth $66B - The Register",
-      "summary": "The Register reports that Cerebras risked it all on dinner plate-sized AI accelerators a decade ago. Today it's worth $66B. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
-      "impact_score": 68,
-      "date": "2026-05-14",
-      "source": "The Register",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBmalZ4Tkl5ejFlQ1l0c1hkNDdJV0owc0NmUUlJMkl3TThEYTdoNDUwUFBRbGF4ZlRST2ZNbU9QYUdlektlRk5JbVZmeDNzOVM5cUxSdTF2c2Z4cEt5WlZDdWlzUHhOMi0yaFMwSnA4ZE50eG43TndudWdsZGV1ZGRuOTFNQkFoMlgxamhkYWpIdHBMYVhqV1RGU3k5dUtqMlNMcHBQNlA?oc=5"
-    },
-    {
       "customer": "Credo Technology",
       "topic": "AI accelerator demand",
-      "title": "Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations",
-      "summary": "Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
+      "title": "Credo and Rebellions Bring Turnkey, Scalable AI Infrastructure - Credo Technology Group Holding Ltd - Investor Relations",
+      "summary": "Credo Technology Group Holding Ltd - Investor Relations reports that Credo and Rebellions Bring Turnkey, Scalable AI Infrastructure. Credo Technology: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
       "impact_score": 68,
       "date": "2026-05-22",
       "source": "Credo Technology Group Holding Ltd - Investor Relations",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNW9ockR0ek1HT2ZDMlBYVFloaFJyR1pwb012M2FfeTZmd29jbnRxT25YWm5oRTVXWjBtdS1HM2FoR2lxbVlVdW1keWE3U09OMk9v?oc=5"
+    },
+    {
+      "customer": "ASE",
+      "topic": "OSAT / packaging capacity",
+      "title": "Inside ASE's giant chip panels built to power next-wave AI data centers - Stock Titan",
+      "summary": "Stock Titan reports that Inside ASE's giant chip panels built to power next-wave AI data centers. ASE: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "impact_score": 68,
+      "date": "2026-05-26",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVN5dkkwejk1REJqTzEySThCajVvb0I3TkdDRnJLNU9acmtLWGZsZ2x0VmtCbEVYcS1ra1FJY196MTVfMlF0Y2VldEVjRHFVRU84dE1vZTRvUW5JUm5NYTlHemRyVkE3RGFTcmNqdGFEdWd5X080UUJ3Y2NzUkdVbnBneDEzanc5X2syYndwRS1ZVFl3cC0wdDRPMmlTNHV6eFdXQ21lbDBUOGczZkRmeEczcldaRUxYTTM0N3d3?oc=5"
     },
     {
       "customer": "ASE",
@@ -366,7 +366,7 @@
       "impact_score": 66,
       "date": "2026-05-19",
       "source": "AASTOCKS.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFVJVFhHXzdSc2VVc3R3VFNoUlBzYXI4dGVxc2NZZTBpaDRwcnktYmNhSkh6VVhzMFRKMGxYbzRVNmJkTTRITFg0aldoTkIza3Bha1ZHV0VuZVZmd3VscW5KbHRWUHlPM2VfRC02TzVlT1pCNkxCSk1HYTJtSzlRZDZHbjlrNXdmNUN1a2VsVWNzNlhO?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjBMRjk2Q2JoMHA3MTdSalNCTExlTWdIWDRJbkc0ZmVjTlowVHVRY1Y5WVpIVnJxMWp0T0VtZUJqdmFrQnNybl9xN292MHJuOUhkREZzSkFCem1aTWtYM1k0NEZjUFFLaEEwLWFWUGU1MVUydTdCQUMwMUIzelpCM2tvd2ZHdw?oc=5"
     },
     {
       "customer": "SMIC",
@@ -481,12 +481,12 @@
     {
       "customer": "Infineon",
       "topic": "Automotive and edge silicon",
-      "title": "Infineon Earnings Call Highlights AI and Power Growth - TipRanks",
-      "summary": "TipRanks reports that Infineon Earnings Call Highlights AI and Power Growth. Infineon: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
+      "title": "Earnings call transcript: Infineon Technologies misses Q2 2026 EPS forecast By Investing.com - Investing.com India",
+      "summary": "Investing.com India reports that Earnings call transcript: Infineon Technologies misses Q2 2026 EPS forecast By Investing.com. Infineon: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
       "impact_score": 59,
-      "date": "2026-05-20",
-      "source": "TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejNrek1xMXpUWVlnM0ZBRzJzOGtlZFNTNDd4SHVZRWJOa3R6clkzZEpyaVBTbkdPZHNNdmtSUGpDcy1JNzB3N0NBREZFTnh5VmFHZzFaYjd4cFpiRzZKVEdWUm1ZZ04wVHhwRC00cW0xZkVKZW5ZYkFKeXctMGlnQ3Q0TE1sNXpRRkNhbldHTUQ1YlMxUjRIME5HaDdkdnotVC1GNTcwLWE?oc=5"
+      "date": "2026-05-12",
+      "source": "Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWU2ZmF2MFc4MTQ1cTFOWXhRV0E0NExxOTgxQW9sQmVEZnEtdm1hY1MzQVd4NHRaTXozTUpobzctejdXUEhPVndfbzhEbmFtaGg5ODMxWlVLM2NlcjRJMFJzSm1lVmdlOFQyM2tWN0NVSmxzWDZRdlV5eVlJOGtGUXZlVEM1ZUVySHJIRjE5bWRoTUE2bUkwR2RnMmFoUDF4eC12LWdhdUVKNi11VXRMVG1TbE5qRWRPVjN6R0NyeUpLTTV6dUl0Y1VmaU9lcWVC?oc=5"
     },
     {
       "customer": "Synopsys",
@@ -517,6 +517,26 @@
       "date": "2026-05-18",
       "source": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGJSN0d6Ni1zcjhTSUR5RXN2ZlhXQkpRQlY0dUIwRzMxalN2ODdZdXVlRzR0S0tqUW9RaTdCTkxfTVZqZ2tvTWhCbXJ2cWJHR0tqTEtkdDI4OFIzQjVNTFNhMG1BT3lSTHh2R0hWcS1ORktnTEhkZ3JFNlM4WDJxajBDV1p4S2hYenBtQWFtM2xxRXVrd29McHVzVmxKNzRhdHhkNlRrbGNiQ3BXdFJxT21NcmFaLU16WHhqTlh5b25uUQ?oc=5"
+    },
+    {
+      "customer": "Infineon",
+      "topic": "Automotive and edge silicon",
+      "title": "Infineon Earnings Call Highlights AI and Power Growth - The Globe and Mail",
+      "summary": "The Globe and Mail reports that Infineon Earnings Call Highlights AI and Power Growth. Infineon: automotive and power-semiconductor demand can influence specialty fab loading and mature-node etch utilization.",
+      "impact_score": 55,
+      "date": "2026-05-21",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmllb2lDUTgzVGpYUmN2WGtNcHUwSkx2ZUJiWUNVU2RfYlc1cGwxd1dzYms2TWh4bEtNcDYzeUZWT2NOUzZ2Y0FqYVY0NExIZWE2MTFLdUZXR2RGZUxoeklRUG1GNTEtRmV6OWNydmFheUV3X0xsQmkxQ1V0VkpreXM1ZGstZ0g5Y1RLOEkxb3FsNmMxYUVfbXlNTl9NSmx2MURMb1QzRE1QSDdPYzNyMkV3ZGI4NzRhSHl4N1NZZW10bk9oMVRkMWZxem1ZdTlESzdGNC1n?oc=5"
+    },
+    {
+      "customer": "NXP",
+      "topic": "Automotive and edge silicon",
+      "title": "NXP Semiconductors stock (NL0009538779): strong Q1 2026 and automotive AI tailwind draw investor att - AD HOC NEWS",
+      "summary": "AD HOC NEWS reports that NXP Semiconductors stock (NL0009538779): strong Q1 2026 and automotive AI tailwind draw investor att. NXP: automotive and power-semiconductor demand can influence specialty fab loading and mature-node etch utilization.",
+      "impact_score": 55,
+      "date": "2026-05-20",
+      "source": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFFGM2s2eUxiZHFNOE40S05hektVazRCRElCNXBBdGxiMGdERUJJcHJzb2NaUHRMa2VvQU04VjkwRzdUZ1pNcnVFVzB4WUROVE5WZ2Z5UFdwS1RFbDI3TTdwRnlaRG94TlZtY1IxdUxZWmpVeEVYTTFMd0twU0pjLXVYNkpZOWNxNUpwWm45NVU2NkNzTTFvT0tUQUpwSS01X1hSNndqekNrWWJuMmZCVFpmclJpNkNzYmMyV2t2MHEtRHdxUE9reg?oc=5"
     },
     {
       "customer": "NVIDIA",

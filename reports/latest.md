@@ -1,6 +1,6 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-05-25T16:02:41.916163+00:00
+Generated: 2026-05-26T16:52:10.823525+00:00
 
 Tracked entities: 53
 
@@ -63,6 +63,16 @@ timing matters.
 
 Source: digitimes | Date: 2026-05-19
 
+### 89 - SK hynix - CapEx changes
+
+[SK Hynix reportedly shifts Cheongju mask fab toward HBM yield push - digitimes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT2ZxMkZYYk9abmNGbWJHeG1uUmQxazdPaXpOdjQ0NzNXU1BEOG1CTC1RYm43UEFDTjVGYk81T2hvLVdYUmk1TDl1ZWJVaURyWXp5NUxMNkdhMFlfaGtfOG5PXy0wa2dQSVVNWG9iSFlEektjOXBuQ1VXZjRXLXV5dl91Z1VnMmxJUEpJ?oc=5)
+
+digitimes reports that SK Hynix reportedly shifts Cheongju mask fab toward HBM yield push. SK
+hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting
+conductor etch relevance.
+
+Source: digitimes | Date: 2026-05-21
+
 ### 83 - SK hynix - HBM demand
 
 [Samsung and SK Hynix rush to expand capacity as AI memory demand soars - digitimes](https://news.google.com/rss/articles/CBMilwFBVV95cUxPU29RU2plQmstaVRpWllnXzVrTF9PbG9FQzg1OUU4aFl3RVhJRndMU0k4YnFic1YzYUt5VnlJY0o1NkRDbEhDQlBuUmlnTHU1dHRuRTZWT3BMcHhFVzNqVnRZWVlIN0k0RHpoVF9kUWRoT2JrYXh1WWFxMmppdEVUbUdXRHZaa2VwRTIzUHgyNnI2Ry1jTWVv?oc=5)
@@ -72,15 +82,6 @@ SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity for
 conductor etch relevance.
 
 Source: digitimes | Date: 2026-05-14
-
-### 79 - TSMC - Advanced packaging
-
-[TSMC CoWoS shortage drives SK Hynix-Intel 2.5D push - digitimes](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGlhbE16ZWtnd3Y4YThuV0ZMMXBPVmlwaHBkRmhDQW42MldHQkVmRTg0Q2Nzb3RCWmY0SFNJdFBlRlVxUHJhM2F2cGFHYnp1RFRJR0F2MkNVUXZNVW1rZU1Sc0pJRFdPbm43WHN4enA1NTVyNUNZdTgtZTdaYUFuT20xdXRQOGl3R0Itb0pKTQ?oc=5)
-
-digitimes reports that TSMC CoWoS shortage drives SK Hynix-Intel 2.5D push. TSMC: advanced
-packaging expansion can reshape adjacent process demand and customer priority.
-
-Source: digitimes | Date: 2026-05-12
 
 ### 78 - Cerebras - AI accelerator demand
 
@@ -113,13 +114,13 @@ Source: Forbes | Date: 2026-05-21
 
 ### 75 - Intel Foundry - Advanced packaging
 
-[Intel's AI Narrative Has Changed - But the Economics Haven't - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter](https://news.google.com/rss/articles/CBMigwFBVV95cUxPT3lZSjNvYzdmMjEzTU1BaDdGbkRlQWdycUZ2TTFCQk5ZODA0ajQ3V0hDUDF5YkVWb2R0OEhVRkpJN2tfZ29ndVhsYm1DN1pqUUlPUWlNS0locFNyXzdtanJuY2Jld2EwX1hwV2Q4VlMwVjhodVdlQ01sTXp1RjFLRG5ydw?oc=5)
+[[News] Intel Reportedly Eyes World's First Glass Substrate Output at Rio Rancho; Offers Silicon Photonics to Customers - TrendForce](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRGZjaE9ycjZMNHRJanFQTkpBbzVRM1pkRGl5UlhJTTdNZE1pS3EtUFMxQ2FHYnZyRTVhNVFmYUxDSDRVTmpvTHNKZ2tGM1A0cTViak1HYVBBOTZSeURHbnp1V2VKamowQmNTZ3Q5UVl4NDRJbDVsb3h1OVBLd2xzWktmQ2FTNWFGT2RlTEhRZksyOXZhT1NhSFMyYWtTa2FlbFB0cDNIaFc0eVBWaTYxSVQxYlRORWFST05TMV9zWkI0bTQ0NEpQeEZxa3h1alJYQTNybk03NzNZaVNSZE5Dc3dsR2ZsWXdMMVRfZ1EzOA?oc=5)
 
-Dr. Robert Castellano's Semiconductor Deep Dive Newsletter reports that Intel's AI Narrative Has
-Changed - But the Economics Haven't. Intel Foundry: advanced packaging expansion can reshape
-adjacent process demand and customer priority.
+TrendForce reports that [News] Intel Reportedly Eyes World's First Glass Substrate Output at Rio
+Rancho; Offers Silicon Photonics to Customers. Intel Foundry: advanced packaging expansion can
+reshape adjacent process demand and customer priority.
 
-Source: Dr. Robert Castellano's Semiconductor Deep Dive Newsletter | Date: 2026-05-20
+Source: TrendForce | Date: 2026-05-26
 
 ### 73 - Kioxia - NAND / DRAM pricing
 
@@ -160,25 +161,25 @@ packaging expansion can reshape adjacent process demand and customer priority.
 
 Source: Taipei Times | Date: 2026-05-15
 
-### 68 - Cerebras - AI accelerator demand
-
-[Cerebras risked it all on dinner plate-sized AI accelerators a decade ago. Today it's worth $66B - The Register](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBmalZ4Tkl5ejFlQ1l0c1hkNDdJV0owc0NmUUlJMkl3TThEYTdoNDUwUFBRbGF4ZlRST2ZNbU9QYUdlektlRk5JbVZmeDNzOVM5cUxSdTF2c2Z4cEt5WlZDdWlzUHhOMi0yaFMwSnA4ZE50eG43TndudWdsZGV1ZGRuOTFNQkFoMlgxamhkYWpIdHBMYVhqV1RGU3k5dUtqMlNMcHBQNlA?oc=5)
-
-The Register reports that Cerebras risked it all on dinner plate-sized AI accelerators a decade
-ago. Today it's worth $66B. Cerebras: AI accelerator momentum is a leading indicator for
-CoWoS/HBM constraints and etch-intensive foundry demand.
-
-Source: The Register | Date: 2026-05-14
-
 ### 68 - Credo Technology - AI accelerator demand
 
-[Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5)
+[Credo and Rebellions Bring Turnkey, Scalable AI Infrastructure - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNW9ockR0ek1HT2ZDMlBYVFloaFJyR1pwb012M2FfeTZmd29jbnRxT25YWm5oRTVXWjBtdS1HM2FoR2lxbVlVdW1keWE3U09OMk9v?oc=5)
 
-Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group
-Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading
+Credo Technology Group Holding Ltd - Investor Relations reports that Credo and Rebellions Bring
+Turnkey, Scalable AI Infrastructure. Credo Technology: AI accelerator momentum is a leading
 indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
 
 Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-05-22
+
+### 68 - ASE - OSAT / packaging capacity
+
+[Inside ASE's giant chip panels built to power next-wave AI data centers - Stock Titan](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVN5dkkwejk1REJqTzEySThCajVvb0I3TkdDRnJLNU9acmtLWGZsZ2x0VmtCbEVYcS1ra1FJY196MTVfMlF0Y2VldEVjRHFVRU84dE1vZTRvUW5JUm5NYTlHemRyVkE3RGFTcmNqdGFEdWd5X080UUJ3Y2NzUkdVbnBneDEzanc5X2syYndwRS1ZVFl3cC0wdDRPMmlTNHV6eFdXQ21lbDBUOGczZkRmeEczcldaRUxYTTM0N3d3?oc=5)
+
+Stock Titan reports that Inside ASE's giant chip panels built to power next-wave AI data
+centers. ASE: advanced packaging expansion can reshape adjacent process demand and customer
+priority.
+
+Source: Stock Titan | Date: 2026-05-26
 
 ### 68 - ASE - OSAT / packaging capacity
 
@@ -211,7 +212,7 @@ Source: digitimes | Date: 2026-05-22
 
 ### 66 - SMIC - Fab announcements
 
-[M Stanley: Upcycle in Mature-node Process Approaching; Raises TP on SMIC (00981.HK) and HUA HONG SEMI (01347.HK), Adjusts EPS Forecasts - AASTOCKS.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFVJVFhHXzdSc2VVc3R3VFNoUlBzYXI4dGVxc2NZZTBpaDRwcnktYmNhSkh6VVhzMFRKMGxYbzRVNmJkTTRITFg0aldoTkIza3Bha1ZHV0VuZVZmd3VscW5KbHRWUHlPM2VfRC02TzVlT1pCNkxCSk1HYTJtSzlRZDZHbjlrNXdmNUN1a2VsVWNzNlhO?oc=5)
+[M Stanley: Upcycle in Mature-node Process Approaching; Raises TP on SMIC (00981.HK) and HUA HONG SEMI (01347.HK), Adjusts EPS Forecasts - AASTOCKS.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxObjBMRjk2Q2JoMHA3MTdSalNCTExlTWdIWDRJbkc0ZmVjTlowVHVRY1Y5WVpIVnJxMWp0T0VtZUJqdmFrQnNybl9xN292MHJuOUhkREZzSkFCem1aTWtYM1k0NEZjUFFLaEEwLWFWUGU1MVUydTdCQUMwMUIzelpCM2tvd2ZHdw?oc=5)
 
 AASTOCKS.com reports that M Stanley: Upcycle in Mature-node Process Approaching; Raises TP on
 SMIC (00981.HK) and HUA HONG SEMI (01347.HK), Adjusts EPS Forecasts. SMIC: fab and capacity
@@ -329,12 +330,13 @@ Source: AD HOC NEWS | Date: 2026-05-20
 
 ### 59 - Infineon - Automotive and edge silicon
 
-[Infineon Earnings Call Highlights AI and Power Growth - TipRanks](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejNrek1xMXpUWVlnM0ZBRzJzOGtlZFNTNDd4SHVZRWJOa3R6clkzZEpyaVBTbkdPZHNNdmtSUGpDcy1JNzB3N0NBREZFTnh5VmFHZzFaYjd4cFpiRzZKVEdWUm1ZZ04wVHhwRC00cW0xZkVKZW5ZYkFKeXctMGlnQ3Q0TE1sNXpRRkNhbldHTUQ1YlMxUjRIME5HaDdkdnotVC1GNTcwLWE?oc=5)
+[Earnings call transcript: Infineon Technologies misses Q2 2026 EPS forecast By Investing.com - Investing.com India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWU2ZmF2MFc4MTQ1cTFOWXhRV0E0NExxOTgxQW9sQmVEZnEtdm1hY1MzQVd4NHRaTXozTUpobzctejdXUEhPVndfbzhEbmFtaGg5ODMxWlVLM2NlcjRJMFJzSm1lVmdlOFQyM2tWN0NVSmxzWDZRdlV5eVlJOGtGUXZlVEM1ZUVySHJIRjE5bWRoTUE2bUkwR2RnMmFoUDF4eC12LWdhdUVKNi11VXRMVG1TbE5qRWRPVjN6R0NyeUpLTTV6dUl0Y1VmaU9lcWVC?oc=5)
 
-TipRanks reports that Infineon Earnings Call Highlights AI and Power Growth. Infineon: EDA/IP
-activity is an upstream signal for design starts that can become future foundry and etch demand.
+Investing.com India reports that Earnings call transcript: Infineon Technologies misses Q2 2026
+EPS forecast By Investing.com. Infineon: EDA/IP activity is an upstream signal for design starts
+that can become future foundry and etch demand.
 
-Source: TipRanks | Date: 2026-05-20
+Source: Investing.com India | Date: 2026-05-12
 
 ### 58 - Synopsys - EDA / IP design starts
 
@@ -365,6 +367,26 @@ pullback put guidance in focus. STMicroelectronics: automotive and power-semicon
 can influence specialty fab loading and mature-node etch utilization.
 
 Source: AD HOC NEWS | Date: 2026-05-18
+
+### 55 - Infineon - Automotive and edge silicon
+
+[Infineon Earnings Call Highlights AI and Power Growth - The Globe and Mail](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmllb2lDUTgzVGpYUmN2WGtNcHUwSkx2ZUJiWUNVU2RfYlc1cGwxd1dzYms2TWh4bEtNcDYzeUZWT2NOUzZ2Y0FqYVY0NExIZWE2MTFLdUZXR2RGZUxoeklRUG1GNTEtRmV6OWNydmFheUV3X0xsQmkxQ1V0VkpreXM1ZGstZ0g5Y1RLOEkxb3FsNmMxYUVfbXlNTl9NSmx2MURMb1QzRE1QSDdPYzNyMkV3ZGI4NzRhSHl4N1NZZW10bk9oMVRkMWZxem1ZdTlESzdGNC1n?oc=5)
+
+The Globe and Mail reports that Infineon Earnings Call Highlights AI and Power Growth. Infineon:
+automotive and power-semiconductor demand can influence specialty fab loading and mature-node
+etch utilization.
+
+Source: The Globe and Mail | Date: 2026-05-21
+
+### 55 - NXP - Automotive and edge silicon
+
+[NXP Semiconductors stock (NL0009538779): strong Q1 2026 and automotive AI tailwind draw investor att - AD HOC NEWS](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFFGM2s2eUxiZHFNOE40S05hektVazRCRElCNXBBdGxiMGdERUJJcHJzb2NaUHRMa2VvQU04VjkwRzdUZ1pNcnVFVzB4WUROVE5WZ2Z5UFdwS1RFbDI3TTdwRnlaRG94TlZtY1IxdUxZWmpVeEVYTTFMd0twU0pjLXVYNkpZOWNxNUpwWm45NVU2NkNzTTFvT0tUQUpwSS01X1hSNndqekNrWWJuMmZCVFpmclJpNkNzYmMyV2t2MHEtRHdxUE9reg?oc=5)
+
+AD HOC NEWS reports that NXP Semiconductors stock (NL0009538779): strong Q1 2026 and automotive
+AI tailwind draw investor att. NXP: automotive and power-semiconductor demand can influence
+specialty fab loading and mature-node etch utilization.
+
+Source: AD HOC NEWS | Date: 2026-05-20
 
 ### 54 - NVIDIA - GPU / CPU roadmaps
 
