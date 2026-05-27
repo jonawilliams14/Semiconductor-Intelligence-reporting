@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T16:52:10.823525+00:00",
+  "generated_at": "2026-05-27T16:50:06.437971+00:00",
   "customers": [
     "TSMC",
     "Samsung Foundry",
@@ -137,14 +137,6 @@
   ],
   "brief": [
     {
-      "headline": "Intel 14A Node Enters Risk Production in 2028, 10A and 7A Nodes on the Roadmap - TechPowerUp",
-      "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
-    },
-    {
-      "headline": "Intel's 14A node will enter risk production in 2028, while 10A and 7A nodes are on the roadmap - TweakTown",
-      "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
-    },
-    {
       "headline": "AMD Announces Production Ramp of Next-Generation AMD EPYC Processor \"Venice\" on TSMC 2nm Process Technology - AMD",
       "implication": "TSMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
     },
@@ -155,29 +147,17 @@
     {
       "headline": "Intel's foundry turnaround under analyst lens as Tan touts 18A momentum - digitimes",
       "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
+    },
+    {
+      "headline": "SK Hynix reportedly shifts Cheongju mask fab toward HBM yield push - digitimes",
+      "implication": "SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance."
+    },
+    {
+      "headline": "Samsung and SK Hynix rush to expand capacity as AI memory demand soars - digitimes",
+      "implication": "SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance."
     }
   ],
   "signals": [
-    {
-      "customer": "Intel Foundry",
-      "topic": "EUV roadmap",
-      "title": "Intel 14A Node Enters Risk Production in 2028, 10A and 7A Nodes on the Roadmap - TechPowerUp",
-      "summary": "TechPowerUp reports that Intel 14A Node Enters Risk Production in 2028, 10A and 7A Nodes on the Roadmap. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 94,
-      "date": "2026-05-21",
-      "source": "TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGZ3Y2d3MlRZRk42VG1xM1dwVHBzTUtEME0xaHlPRURqYVVETTdSRk4wQWNQcllodUZRZklLU0FHN1pRUXJPWGMzczhhTVZJeFFqbkloRWU2anJoYllSOUJCQm1TZEY5aFRiQVVzVWZEaHgzalVWZWRfQUE1S0k4dGFvMG9xM1NyZ19qWjA1TV9qWElxWlJOS3lJbUJQdVhrdEx3dkx1ZkZXUWs4MEhMNEhR0gG3AUFVX3lxTFA3U051ZHRIUXo5ZzNfeUVweDdsaG5JU1JEQWtGZEhHZTByS3UzT3NZR2tLSkNrZlV5NDhWOGMwUkNuOWtmalJzWWJlS01zd3MzS2IzcERBMEtvdlpzdXlYeHZXNFByMFVUeDl0Z2ltdENScnE5NFVLQXFBdHplVThSMXJCRy1rcE5DZnpMbVRSQ1FKNGIzY21uQjFLallhblA4aTRuV1hIdTZIcW1LZV84Z3BiaVdYbw?oc=5"
-    },
-    {
-      "customer": "Intel Foundry",
-      "topic": "EUV roadmap",
-      "title": "Intel's 14A node will enter risk production in 2028, while 10A and 7A nodes are on the roadmap - TweakTown",
-      "summary": "TweakTown reports that Intel's 14A node will enter risk production in 2028, while 10A and 7A nodes are on the roadmap. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 94,
-      "date": "2026-05-23",
-      "source": "TweakTown",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY091Rk9lZ0FmbjhHLVFKbUthOGo0NEVoamVnUWdiVVd2ME9QN3BSZGs1a0JteGhiR2JXLU44ZWhnblV1OGgtQnV5WmVvNmh4dlhoU2JaM2JINkFKRU91Q2c2V1czY0JKQTRsXzZTYVJHLUoxbEV3cnVpcENVMnhObE9feDVVbjlJTm1QOFlBVmFiaHg5bjBfTDBKTVNaZXV0QjlpSS1RdUE3VW5VeXg1MzRieW9ic1E3TDBEQ1RjZUlzbDRpMlg5RDd0Z3hhMG1iZzcxajQ5cUw?oc=5"
-    },
     {
       "customer": "TSMC",
       "topic": "Fab announcements",
@@ -239,14 +219,34 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanpMQlJSek0tMlhyckszcUJWR3hRVllWd2lXUENPb1ZGRXV6TWw2ZS0yblZUcFJoT1RNelUzU2JickdUOU1HVmJobllpallJUzlIRE5oeHlrNWVrX3p1bTVadE9rVW5TOHRnekZjUnl4WHdac3RwRlJOeFdkaUlpcmRxSVJjQnROandWYmZRUVg2U3RBekZSR2N0QVRudw?oc=5"
     },
     {
-      "customer": "Kioxia",
-      "topic": "NAND / DRAM pricing",
-      "title": "MLC NAND prices have tripled as Samsung shuts its last 2D NAND line and Kioxia plans a full exit by 2029 - TweakTown",
-      "summary": "TweakTown reports that MLC NAND prices have tripled as Samsung shuts its last 2D NAND line and Kioxia plans a full exit by 2029. Kioxia: memory price and utilization momentum help estimate when deferred etch demand may return.",
+      "customer": "SK hynix",
+      "topic": "HBM demand",
+      "title": "Micron and SK Hynix hit $1tn valuation on AI chip boom - MSN",
+      "summary": "MSN reports that Micron and SK Hynix hit $1tn valuation on AI chip boom. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
       "impact_score": 77,
-      "date": "2026-05-13",
-      "source": "TweakTown",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa2hzWWpPRncxaU5JR3hZbF8waXQyLVhHUXluejhDNzdoZVpuc1NpY2wyMDFoWjZjckhSM2RNOVhEOHZaYktRZ3R0bFVfbG5EMlVTOFFiX0JHSlZ5bmNacGtxVDlkMVBWN2EwMHUzSmZWUG14Yks3b2Y2TlFBLUpRYkdXNDU2eWM4YmFyOTBwOXZSLXM1ZFFtVE5INzNHYUwzcVM3VHJUVXhhdmN6TTdvLXByVXFVYTVMcWptWTNnbkZFNFh2SWZlb1NyeHJwUUxZQVM3cnRBVkdQVDA0Z042em1Sck1qSjJX?oc=5"
+      "date": "2026-05-26",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMkFMSW9nR1lYUDJmcUhmVURDV0xVYUVibVVnRXlYTnpvRjk1TWI3VDIzMkFsVS1oSXNKQmhncVlXbXdkWlY5VFE5YkVTYV9EZGRld0xhd3U2Q1A2amNPSmhlYUY0el84VkN3U2VFSm5Mai1UTFUwZEtiZktJSU1vODhzbjJKbWdWSmthUm9TRHJRRFlVV203UWJYRGVBU21XOUJnSnBkYmszLXROVFVNblZqbGdveFFYSGlwc1RWU3p3RTVSSnlfSHRTdVYtbWx5MExBWkZFZ204Q3c?oc=5"
+    },
+    {
+      "customer": "SK hynix",
+      "topic": "HBM demand",
+      "title": "SK Hynix stock rises 5.72% as chip memory demand strengthens - eciks.org",
+      "summary": "eciks.org reports that SK Hynix stock rises 5.72% as chip memory demand strengthens. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
+      "impact_score": 77,
+      "date": "2026-05-27",
+      "source": "eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTJfSXlBeVF2VE9VZG10WE5PNnBjRndULS1mT2lMMnNfNkRIQy1QbFhnTC1vLW5jbTUyeEQ0WUFMWVNIUDB1WFRsQXJvNXItcUJZSTVxZGNfbEtWTXFrMW5fS2ZYUVBmdFZFZXhkN1ZFZUZNbjh3b05vaDF6V1N1cTlrc1FCM3Budjg2MS1TYkJSQQ?oc=5"
+    },
+    {
+      "customer": "Texas Instruments",
+      "topic": "Fab announcements",
+      "title": "Texas Instruments (TXN): On A Tear As The Market Realizes The Potential Of 300mm Capacity - Seeking Alpha",
+      "summary": "Seeking Alpha reports that Texas Instruments (TXN): On A Tear As The Market Realizes The Potential Of 300mm Capacity. Texas Instruments: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
+      "impact_score": 76,
+      "date": "2026-05-27",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3lsdE1CbHplOVhuNmRkTFBMQ2o0OXlJeFlxTGs1SDk1dDdrTnlPLUNpSmtGYzlSLVVWSTBRbGg3N1VzY0pMRUQzWVVQRk9UVGlPMW05ZzhwRnNSYzRNQ2lYY0VFLW5hTmRiNVI2ZGhSeDlfNTl6cU95ZUh6QW42YkJibFppMU01WFJPLWxiaXF1N3dpU1VVSi1kVWd5WUV5YTFPUkFlcFc?oc=5"
     },
     {
       "customer": "Intel Foundry",
@@ -269,6 +269,16 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRGZjaE9ycjZMNHRJanFQTkpBbzVRM1pkRGl5UlhJTTdNZE1pS3EtUFMxQ2FHYnZyRTVhNVFmYUxDSDRVTmpvTHNKZ2tGM1A0cTViak1HYVBBOTZSeURHbnp1V2VKamowQmNTZ3Q5UVl4NDRJbDVsb3h1OVBLd2xzWktmQ2FTNWFGT2RlTEhRZksyOXZhT1NhSFMyYWtTa2FlbFB0cDNIaFc0eVBWaTYxSVQxYlRORWFST05TMV9zWkI0bTQ0NEpQeEZxa3h1alJYQTNybk03NzNZaVNSZE5Dc3dsR2ZsWXdMMVRfZ1EzOA?oc=5"
     },
     {
+      "customer": "Micron Technology",
+      "topic": "HBM demand",
+      "title": "Micron Technology rides the AI memory supercycle, but Reuters says the party might be over for latecomers - Crypto Briefing",
+      "summary": "Crypto Briefing reports that Micron Technology rides the AI memory supercycle, but Reuters says the party might be over for latecomers. Micron Technology: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
+      "impact_score": 73,
+      "date": "2026-05-22",
+      "source": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14RFFqRTllbDdrNDladC1WdlhNTXBBVTZPOWpMMkhBWmhLMnBjd3dHbnBVaXFfRVpNbThuYXFqR2Y0VmdJc3ZUd3g5dmY1OUoyTnVRLWRxU2d3SnhBRTNEM3dfTi12b2JvNERBRVp6dw?oc=5"
+    },
+    {
       "customer": "Kioxia",
       "topic": "NAND / DRAM pricing",
       "title": "Kioxia NAND Flash Mass Production Accelerates: BiCS10 Target Puts Samsung and SK hynix on Edge - Tech Times",
@@ -289,16 +299,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdktIYTZzT24zX202bGhfbk95dlFycmU2SzBRX0w5cjN5TW0xeUxpT3h3Tzk2dGJzOEFLdHVmWEQzVlRROXBtdTdGbGxWQkJqSU9ZVzZORnE3R0laV3prNnJjYks3SXM4UDV0a3FsLThYenJRYjF2OGlvbkVDQzRoYkZnN0xRcFRvQ3hKUHlqVHo0WmxXcW5zNjMtcUF3RXoyVkFTVEVNaW5lNXpFMmZCb3VadGZVc0J5T2ltdDJiMldmcllKMlkw?oc=5"
     },
     {
-      "customer": "Cerebras",
-      "topic": "AI accelerator demand",
-      "title": "Should You Buy the Cerebras IPO? Here's How the AI Chip Stock Stacks Up. - The Motley Fool",
-      "summary": "The Motley Fool reports that Should You Buy the Cerebras IPO? Here's How the AI Chip Stock Stacks Up.. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
-      "impact_score": 72,
-      "date": "2026-05-13",
-      "source": "The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmlaelp2U3pRXzVNN01fcXUxcWF3WjVBakI4ajZYb2FnRkpRRnBsdnVZZTVnQkctQ2RzaHJHVnlGSDhkRlZpdzg2UGpGWTJYbUxIZkZnVkxydGdZNGJ4alZ5V0oxXzdnTlBKVTY2VWdiTi1BSTBPVDE3SFZpbTFYdUI4OVV4OWYySHg1WUdacWppR2dEaTM2aw?oc=5"
-    },
-    {
       "customer": "TSMC",
       "topic": "Advanced packaging",
       "title": "TSMC expects global chip revenue to hit US$1.5tn - Taipei Times",
@@ -309,14 +309,34 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mam1fX1pZMHBHTEN5VmNUZWozZHhiNW93Sk5kZjdEQVFLdmQtQXJOWDlUY1BaNGNtNmR4UnNxM0E3RHEzeFNDVmN0T0hiYXpOTWo1ZEFIeFRWeDJfeUpJcjJYSlJiaERSRW5hMFpxU01OMlNLd3gzbw?oc=5"
     },
     {
+      "customer": "Microsoft Maia",
+      "topic": "AI accelerator demand",
+      "title": "SK Hynix's P/E Leapfrog Over Samsung Caps a Week of Microsoft Deals and Intel Packaging Tests - AD HOC NEWS",
+      "summary": "AD HOC NEWS reports that SK Hynix's P/E Leapfrog Over Samsung Caps a Week of Microsoft Deals and Intel Packaging Tests. Microsoft Maia: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
+      "impact_score": 68,
+      "date": "2026-05-14",
+      "source": "AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWVpTeGxBYjNxRzBldHR0cjNWZ3AwWUpjNFhFTG5DekNqNGpwUVBNR0xVNGlZMm1USUNrUVcwOEZndXl2RFUwTUtoeEZ6UVBwV2xnaFQwMnBkTHpqMmNrcWdaS0s0ZERGUFgxY1NFcmUzUUpZTXRVOFM4S2xOTzk4WHFyVUlBNDRxWHVJSnBRODBNQ2JDV0FfS1dSc01jZ0QzYzB2RWNWT0lLTjdVLVdZWGhEVXNKZV9vOXNEMTlqeXFMbnV3c3hKR2ZB?oc=5"
+    },
+    {
+      "customer": "Cerebras",
+      "topic": "AI accelerator demand",
+      "title": "Cerebras risked it all on dinner plate-sized AI accelerators a decade ago. Today it's worth $66B - The Register",
+      "summary": "The Register reports that Cerebras risked it all on dinner plate-sized AI accelerators a decade ago. Today it's worth $66B. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
+      "impact_score": 68,
+      "date": "2026-05-14",
+      "source": "The Register",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBmalZ4Tkl5ejFlQ1l0c1hkNDdJV0owc0NmUUlJMkl3TThEYTdoNDUwUFBRbGF4ZlRST2ZNbU9QYUdlektlRk5JbVZmeDNzOVM5cUxSdTF2c2Z4cEt5WlZDdWlzUHhOMi0yaFMwSnA4ZE50eG43TndudWdsZGV1ZGRuOTFNQkFoMlgxamhkYWpIdHBMYVhqV1RGU3k5dUtqMlNMcHBQNlA?oc=5"
+    },
+    {
       "customer": "Credo Technology",
       "topic": "AI accelerator demand",
-      "title": "Credo and Rebellions Bring Turnkey, Scalable AI Infrastructure - Credo Technology Group Holding Ltd - Investor Relations",
-      "summary": "Credo Technology Group Holding Ltd - Investor Relations reports that Credo and Rebellions Bring Turnkey, Scalable AI Infrastructure. Credo Technology: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
+      "title": "Credo and Rebellions Work Together to Maximize Operational Efficiency in Enterprise AI Factories - Credo Technology Group Holding Ltd - Investor Relations",
+      "summary": "Credo Technology Group Holding Ltd - Investor Relations reports that Credo and Rebellions Work Together to Maximize Operational Efficiency in Enterprise AI Factories. Credo Technology: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
       "impact_score": 68,
-      "date": "2026-05-22",
+      "date": "2026-05-20",
       "source": "Credo Technology Group Holding Ltd - Investor Relations",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNW9ockR0ek1HT2ZDMlBYVFloaFJyR1pwb012M2FfeTZmd29jbnRxT25YWm5oRTVXWjBtdS1HM2FoR2lxbVlVdW1keWE3U09OMk9v?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTDVsN2xTNkc0SGpqek92NkNyOG16V0RrMVdMbHRVV25BNlV4OVVjTkJzUU1EeEhXU0hiSVVIZGZVcnA4VFRPMHlXTUpHME12c2JfSk42aEc5OF95WlV6c2JaZUZySnJXZ0dkc24zdXNNUXMwZXZVNDB3Z2RsZm5RZ09RUEswY0JSSkNTLU5ZRExOUmp5TC1zMl8zNWlwbllEZlhxNmlVTUx6aVNEVFBGMU5NNTk5RWFmSDlXVnU3ZFJYOU41aUNUelRFTXpmd0VxTEVpSDF2THNydjdkbGMtMlJCRXp0b1dXRF9jaG9fdXJpX3VsRmJXdlVPQXZWYVFuT0J2blVyaw?oc=5"
     },
     {
       "customer": "ASE",
@@ -361,12 +381,12 @@
     {
       "customer": "SMIC",
       "topic": "Fab announcements",
-      "title": "M Stanley: Upcycle in Mature-node Process Approaching; Raises TP on SMIC (00981.HK) and HUA HONG SEMI (01347.HK), Adjusts EPS Forecasts - AASTOCKS.com",
-      "summary": "AASTOCKS.com reports that M Stanley: Upcycle in Mature-node Process Approaching; Raises TP on SMIC (00981.HK) and HUA HONG SEMI (01347.HK), Adjusts EPS Forecasts. SMIC: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
+      "title": "Cambricon and SMIC surged simultaneously to new highs, reigniting market momentum in the domestic semiconductor sector. - \u5bcc\u9014\u725b\u725b",
+      "summary": "\u5bcc\u9014\u725b\u725b reports that Cambricon and SMIC surged simultaneously to new highs, reigniting market momentum in the domestic semiconductor sector.. SMIC: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
       "impact_score": 66,
-      "date": "2026-05-19",
-      "source": "AASTOCKS.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjBMRjk2Q2JoMHA3MTdSalNCTExlTWdIWDRJbkc0ZmVjTlowVHVRY1Y5WVpIVnJxMWp0T0VtZUJqdmFrQnNybl9xN292MHJuOUhkREZzSkFCem1aTWtYM1k0NEZjUFFLaEEwLWFWUGU1MVUydTdCQUMwMUIzelpCM2tvd2ZHdw?oc=5"
+      "date": "2026-05-25",
+      "source": "\u5bcc\u9014\u725b\u725b",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTMyMmJCV0ZmT2diS1ZidEtSQmVvQ01rM3gtam4xUWQtMzllVnM5MlI0WVgzRnliaER2d1ZaXy01VE5sZVZ3cHB2dmhLbXp6bXpSaTdvZl9kM2hrQU9NdE50SmpUNDdkZ2dJVU9pczhacmtkS1REQnhHVGJsenE2SEUybFBMQjdudXN1dnlDUEtscDVuTkxQSUY2LXhCeFFHT2pETmZNRjFUU2ZiaVNCaHl3?oc=5"
     },
     {
       "customer": "SMIC",
@@ -376,17 +396,7 @@
       "impact_score": 66,
       "date": "2026-05-19",
       "source": "AASTOCKS.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnhBbzJHYnNBZldnQ3VJUEhmTVhXZzJWUmdRbE9ZelhaaTN3MDZLekxoODNWUGF3bEp2VlhELTVXd1p5bmFxQ0Z3eDNTM2I5aHpFeFZzZmxmRTJoWnJVTFBmYURmYkt0ZndRVjlDRUpFSGpIOGJ2V1R6aW1XWGR1ekJ5Z0NnbDJyTEZxWHVBQQ?oc=5"
-    },
-    {
-      "customer": "Tower Semiconductor",
-      "topic": "Fab announcements",
-      "title": "Tower Semiconductor Q1 Earnings Call Highlights - MarketBeat",
-      "summary": "MarketBeat reports that Tower Semiconductor Q1 Earnings Call Highlights. Tower Semiconductor: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
-      "impact_score": 66,
-      "date": "2026-05-13",
-      "source": "MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2h6bUZaOFVYaHRHN0Rkd1pUc20xa2s1QkFvV3Zid1NCNFpCMWlBMzJ3UzhWT1V1VDEyVzQ5XzlRMnNuQXp0Nnlod29uX0VzdGpYWWpOOXI0bVVxWXdnQ21WZVBvMjA2UHE2ZXhEbUplS2F4WFctUGpKNjJra0NUczUzQXRJZ1ZFUlIxREJ5NFA5N2RET29IVnZHVlNqSTlISjM0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDU1RnZSRGR5ZXN2aUgxMnFKQkktUVUyVzU4OThGcUpuLVJDRjUtTlQ2QTd6VjZTd044VmhLLUJIVlBTSkgzYzFESmdaa3oyUnNabjMwT3dZMXZSX1RSYlpjdUh6WVRoY1RBc0JzUEIyWjFiVkFrZzF6dk9ST3RTdENDcW5BVU1pcHVVZm92LXR4TGNC?oc=5"
     },
     {
       "customer": "Tower Semiconductor",
@@ -399,6 +409,26 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQzFPU2NnOXIxdVE4aFdfUmpCa0MtcmFmZEZXU3lrV3VUZVljT2VLeEYtbkpNTUFWZkZZektGODVTNDF5YWpWV3E0dkZrSDZseDFJNFh1cmltWHBLUHJ2Mk9wYnpENVJ4Si10SEZLUGZTeUNjeTF0cUFGUjNtSzhRWUpLdnRxVDFQY2xUWmpn?oc=5"
     },
     {
+      "customer": "Tower Semiconductor",
+      "topic": "Fab announcements",
+      "title": "Tower Semiconductor Q1 Earnings Call Highlights - The Globe and Mail",
+      "summary": "The Globe and Mail reports that Tower Semiconductor Q1 Earnings Call Highlights. Tower Semiconductor: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
+      "impact_score": 66,
+      "date": "2026-05-13",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2xtM0pWUTMzbk03N2pVSlJtc1hmMGpxcDlWYmpMbjNmbWQzVXJFa1J4XzN2c19GTXd1QTZLNEcybXAxMlBXVkpYc2NyenhqOGpKVWdmRzhOYlpPUFZfTGNqS3BtY2ZEUU10eTRzV3Vtc1pETGdVRWEyRUpKSVFsMXhSTHQtazAxUk5mR29FXzZGWkl5WDZyb1E2OGZQelB4cEVBVVdJM3duMTJ4SHZYVVBuaUtlS3p2bXlZOHZPdTFoRzhkRjhWYVh2ZjY?oc=5"
+    },
+    {
+      "customer": "Vanguard International Semiconductor",
+      "topic": "Fab announcements",
+      "title": "VIS's AI Moment: Why Mature-Node Specialty Processes Are Becoming Strategic Again - semivision",
+      "summary": "semivision reports that VIS's AI Moment: Why Mature-Node Specialty Processes Are Becoming Strategic Again. Vanguard International Semiconductor: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
+      "impact_score": 66,
+      "date": "2026-05-27",
+      "source": "semivision",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWlJ5ZFJFTFIzSGZKRzRVWnFFU25kUlF6YzBLNnFiWFdJOE55NVpsV3NQZmhyUXl3Y09sN21NWkR6YjFJNkNTcDE4TXNHRFJ5NUJJdGlUX2thVTN3WHlOcTNnMTZ1eHRqOEE5Q3V0VjAyTC16VlVFUkllc0Zmd01HODZ2NzdpaFYx?oc=5"
+    },
+    {
       "customer": "Vanguard International Semiconductor",
       "topic": "Fab announcements",
       "title": "TSMC's Vanguard stake sale signals AI-era capital pivot - digitimes",
@@ -407,16 +437,6 @@
       "date": "2026-05-15",
       "source": "digitimes",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEZpbDh6Wk9mR3hvLUVlcF9TcmR5UWJnUnJhbno4amVuX0NhdjZLR19fd2pmcE80NWxVLXRibkZLZFhGRGRhWEhSY0NzQzctNlczc2VhMnRZYzZnZkZqbWNIUi1xZDNjcXBKZHJUUDNHREJ1QWYzWFVHOWt6WmxmMkk5X3RwZVBjaXFjag?oc=5"
-    },
-    {
-      "customer": "Hua Hong Semiconductor",
-      "topic": "Fab announcements",
-      "title": "Hua Hong Semiconductor strategy focuses on AI demand and specialty tech expansion - digitimes",
-      "summary": "digitimes reports that Hua Hong Semiconductor strategy focuses on AI demand and specialty tech expansion. Hua Hong Semiconductor: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
-      "impact_score": 66,
-      "date": "2026-05-15",
-      "source": "digitimes",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjdHWTEtaG5hemQ5TmhFZWZyZnBWcnJGOVlUVko2aUZWeXRpVWlLUVVNcEtRa2p3RGtkSkNKbjZLY3pnQmNHeE91bTRselpTbWY2YkdyZXdpVTZ4MWhIUmFOLTRRWmpQUE8xT25CSS1HRlRKNWlUR0RuYVFuaHZFdnBpczRVQllTWWp4SDY5WVI2SGlkcDhqWk5va1NuYTE0TUdFa01HdkwxcjRaeWE5TWhpTGM4bldBcXA2WUNR?oc=5"
     },
     {
       "customer": "Texas Instruments",
@@ -481,12 +501,12 @@
     {
       "customer": "Infineon",
       "topic": "Automotive and edge silicon",
-      "title": "Earnings call transcript: Infineon Technologies misses Q2 2026 EPS forecast By Investing.com - Investing.com India",
-      "summary": "Investing.com India reports that Earnings call transcript: Infineon Technologies misses Q2 2026 EPS forecast By Investing.com. Infineon: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
+      "title": "Infineon launches EU flagship project Moore4Power to drive the next generation of sustainable power electronics - Bisinfotech",
+      "summary": "Bisinfotech reports that Infineon launches EU flagship project Moore4Power to drive the next generation of sustainable power electronics. Infineon: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
       "impact_score": 59,
-      "date": "2026-05-12",
-      "source": "Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWU2ZmF2MFc4MTQ1cTFOWXhRV0E0NExxOTgxQW9sQmVEZnEtdm1hY1MzQVd4NHRaTXozTUpobzctejdXUEhPVndfbzhEbmFtaGg5ODMxWlVLM2NlcjRJMFJzSm1lVmdlOFQyM2tWN0NVSmxzWDZRdlV5eVlJOGtGUXZlVEM1ZUVySHJIRjE5bWRoTUE2bUkwR2RnMmFoUDF4eC12LWdhdUVKNi11VXRMVG1TbE5qRWRPVjN6R0NyeUpLTTV6dUl0Y1VmaU9lcWVC?oc=5"
+      "date": "2026-05-21",
+      "source": "Bisinfotech",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVjByVl8xeWNyUllkWFpTdWNrLWRsY1lzam9naGpDYk9SR0RUUktfUjRfN05TcVh6ZjB2WHkzXzFSd3dMeVp4bFZ6QjdwdUNZYm5YbEVrYUVDZmR2RTRGdWxsaW01VnpzUF95aWtQbXZMbzc2NFJnMGtWSW1yNjIxT20yd1IzRkNtY3NSa3FvQW42WVdBWWU4VVBpZGgxUjJUdU5XejkxNXVRT2VnSTBjMzVfUHZoR2pPY2hRUkM2SDJzcmtBOTM2VkNPbnVnODI2QmQ5LXhYdw?oc=5"
     },
     {
       "customer": "Synopsys",
@@ -537,16 +557,6 @@
       "date": "2026-05-20",
       "source": "AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFFGM2s2eUxiZHFNOE40S05hektVazRCRElCNXBBdGxiMGdERUJJcHJzb2NaUHRMa2VvQU04VjkwRzdUZ1pNcnVFVzB4WUROVE5WZ2Z5UFdwS1RFbDI3TTdwRnlaRG94TlZtY1IxdUxZWmpVeEVYTTFMd0twU0pjLXVYNkpZOWNxNUpwWm45NVU2NkNzTTFvT0tUQUpwSS01X1hSNndqekNrWWJuMmZCVFpmclJpNkNzYmMyV2t2MHEtRHdxUE9reg?oc=5"
-    },
-    {
-      "customer": "NVIDIA",
-      "topic": "GPU / CPU roadmaps",
-      "title": "Nvidia Blackwell GPU Rental Hits $4.08/hr: 48% Surge [2026] - tech-insider.org",
-      "summary": "tech-insider.org reports that Nvidia Blackwell GPU Rental Hits $4.08/hr: 48% Surge [2026]. NVIDIA: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
-      "impact_score": 54,
-      "date": "2026-05-13",
-      "source": "tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUdMV0ZBR2cyT0hRbUFZR2ZNWmNvSndyeGdHMFpxMV83M1F6ZUg1OVo3eXRBYjhydE1RNXNPNHZ2aFROaHA5RXRTS2ctYkZ1QXQ2MU5PNng0YXRNTkp4eGxYT3BTTDd3WFdBdm52d2s0d1JvWjdkUE53U3pGRVBJbEs4aFg2ZVpp?oc=5"
     }
   ]
 }
