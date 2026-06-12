@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T17:00:53.457380+00:00",
+  "generated_at": "2026-06-12T16:27:09.243212+00:00",
   "customers": [
     "TSMC",
     "Samsung Foundry",
@@ -145,15 +145,15 @@
       "implication": "TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority."
     },
     {
-      "headline": "TSMC races to expand AI chip capacity while CPO and CoWoS move to center stage - digitimes",
-      "implication": "TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority."
-    },
-    {
-      "headline": "Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune",
-      "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
+      "headline": "Samsung foundry returns to profit in Q3 as 2nm and HBM orders surge - CHOSUNBIZ - Chosunbiz",
+      "implication": "Samsung Foundry: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance."
     },
     {
       "headline": "SK Hynix plans to double wafer capacity in next five years, group chairman says - Reuters",
+      "implication": "SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance."
+    },
+    {
+      "headline": "SK hynix to double memory wafer capacity within five years, chairman says - AI-driven shortage will persist until at least 2030 - Tom's Hardware",
       "implication": "SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance."
     }
   ],
@@ -179,24 +179,14 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeGM5Vk5GQmVJLWtnMWtSc2RQMzVCS3N3Q2ROckgwS0NuRThLU29pWUZqQmVGSUkwTHVvdkdQUEhCbXo3NE1TZ2tZMTBjYmh1aU1iaVhHN25uTkQ2VUhLdi1adWRjZ2V2d083TXZrR1E2TE1OeUdFNzV1RWJmRU1ZX0pfVjgxVVp5V1k5QW1BTEhFSEI3Z2RaN2FjOW9NSU1ocXNjVnVlNE9RdjI2VkNJM0t3dmtTTTd1MkpsRzVHWWZQQ0NnQjhHdkZEQXJkekVUQXloSURGSWhxZWlFWl94TjNZX2Y?oc=5"
     },
     {
-      "customer": "TSMC",
-      "topic": "Advanced packaging",
-      "title": "TSMC races to expand AI chip capacity while CPO and CoWoS move to center stage - digitimes",
-      "summary": "digitimes reports that TSMC races to expand AI chip capacity while CPO and CoWoS move to center stage. TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "customer": "Samsung Foundry",
+      "topic": "Foundry customer wins",
+      "title": "Samsung foundry returns to profit in Q3 as 2nm and HBM orders surge - CHOSUNBIZ - Chosunbiz",
+      "summary": "Chosunbiz reports that Samsung foundry returns to profit in Q3 as 2nm and HBM orders surge - CHOSUNBIZ. Samsung Foundry: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
       "impact_score": 93,
-      "date": "2026-06-02",
-      "source": "digitimes",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUhsaG5CUG5RMUk4MTBhSXdaNlFmN2hGVmNjdmgxMTltQnNNb0hnZlRNYm0weW43b2hLYlVwSjNrVWg5MGM3S2tJcFk2a1lIc3d6VUdqZXpkdF9WbnBadlFrTjY1ZURmMHJJbEFJMFYtMkNMRVNyblVHRkM1NkxNamRra0tXQQ?oc=5"
-    },
-    {
-      "customer": "Intel Foundry",
-      "topic": "EUV roadmap",
-      "title": "Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune",
-      "summary": "Fortune reports that Intel (INTC) Q1 2026 Earnings Call Transcript. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 83,
       "date": "2026-06-07",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDZ1UVdPM3d1SGlxcHl2MWUzU2pDc0hyRHdmeFpTOEF3SkZsaUpteEszQkxjUlQ2QnFJaDJSUXBUWWZuQl9FRVNmVDZDOWJiSVhWU1EwSHBWMmdxVGRrUA?oc=5"
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0SVN4b0l1WGJZTjhMbGhmbl9OWmlnMFpYc3VYZDZ4SThya3F5OHNZMGZ1UGlHSWYyYTFlRkJfS2g3eXBIbExnTk00Z05GV3RxZThRZ2VRWklUU0ZIN0lYMzVCT2dTM1V4UVR0bjFKWEFieHZXV0dhMUJR0gGOAUFVX3lxTE84MXpQeUlGeU92MUtvN1U0UFF2cHlBeURIMVA0Sl8tRXJYbHgtT2dUcXRQVkZQZEtWQTZhQ1Bya0JFSlNhQmtHTm1DcVEtTTl5Vlk2QU4tYUtJRGFLT01tUDJGY0ZhLVNTY0lDbndQYXBRTTA2NVVEeUxxcjhRaTFyamRHczVqejJUSzJBbmc?oc=5"
     },
     {
       "customer": "SK hynix",
@@ -221,22 +211,22 @@
     {
       "customer": "Samsung Foundry",
       "topic": "Foundry customer wins",
-      "title": "[News] Samsung Foundry Reportedly in Talks With Chinese Carmakers Like BYD for 2nm, 4nm Autonomous Driving SoCs - TrendForce",
-      "summary": "TrendForce reports that [News] Samsung Foundry Reportedly in Talks With Chinese Carmakers Like BYD for 2nm, 4nm Autonomous Driving SoCs. Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 79,
-      "date": "2026-06-03",
-      "source": "TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZlpqYUVKbTdrVFl3RFNxb09oT3dlVG5UR2VndnZQamdWcFZheUlUd1hhbjlsT0RDdDduelpnN2pTNzF4TWlQZTh5aG13ajBjMTA2UWUzLXdkRER5ZHNOR1dGTXF4YmpMVlNxSVVSWjdfNVFtaUdodEIwZmZsQi1KYlZzdHpJeUxVUlNnYjFpTXhJOVRMNEw3eG1pNWxhWk45SkZlcURfMDNuM0RBcjVoNlViclM3eDhJeTJSUmdlMmROTEhHb2F3S3pkVWJic1hTZlVNQlRmUl9mZGw4b2pYaDF6RGdYNUU?oc=5"
-    },
-    {
-      "customer": "Samsung Foundry",
-      "topic": "Foundry customer wins",
       "title": "Samsung foundry profit rebound may come in 3Q26 as 2nm orders rise 130% - digitimes",
       "summary": "digitimes reports that Samsung foundry profit rebound may come in 3Q26 as 2nm orders rise 130%. Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
       "impact_score": 79,
       "date": "2026-06-09",
       "source": "digitimes",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFhKcmYzeWs0Ym9FaEFlMVVkbUFuckpreGNPRUxHTElsOGZYOW9vUXc4YVN5dEF5cFd5eWJURUlpMXdMYjJRMjkyYlduRXZjUk5vUTNUbGJnUnZwZXRKaGFaaTEyLVQ4TkdwRWRtTGxwU3BaVTZuVXhxdWNmemN6QnUwZWwyNExZUHk0?oc=5"
+    },
+    {
+      "customer": "Samsung Foundry",
+      "topic": "Advanced packaging",
+      "title": "Samsung's packaging gap clouds chip comeback as TSMC, Intel push ahead - digitimes",
+      "summary": "digitimes reports that Samsung's packaging gap clouds chip comeback as TSMC, Intel push ahead. Samsung Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "impact_score": 79,
+      "date": "2026-06-12",
+      "source": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGpqSEE5VXlibC1FMlJ3UlBfWUNGV3F3Ql92R1d4eFgtc1FkcFctM1BJNGJ2NV9RZU1sclNobHZheU5PMTJ5NjFGZHE1T3NqTGJQb0dpRDRqa1J6Q3VVbDU2cGl2MjcxSW1ySS1qSFFQdlVqRWRWakFMeEVjb2VYMDhyMkJYbFpDNW9F?oc=5"
     },
     {
       "customer": "Intel Foundry",
@@ -259,24 +249,14 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVBzMnA0eXR1eW9POGpKdFBpRDFwTnlBRWN3QTBLV1Rwc2cyQ1pMcHI2Ql9fdEZuNHlVOVUwLVlYVTBUVjFSb25kWVlDd1NkR3VfQmdjaG9PbkdqVjRaS04tTEZBeTVRdFhDTGM2THpLa1E1Sm9EV1l1eXhtNnB5S2JnWGlydW55Z3pLczFJTzZuQWs1SEtzWmFaUWxlWG1zVUMxY2RfckxIRWUycGlGZmp3Ry1EZzZjSERMQkJjclNzWEpBMWxTWA?oc=5"
     },
     {
-      "customer": "ASE",
-      "topic": "OSAT / packaging capacity",
-      "title": "ASE Technology: The Advanced Packaging Story Is Believable, But The Valuation Might Be Stretched - Seeking Alpha",
-      "summary": "Seeking Alpha reports that ASE Technology: The Advanced Packaging Story Is Believable, But The Valuation Might Be Stretched. ASE: advanced packaging expansion can reshape adjacent process demand and customer priority.",
-      "impact_score": 76,
-      "date": "2026-05-29",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnRJcTVYSkpSNVROTVg1R1RzUnUyT2ljMnZoMTFBaVdSd1h5NVdla3Z4QTVCLU1jSzQxcjhzdjJVNUx4aVZHQ0JzYi1aVjVtVDdlTUhrU1hSSy1sQ1RpOXl2UXJsN1hTVm42VzlIbGlkREFuem5Dbnc2TUpFcVIyd29GajAtQjRZTGtYeE1xajM2Qng1SlBwcUhiMnduWGt1S1poMzdKOEFWY1g4ZXFzUlVocHJWbE9BYUhEZHBFLTJmSDRYQjNuWEY1YWZOVXA2?oc=5"
-    },
-    {
-      "customer": "Intel Foundry",
+      "customer": "Samsung Foundry",
       "topic": "Advanced packaging",
-      "title": "Commentary: Intel turns AI packaging crunch into foundry comeback test - digitimes",
-      "summary": "digitimes reports that Commentary: Intel turns AI packaging crunch into foundry comeback test. Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "title": "Advanced Packaging and the Shift to System-Level Semiconductor Innovation - Samsung Semiconductor",
+      "summary": "Samsung Semiconductor reports that Advanced Packaging and the Shift to System-Level Semiconductor Innovation. Samsung Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.",
       "impact_score": 75,
-      "date": "2026-06-01",
-      "source": "digitimes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDAtQzJwR0FEdlhSNXpaZFhob2Naa1FmLUJ0WVNpNXRuR2phQU1vblE3LS1Hdi1FS2RZeEl0aDhZZ095RHhwcUtmSzlVNTg0Q2VqbnlUeWlZTEZnZG4yZE15VkV2MUNTRUVJdHF1ZWs4cjk2bGpYclJ6VzFzVDdEZGVNNzM0Mm1UbTFvMXZlTVhsNkotS0VtM1dLTQ?oc=5"
+      "date": "2026-06-02",
+      "source": "Samsung Semiconductor",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNk1NTnF1OWN3cFhxQkRIOWUxWnB4OUFwd0VsRFdtTk95RVB6QTlOZVRVUUdzNHQ3Ukd0Z2JGV3Izbm8tMVBUNFJaWEs0dDdVTHpxcHhkcFlIYm5KUU51VzZaSW5CTDV2MXJrTWxWTDRrTHlsQTNUVk5RTEtvZmFFYmZmSVZ4SzVPVHZjNVZINzJKV09TdXdkZF9xaXpGUFBjSnJGTW1iQzNwNEhHeEc0OTV2T0QzRElmTFRRd1I1N1ZLNHZCZnU1TkZ3?oc=5"
     },
     {
       "customer": "Rapidus",
@@ -289,44 +269,34 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdmVFY3lDQ3NMQ3l5TTgwblpYWVVkaDZKTm5qV3d5TmdJSTN1NDdGTlozSC1YNGlxMTA1X3h2WkpjRGJyb21CRnhUaUxiR1JFU1dQZC0ySWEyOXdWYUR1TExGTGlVNTY2UHRvTGw2VnluQ3pVZHNYSjZXcW10emdtdmJhTVB0S0haSzUzT1puVEJSMG9MUEZkSGdEYWtMVEVVRXliWWs3YWRINHk0V1ZsSDUxNUxISmJz?oc=5"
     },
     {
+      "customer": "Synopsys",
+      "topic": "EDA / IP design starts",
+      "title": "Samsung's 2nm Advance Draws on EDA Innovation from Cadence, Siemens, and Synopsys - The Futurum Group",
+      "summary": "The Futurum Group reports that Samsung's 2nm Advance Draws on EDA Innovation from Cadence, Siemens, and Synopsys. Synopsys: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
+      "impact_score": 74,
+      "date": "2026-06-01",
+      "source": "The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNW82Q3NDd2pfZmU3VVl1QXJfMXRBOVAtZWpBM0RUVW5WX0dfZVJ2emo3N3ZMWTExMi10TVpYdGxRYm5kWkRhMl9qeWdVWjE2VDF1YmZqMVdoZHp1UUNoaDdIa09aUUR5bGJGdGYwVTNiRmFqRmV3QXFLT2NSRVhRRVNUN0FUeVZqY29VSVN6T0gtb1ZLamRsQ21YQWt2b3ZvcFk5cGpPQWhxNlVrT2JYNnpOdw?oc=5"
+    },
+    {
       "customer": "Cadence",
       "topic": "EDA / IP design starts",
-      "title": "Cadence Design Is Cementing Its Place in the 2nm AI Chip Race By Solving the Die Size Limit in Partnership With a Major Chipmaker - Yahoo Finance",
-      "summary": "Yahoo Finance reports that Cadence Design Is Cementing Its Place in the 2nm AI Chip Race By Solving the Die Size Limit in Partnership With a Major Chipmaker. Cadence: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
+      "title": "Cadence Design Is Cementing Its Place in the 2nm AI Chip Race By Solving the Die Size Limit in Partnership With a Major Chipmaker - Barchart",
+      "summary": "Barchart reports that Cadence Design Is Cementing Its Place in the 2nm AI Chip Race By Solving the Die Size Limit in Partnership With a Major Chipmaker. Cadence: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
       "impact_score": 74,
       "date": "2026-06-03",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkl6TDVNNjhFM3ZDZml2QTVlakMtOWVlSjdaN1hQRWFLZ3RnbmJXOVFJTTNhQ04zNWNNYVJBRVVwMFc2OGVQZ09JMTN1c1BvS1V1aDNHTm9uQ0themdpMzFaWlA4bHNuQ1lwOWVsa0wxS2Zub1lCMFpWX1JOZnBmTklidVBTTWN2ajJUU0szMWNXd3daRFZiOFc4anBPMWFXZ2NZV0xB?oc=5"
-    },
-    {
-      "customer": "Cadence",
-      "topic": "EDA / IP design starts",
-      "title": "Cadence Samsung 2nm Alliance Deepens Role In Next Generation AI Design - simplywall.st",
-      "summary": "simplywall.st reports that Cadence Samsung 2nm Alliance Deepens Role In Next Generation AI Design. Cadence: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 74,
-      "date": "2026-05-29",
-      "source": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM1czdlJaOTF5Qnp5dkt3c3UtY2NmbDdKZm1HUGgxWlR5dHRRUVRrbVVySTJ4NENDMEw5QzBrRnhDUnJ0OVBBTHYwQVpMVUh3Y1hLejhjS2xwU1JiU3lDZzdpY0ZvTS1QQVdQSEhoR1VBT0JmM0hYakpFSjItaHF0dXFxQ3pJNThHYlRxX296dHU0bTQ0YkZydEoxQVdja2VQUm52R1lZWEhrWF9JU1I0VzZkMEY1b250dkVieFhCNUlUc0VnN29lY3RNY2ZaZnVnalpWajZvX1nSAd4BQVVfeXFMTVY5YzMyREFHbkY0TFlCOHp6SWIzaEpibEJ2SjFTckRvWnB2dllfUUZ0Y1FieEtKRDZwdFpLS3FPdEhJbENDdzFwRWFiT1pLQURkNjRvRnBiY1JXZE9DQnJsLUZjb0d5VFlsT3ZkQzA4SzZaODBzNmd2bTJnOUg5N2E5OWg0a1pBZnJMYmVGdXlUdGFpWlU0RmRzTm5nMHpCWWVnVUhqNFBYZUR0NXF3S1BwNEkyZk9nMVJ2LVhIemZUMXZWcVVWU3duT3pJcnN6TXlzT2JwWGptNEM2VzBB?oc=5"
-    },
-    {
-      "customer": "SK hynix",
-      "topic": "HBM demand",
-      "title": "Nvidia and SK hynix to Partner as Jensen Huang Warns Memory Shortage Could 'Last for Years' - 24/7 Wall St.",
-      "summary": "24/7 Wall St. reports that Nvidia and SK hynix to Partner as Jensen Huang Warns Memory Shortage Could 'Last for Years'. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
-      "impact_score": 73,
-      "date": "2026-06-07",
-      "source": "24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVlnTTQxSndTQmZ3djIzTWk0VDFiMnNQRE1wVU5GbUttb3dlalNlVk1RRXdtMVVjT3VXWWhycGM1c0lyUERsT3VTM1lsYjZJdFY4d2pqWnUwbUs3LUljd3lubW1KSXlKNGlKZ1dMejVKVFlFRjdWLXlLTXpHNEgzckcwMkU5SWVmdGE4QXR6cmJLeFpwUFBhUVpZRzVKMzF3ZzdRMjN5UXhZU3dXekFpTk1ZcjJYTFh4Y0V6NWJXTjMzejFNY2ViZUlQV013UQ?oc=5"
+      "source": "Barchart",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNckwySHN5QUNUYXNRQkFac1RueWpKbGpNcnRTU05zeHlvV1gwWjV4LXh2VWtOd1FCd1h2d0hfY0xfYjNNclBwS3JLYlF1N01kRjhpUExwdDlBSlNWZDFtMUp3OGROMUdjM1RQMlZpLVlVcjRfVHlEcVJYV0t0YjMwREs0U1ZFNlVMeVdiRnFhZXFJQXlmZ3dtWEliVDlQcmlaMWxUNmxMNEt4WFJ2LUs5VWFKY3AtZmRacEJHTjRnS2k3aXh3RW9jX1JOTXVDZ1M1SGJIWnVfTTZtMzNBdzdCSXphWlh6MmVxTEJpazRyLUZGRjh2MG9zcld2dy1BY0V4aERj?oc=5"
     },
     {
       "customer": "Kioxia",
       "topic": "NAND / DRAM pricing",
-      "title": "Kioxia has become Japan's clearest AI memory trade. - Startup Fortune",
-      "summary": "Startup Fortune reports that Kioxia has become Japan's clearest AI memory trade.. Kioxia: memory price and utilization momentum help estimate when deferred etch demand may return.",
+      "title": "Kioxia surpassed Toyota as Japan's most valuable company on AI memory demand - Startup Fortune",
+      "summary": "Startup Fortune reports that Kioxia surpassed Toyota as Japan's most valuable company on AI memory demand. Kioxia: memory price and utilization momentum help estimate when deferred etch demand may return.",
       "impact_score": 73,
-      "date": "2026-06-03",
+      "date": "2026-06-12",
       "source": "Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzI5eXRIZURmR2lMWWpPejZLcEZqb0JqamJ3UkhvRDlZQVBQbHdnNzh1cTFBbnJZeE8tdW91STllcTNPN1ZhVlFiTkRaclFRa1l1aWhKQWxHb2FmX3dQanUtMHZfaDlHdFpfMmlRajRlWHZYc3RiSW5tc3NUb3ItSEVPTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUpSN0hTSWpDY0cyTENMUDZXYzBfUXU2c0V1WjRwbE1ETFVVN2lDMGwzSFJKMGk3Vy1JRmVyTkRMd0hhQ2NQWDlVQVJ3cC1ER280c0VWaXc1VmpjaU5BR0dFZWFpd0RnMTNYWTZhaVRVa29kVFJrWmZZblJENmFlUkd6ZHhTTFlBcUx3SFU5RDhHS2NkM0k2WnlvY1E0bkF2aUZTaVlB?oc=5"
     },
     {
       "customer": "Western Digital",
@@ -361,12 +331,22 @@
     {
       "customer": "Cerebras",
       "topic": "AI accelerator demand",
-      "title": "Cerebras Is Down 22% Since Its IPO Popped. Should You Buy It Now? - The Globe and Mail",
-      "summary": "The Globe and Mail reports that Cerebras Is Down 22% Since Its IPO Popped. Should You Buy It Now?. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
+      "title": "Cerebras After Its IPO: How Wafer-Scale Chips Challenge Nvidia Inference - Tech Times",
+      "summary": "Tech Times reports that Cerebras After Its IPO: How Wafer-Scale Chips Challenge Nvidia Inference. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
       "impact_score": 72,
-      "date": "2026-05-29",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOckdJOVZoYWhyRWhmc01BUnU3bnhTRzgycnlNTWtoVG1CY2N6LXYzV1ltU0cyWWI1bmJxMTh3bnp2dlpqYndzV3luWnRTSVUzSF9JNlhNRkllWVM5MExRMXRDbnNyUG5UNndfclNzUlRmQkhGRUJJYk5ONHpfcEJIVXhEV3JNUkdscnUtdU5nck95c3l0TVpyZHJQQmtSY1ZOVks0YTcwVk5XVnc2cm5QU01tR2dkWkdxMmxtRXlIMzg5Z3FkZWxLYWVXdlZ0Q3YtS3VkN09vQlB2V1lMMGo3Yw?oc=5"
+      "date": "2026-06-11",
+      "source": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdTJZTWZiN3NralJPb0R3ejd4X2IzalRNOHNMd2gyWG1iZl9jNDNFS3VDWWFhTXljMVlBMVFiaUFha2NqWDNSQVJRM2diNUZ5b202d3o5WFY0X21jRXRiWkVfc2hSWnF6enZIYVdpcVRVQnloN0NIZGFCd1VpZGxIU2g3dXA5YkRUamEyUEtVbzJXSXlHN0dtQTA2Z3hiejJyVWlYWWlIRngwVVVOYTB1RWpTQmpxMnV5ZmxqbGtFV0JCdWtU?oc=5"
+    },
+    {
+      "customer": "TSMC",
+      "topic": "Advanced packaging",
+      "title": "TSMC executive drops blunt message on AI chip's next frontier - AOL.com",
+      "summary": "AOL.com reports that TSMC executive drops blunt message on AI chip's next frontier. TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "impact_score": 71,
+      "date": "2026-06-01",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmdDZ2t2NllKZG1XQWxrWVRIdHkyblBUdVU4V2haT2dLUWxDMGlidDFBRVFkNjM4UjQ2ek1iWjlYQjctQjRCNkVoNGoxVnNzVUpMSVBvS2hvUnJMalNFYnc4aDlXQXN3LWc1QlRLOFl5SUU3ZGlvZzgzNTNxX1YxNEVEQ1Q?oc=5"
     },
     {
       "customer": "STMicroelectronics",
@@ -379,14 +359,14 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcV9HYlAtRmh3QW5wT1JEWjdVVVlCWS1aUG9oU0YzV0kzYXBQUGoyZnc0MU9HNkZUMi0tRnVEdGFLVWx1ZzFUZWZxTVM1ckhDTkdTQzMxN3Jha0JleXRtV204Vk91ak1VaEdmTnF6YTRQdjFQM1pDNUt6RmV1N29SbEV1ZDBwRUpaaUZYX2R1RHgwYmVSZFV5MjVDTzRiUG44bzRyaGZnREo0bGZQWGlfSGVXTXk1YmN0Q1FrX1RYUjgySkNrcDZvbmd3eUxFMUlrSHpJUFJHSFFVM3h1S3VKetIB5gFBVV95cUxQWUJSYkFSd1EyZG5scGIzdGtOR204b0JfY3hxSXl6M1lYTEZBSl93Yks0VDFzY2RLcW16UjRvTlRzc3N5aEdMdW0tcEF4NktYLUpFdXY1ZFE2dTQ4LWtYRkFzdUN6VXcxVmp4aGVYMU9VM1pLSFlmLVVFcUhhQ0RGekhiMVdTX1lVbzZwMFlLT2FBaWVYcG01OGlYazV5a2hMU3hrNmVQc1F3Y0lLdUg2T2daMGxZUk5YaW5waWFmZXZQVjB2b3k3ejJlV1pqd0NRd0xZZkU5UHBFUFk1YlQwVVV5WFpOdw?oc=5"
     },
     {
-      "customer": "UMC",
-      "topic": "CapEx changes",
-      "title": "UMC Q1 2026 Earnings: EPS Surges 48.65% Above Estimates, Stock Slides 2.2% - Earnings Quality Analysis - newsline.com",
-      "summary": "newsline.com reports that UMC Q1 2026 Earnings: EPS Surges 48.65% Above Estimates, Stock Slides 2.2% - Earnings Quality Analysis. UMC: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
-      "impact_score": 66,
-      "date": "2026-05-29",
-      "source": "newsline.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDVsQWJjc3ExMHB6dDRMR2U4ZHNqbEk1a2Q5TE50b1h4aXlRaWloX1YzOWJ3ZTJhMURUanVUUmRJbUowWWhXaUpIbzQycVQyNnBkcTZ5SGw4WmprRWtGakFESDdRb3BNX3NIRGlLa05GeWJ4RzRWMkwxOXBLaEplVXVFWE1ra0N4S18tWE9PVmc5aEpRTnJTQl9MWEZUMEZlQ1FRMTdiRVRVaVh4N1E?oc=5"
+      "customer": "TSMC",
+      "topic": "Advanced packaging",
+      "title": "SK Hynix Joins Forces With TSMC, Can It Dominate Customized AI Memory Market? - TradingKey",
+      "summary": "TradingKey reports that SK Hynix Joins Forces With TSMC, Can It Dominate Customized AI Memory Market?. TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "impact_score": 67,
+      "date": "2026-06-04",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmhLRHBJWmVfMVpKbTR4ckxzejBiSWk2TTdjblNrYzdMY3Q0dHlBU3I3U3JEdEF3MWhTa09xOHR4bURpNHVTOW15LXhvNG05YVktNmNCZjlxSlBubm1JRm9oYk5FWUhVcjBUWnZENzl0TjBHc1BOZ0JSNjFseHlFSTZlOE1BZFBEY0VZRnhFbTZyRFc1MkRmM3Zob0kzdVhHTnFPRg?oc=5"
     },
     {
       "customer": "Vanguard International Semiconductor",
@@ -401,12 +381,22 @@
     {
       "customer": "SK hynix",
       "topic": "CapEx changes",
-      "title": "Micron, SanDisk, and SK hynix Investors Should Fear One Thing: Elon Musk - 24/7 Wall St.",
-      "summary": "24/7 Wall St. reports that Micron, SanDisk, and SK hynix Investors Should Fear One Thing: Elon Musk. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
+      "title": "Micron, SanDisk, and SK hynix Investors Should Fear One Thing: Elon Musk - Yahoo Finance",
+      "summary": "Yahoo Finance reports that Micron, SanDisk, and SK hynix Investors Should Fear One Thing: Elon Musk. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
       "impact_score": 66,
       "date": "2026-06-10",
-      "source": "24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2x6LVR3cUZJQWNBTHFVU1FiVjBsSmFpODZJMjdrSDVKTDZ3VkNZbVNKclBvNkxzUjZwWW9FWUI4VEZpOUdaeFhwZWdHaTBqbThFYnd1Wm8yZUxxeFFkY3I5TGd6cWplM1FXLWJsRkpHb3lsRkcxaW1LcXh4OGVqdVQ1Nk9kR0JZdk5MZ2VBU1NGT2ZoSUFQUEhrVEhXTGwtM1BhU2NfWHZVMUg5SHlGa2ZVQQ?oc=5"
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkgxMHhPZmkwN0lxTmUxSmtwSkN0TThoT0RQOWkyaTJsZHR6U2tVNHhHRHlwRVRpNWc0dmJ2QU9Vd3A4ODRHQjFIQXdJenctOVlfM3Z5eUtacTQ1TGhxUDRlSEJUZTdFZGxMUWZtbjZHOEFrZ3R1QkpDanc1dWc2NjZlX05aM1lBdlNqcG94TFoybDdnNURpYTdvb18zZUE?oc=5"
+    },
+    {
+      "customer": "Marvell",
+      "topic": "ASIC and custom silicon",
+      "title": "Exclusive: Marvell says AI's copper wall is nearing, with custom silicon and optical I/O set to scale - digitimes",
+      "summary": "digitimes reports that Exclusive: Marvell says AI's copper wall is nearing, with custom silicon and optical I/O set to scale. Marvell: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull.",
+      "impact_score": 64,
+      "date": "2026-06-08",
+      "source": "digitimes",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORkNxZGdpa3cyUUg2aFFkcHRVUmNUWkQyU0NsbTNEVnhRbmxyUzZmVTdLVHl2SnJLWW5nMTRFNEw1ZVFuWmJXTUhSUWFxNTFpSmstVm4zVDNJVkpIYTBjbzJTX3ZwdnE1TmNsb0FQcjVpdXBOZWVwX2VaY3ExZGVEZXd4MThnSTBJdjhPcFJB?oc=5"
     },
     {
       "customer": "Marvell",
@@ -449,6 +439,16 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFNnYWtjYUdUSzJONlQ0cFhuVGNCbEFmUTB5Z3NOOVRFcW1keVI2ZUVHUERsZmk2YnJjcFNDY3dINlhLSkRFU2lUeVRPNWUybnBydU5jSmRpQ05mT3o2YWlOVlhnenFnTlB3bFVNM3hHMTc1VWs0Z2RfUGd6c3Y5WDZDZm14bjR2UXpWRmpSaEJGMFFCZnMzOTNUQmpFYjJUR1dHZFdiZEhndXI5S3l6VVlWRWY5T0tMOU9QQjdNRGtVbUlnZkHSAcsBQVVfeXFMT0ZSdkR0cnd3NFBhTXQ1WDA4c1Njc2pVUzFrNVY1aFpTdlBYM2E3NnA1UDBqV0pHaXZWcjJTcVhEMTRNanFqWGpBR1F5My1heGhTVnhaVlV2YlBYTWFFS2dmcFVZalFnYlFxN2ZDMUo4RUZiMnVRcUM3dGN0TXp4aHZ1Zlp5QlNCUm56aDlmZ2hCV3o0M0Q5M3BPdlBiX0l3N3hmdUd4NjJVOTJVMGt6UlRKcG9sWGEtaU42dkUzTnRoY3Jra2g0azJWM0E?oc=5"
     },
     {
+      "customer": "Cadence",
+      "topic": "EDA / IP design starts",
+      "title": "Cadence Design Systems (CDNS) Is Up 9.1% After Unveiling Autonomous ChipStack AI \"Virtual Engineer\" - simplywall.st",
+      "summary": "simplywall.st reports that Cadence Design Systems (CDNS) Is Up 9.1% After Unveiling Autonomous ChipStack AI \"Virtual Engineer\". Cadence: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
+      "impact_score": 58,
+      "date": "2026-06-03",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQXpSVlozRWxhSkpXNFhGeXlOc1FKa2ZxUXVOb1Nqd2tqU0dTMUNKV1cyS3FHTGdaV3ViMXkwNGtlTXJYRzZlQnQ3QlFnTElkSGozUEs4ODlBZ2hKTVpURjBtdDdJZjhYaXpoUkFKRjRoMFdJbkFURzN2TGpZTTA5QjJqYzZ5VTFFWjJpa2hrb1NiWEs2b2pEc2c4Nk1zTWlaYVdjZGctVW1tNHA3blBuemw1a1NZaW1qUS1TckNzX2xxUlJnVDZUTm9KMG1KcTR2MGV2UU5tbHfSAd4BQVVfeXFMUGZvSjlTVU5VWTV1UVBMcVpqWUxSaFVscWxneFRMUEJ4YzVsMEdBYVpfa1BYcUdRd09BTTNyY3ZBV3ByNk1pbXRxeTBsWTFQbDNOajRTcjQ4RkxyRU1nbjlDaW15MTg2bkNfOVNzVTBldWJtbDJYM2QxdmdEV3YxV3NhSmlRang5V3YtVEJjdVkyY09pMmVkRkdTTFgyWWc0TzcwSFRtYndpRzU5M1QyX3RCcVBUa09rZmtDeUJPTEMxZWJLTU5qQWVxNU5vVnhsQWhDUE5JaXlkZ2FzeHR3?oc=5"
+    },
+    {
       "customer": "Infineon",
       "topic": "Automotive and edge silicon",
       "title": "Top Stock for AI's Next Megatrend: Infineon - 24/7 Wall St.",
@@ -466,7 +466,7 @@
       "impact_score": 55,
       "date": "2026-06-01",
       "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vY2xwS0dUY1hVdU5VSTUweXdFR1hkcFJHX3VzbkNYQTRpbW52UmhlM01fQWttaFJsdHBlVjJuMUlYYk1UcG1EeFZhRmFyZ1FLOUt1SE45SHhQRkRJcEU3NmwxQnlPZ3huU25IQXQyWTlLZW01M29QbDlKVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UcGxZNktyaVZHQmFyWUx1YmMwaFlHeV8tcTMxREdRZ2c2U3NGa2JDa0lhYVc0dkNTTnZLMWJ1Yk9BYWdDUnBoNkk1QlpuVVJEaUE3WGs1QXFoQlVQR2FJUEhhU3RvMi1tREE4ekdzMjJlWGYxOUFhX2xPRQ?oc=5"
     },
     {
       "customer": "Apple Silicon",
