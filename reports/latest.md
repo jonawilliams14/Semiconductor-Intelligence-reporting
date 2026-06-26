@@ -1,6 +1,6 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-06-25T15:44:26.768562+00:00
+Generated: 2026-06-26T15:33:30.300177+00:00
 
 Tracked entities: 53
 
@@ -60,25 +60,7 @@ Source: Fortune | Date: 2026-06-22
 Nikkei Asia reports that Why Kioxia is going easy on capex despite AI memory boom. Kioxia: CapEx
 language is a direct read-through to WFE budgets, timing, and tool allocation.
 
-Source: Nikkei Asia | Date: 2026-06-16
-
-### 83 - Kioxia - NAND / DRAM pricing
-
-[Kioxia keeps NAND capex in check as AI inference reshapes SSD demand - digitimes](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHJUaW0tOEhPc3IyV2s1X2tHVklpd2k5WjVkbmthQUpZUWxyUnM2dG5vTTZDMFMxMFFWak5hU2hRMVdEUkN6ZkNVazBiR0FDZkZEUndkamNhN1VIVVAwU21aRmlzZGNpVFJHNFZBRG1hMkVsd1loNGtMMUxtUzV4RjFtUFQ1UQ?oc=5)
-
-digitimes reports that Kioxia keeps NAND capex in check as AI inference reshapes SSD demand.
-Kioxia: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.
-
-Source: digitimes | Date: 2026-06-19
-
-### 81 - SMIC - Fab announcements
-
-[Is SMIC N+3's Metal Pitch Smaller than Intel 18A's? - SemiAnalysis](https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQUQzMkxVU3lWcVhHMHRBSDZBUUx0UUZpeUlYa2ZVTnhoNW5pSW03aXhYeG12Wk83eWlDcnB4c1ZjMGVrVlc5SnZqOEc0N3I5OC1TQ2tfQ0U3blVsQXhoc1dLdGpTcGJUdWVraQ?oc=5)
-
-SemiAnalysis reports that Is SMIC N+3's Metal Pitch Smaller than Intel 18A's?. SMIC: roadmap
-progress points to leading-edge process complexity where conductor etch timing matters.
-
-Source: SemiAnalysis | Date: 2026-06-14
+Source: Nikkei Asia | Date: 2026-06-17
 
 ### 81 - Cadence - EDA / IP design starts
 
@@ -100,15 +82,15 @@ customer priority.
 
 Source: TrendForce | Date: 2026-06-15
 
-### 79 - Intel Foundry - Advanced packaging
+### 77 - SK hynix - HBM demand
 
-[Lip-Bu Tan Nearly Walked Away From Semiconductors, But One Plea to 'Save Intel' Pulled Him Back as CEO, Now Hiring Top CPU/GPU Architects - Wccftech](https://news.google.com/rss/articles/CBMixwFBVV95cUxQa25QSTJ1RFg0UVgwU184TmZRaU9yRVBPNlhGRlpMZ1FZaUFEVlhOLTVFSy1YSEM2a25uYUtac2NDVTJxUk42elVRUlltaDl5dUZUUlhzemp1VTdYcEpqdnVKNkctZ18tYURJMmFRX1hYZkNhVGx1LXN3Zko4bVV1OU5ES3B4U0lSUnJOMVFTN1l1Z1RZWFQ4NFdwZXdzZm5YNlE2eHFnX0NPR3h6U1JaWTA1OVBFaHlrWVJnUi1lQ1VtVXRaT2xj0gHMAUFVX3lxTE0wOEl5Tk9yOFRHc2hMcXphd3lfNWJrb3NVWUlUNndKTjJVYkg4cjhPdlVMRzhqaElzV211OE1UbGZiZ0hza0FreUsyZ2xpaG9MV19xQWNfSE1NRWk2MG03RTY2ZjluangzbGEwYTNUaXB6TERCYmNwYkFPVWY0S1hSSUNaNWEzTWdRdVdTNnJFM1F6ZU9UYVc5cGRJSEZtbDloZjFFeVFFak8ydmlmX24tZE9sclRFdmtndzd4XzJ0NnNkc0xWSWVuTDZLLQ?oc=5)
+[SK Hynix confirms $29.4B Nasdaq listing to fund AI chip expansion - MSN](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaEYyM3ZKa0tWM1VJTEFsMGUwOGFMSFRFWFl0dzR5YW8xeUhTUkx1bGFpc01nYmp5V2lwLUU1SDhsUmxTWGFMMGFNZHp5bjdYa2w3UzdhYnlpUm52T0QwaVlUdEJ5bHhoUV9vcFFweEZPaVZvSVpRVzdKMEQyTHpwdVJNVWVtNWJ2MVZ1U0hjcDBSSkZKS0xHUjR0cDF1OTB6WDB3TzY0NGpEQ0JHN29KaklGa2NTNG12clFYUGc2Q1RLNzI0RHpjZWN5OUxQQTUxSzZOaHBrOC00amNyQWpmUkJmOGF3UmhoZzV6b2tmejRGbGdhM0dIbWh3?oc=5)
 
-Wccftech reports that Lip-Bu Tan Nearly Walked Away From Semiconductors, But One Plea to 'Save
-Intel' Pulled Him Back as CEO, Now Hiring Top CPU/GPU Architects. Intel Foundry: advanced
-packaging expansion can reshape adjacent process demand and customer priority.
+MSN reports that SK Hynix confirms $29.4B Nasdaq listing to fund AI chip expansion. SK hynix:
+HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor
+etch relevance.
 
-Source: Wccftech | Date: 2026-06-17
+Source: MSN | Date: 2026-06-25
 
 ### 76 - Micron Technology - Fab announcements
 
@@ -129,6 +111,17 @@ major AI bottleneck. ASE: advanced packaging expansion can reshape adjacent proc
 customer priority.
 
 Source: igor´sLAB | Date: 2026-06-25
+
+### 74 - NVIDIA - AI accelerator demand
+
+[From the white-haired stock god to the billionaire fund mogul, the smart people shorting Nvidia are all getting rich using the same framework｜Investment, bottleneck - ChainCatcher - ChainCatcher](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDOWFDZXlRclFfSUlKMlRFdXZSSzcydWpJZmY1OWFQeHlMRTQ3aDN4S0E5aExJOFJpT2hxQ2tEZ2RZcFFCOFRtWDRwNHdyOEtlX3Z1ZnpFOGZJclU?oc=5)
+
+ChainCatcher reports that From the white-haired stock god to the billionaire fund mogul, the
+smart people shorting Nvidia are all getting rich using the same framework｜Investment,
+bottleneck - ChainCatcher. NVIDIA: AI accelerator momentum is a leading indicator for CoWoS/HBM
+constraints and etch-intensive foundry demand.
+
+Source: ChainCatcher | Date: 2026-06-26
 
 ### 74 - Cadence - EDA / IP design starts
 
@@ -162,16 +155,6 @@ Source: simplywall.st | Date: 2026-06-15
 
 ### 73 - SK hynix - HBM demand
 
-[SK Hynix to boost memory production 3x ... you can wait another 8 years, right? - The Register](https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnBMZmdXMmsxY0xSdUUtbm1vNVNHc1JzR2J2WVFmV0hYR202RXdKeGxFNHNwZGo2a0NadmdDTGlJWUdrNlRpVnl5REV3eDF6c0E3Y3VsVDJnbGRwNjFlX0hWS2VKdjNjYVZDdVBzcmQ2cHFkSXB0V1VlZmwtbU1XRm1yekRVM0FVYmFBVXZTNDAxSWwteFg1QmpOS3g?oc=5)
-
-The Register reports that SK Hynix to boost memory production 3x... you can wait another 8
-years, right?. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity
-forward, lifting conductor etch relevance.
-
-Source: The Register | Date: 2026-06-12
-
-### 73 - SK hynix - HBM demand
-
 [SK Hynix Has a Major Warning for Micron Technology Stock Investors - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0NXWVVwd0NwalZfQngyb3JzN0VQT2thaTZOTURQbl8wNGgwWWdtTTA1X19PaHFBcmJSVkxNcElfS2Q4U0phNWtNQldwdG9saWQ5R1c5dnNBc1RCSWU2NUU0YVZKNExqRXFFekZFXzhTWHRJTkR6SElSZHo3MmszSnZOM3lxbGtxU3hjVFh2Y3d4THVxTUh4Wg?oc=5)
 
 The Motley Fool reports that SK Hynix Has a Major Warning for Micron Technology Stock Investors.
@@ -182,13 +165,13 @@ Source: The Motley Fool | Date: 2026-06-19
 
 ### 73 - Kioxia - NAND / DRAM pricing
 
-[Kioxia surpassed Toyota as Japan's most valuable company on AI memory demand - Startup Fortune](https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUpSN0hTSWpDY0cyTENMUDZXYzBfUXU2c0V1WjRwbE1ETFVVN2lDMGwzSFJKMGk3Vy1JRmVyTkRMd0hhQ2NQWDlVQVJ3cC1ER280c0VWaXc1VmpjaU5BR0dFZWFpd0RnMTNYWTZhaVRVa29kVFJrWmZZblJENmFlUkd6ZHhTTFlBcUx3SFU5RDhHS2NkM0k2WnlvY1E0bkF2aUZTaVlB?oc=5)
+[Kioxia plans new U.S. listing in spring, stock split at home - The Japan Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXplZDlRamlvb0tDa2Zlc1BwenJfS201SXJTczJsaDRlQTRidllsYkdMQ0Vqa215RkI5a0paeGJOWVZ1WWRXVXE3VG9QUnJCOV9Pd1c4QTlnc0NBd2pfeDFpUXhsaFBoRlYwMVVFRW4xRnhNRzVSTk5sa1JFWm4xU2RaZ21kQndW?oc=5)
 
-Startup Fortune reports that Kioxia surpassed Toyota as Japan's most valuable company on AI
-memory demand. Kioxia: memory price and utilization momentum help estimate when deferred etch
-demand may return.
+The Japan Times reports that Kioxia plans new U.S. listing in spring, stock split at home.
+Kioxia: memory price and utilization momentum help estimate when deferred etch demand may
+return.
 
-Source: Startup Fortune | Date: 2026-06-12
+Source: The Japan Times | Date: 2026-06-25
 
 ### 72 - Cerebras - AI accelerator demand
 
@@ -200,19 +183,9 @@ constraints and etch-intensive foundry demand.
 
 Source: TradingKey | Date: 2026-06-23
 
-### 72 - Cerebras - AI accelerator demand
-
-[Cerebras After Its IPO: How Wafer-Scale Chips Challenge Nvidia Inference - Tech Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdTJZTWZiN3NralJPb0R3ejd4X2IzalRNOHNMd2gyWG1iZl9jNDNFS3VDWWFhTXljMVlBMVFiaUFha2NqWDNSQVJRM2diNUZ5b202d3o5WFY0X21jRXRiWkVfc2hSWnF6enZIYVdpcVRVQnloN0NIZGFCd1VpZGxIU2g3dXA5YkRUamEyUEtVbzJXSXlHN0dtQTA2Z3hiejJyVWlYWWlIRngwVVVOYTB1RWpTQmpxMnV5ZmxqbGtFV0JCdWtU?oc=5)
-
-Tech Times reports that Cerebras After Its IPO: How Wafer-Scale Chips Challenge Nvidia
-Inference. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints
-and etch-intensive foundry demand.
-
-Source: Tech Times | Date: 2026-06-11
-
 ### 70 - GlobalFoundries - Fab announcements
 
-[Singapore key to US chipmaker GlobalFoundries' quest to equip humanoid robots with AI - The Straits Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2VMeDMyeUVDRDJhNlRmNVRtSzE5SmdQb2p1NXJIeHVibk5wemdkMk8zdG11WHVUaHdJYXhvRmNMWFJvUDVvb3lyWU9LVGpLU3E5R2ZIYXYyTlVvdDc0NjVCaFZXZDVLVWJISHF0UHdyNGRDV1JsNkc4bmpjNmgySnRuRjRSNFp5ODNhMVd4VXo0RU9YWTRzQWxvZ0tjMXFQbTkxRnJWZG00Mk1PNW11REdiSG5tc2FYOWFJOXZyVkxJZmx3TVQ5RlZTbE1BQQ?oc=5)
+[Singapore key to US chipmaker GlobalFoundries' quest to equip humanoid robots with AI - The Straits Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjJ6MlpZUkl4YzlMalRzakgwZ1lxT2ptT3MtcnZ3aUJlbXI5elNNME1OWTYyRW5ScGtrOWljeDRVcW9kTEhUbGFEeU1yMUhSeGFNbExFSjExTi12R2NmX3ZrYzdaQzFmdlJmT0VDLWtXbEJXaEFpbjdDMkN5TXIzeXE0MzVDb2dzeEU2WGxZX1FoRi11VldBRm5HWElTZ1NyQ0s4WWVEWVR4a0U3YVd1bXdPOEZuQk5OQ0Z2bUlHMA?oc=5)
 
 The Straits Times reports that Singapore key to US chipmaker GlobalFoundries' quest to equip
 humanoid robots with AI. GlobalFoundries: EDA/IP activity is an upstream signal for design
@@ -308,16 +281,6 @@ Role Against Nvidia. Broadcom: custom silicon demand can translate into foundry 
 packaging capacity, and advanced-node etch pull.
 
 Source: Kavout | AI | Date: 2026-06-24
-
-### 64 - Arista Networks - ASIC and custom silicon
-
-[Why Arista Networks Stock Flew More Than 4% Higher on Friday - AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFBEZUo5N1lJNjRRS2xpcUpCOW1vVG5WM1RJMHFyc1ViM1d1dnJUYk51UWJpWHU0cE56Y1pBWnRsTTVDVDJQdnhyaGFMZFpQZHdjMnVmUE1EZktkSVQzM0FvUWF3YmlxcklLNHdXcTNzYnd2eVBfSks4ZDh1TXh1UQ?oc=5)
-
-AOL.com reports that Why Arista Networks Stock Flew More Than 4% Higher on Friday. Arista
-Networks: custom silicon demand can translate into foundry starts, packaging capacity, and
-advanced-node etch pull.
-
-Source: AOL.com | Date: 2026-06-13
 
 ### 58 - Siemens EDA - EDA / IP design starts
 
