@@ -1,16 +1,16 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-06-29T16:40:51.016069+00:00
+Generated: 2026-06-30T15:40:41.508106+00:00
 
 Tracked entities: 53
 
 ## What matters to conductor etch this week
 
 - **Intel's fab roadmap examined - Arizona, Ohio, Ireland, and the two deadlines deciding 14A process node - Tom's Hardware** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **Intel 14A Yields Hit Impressive Milestone Before Trial Production - TechPowerUp** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Intel makes Advanced Packaging its own foundry focus: former SK hynix chief to scale EMIB-T and HBI - igor´sLAB** - Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.
 - **Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Intel Corporation Thailand Depositary Receipts Repr 1 Sh Trade Ideas - SET:INTEL01 - TradingView** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **Why Kioxia is going easy on capex despite AI memory boom - Nikkei Asia** - Kioxia: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.
-- **Qualcomm Snapdragon 8 Series 2nm Roadmap Leaked with MediaTek Dimensity 9600 Pro Specs - Technetbook** - MediaTek: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull.
 
 ## Ranked signals
 
@@ -24,15 +24,15 @@ process complexity where conductor etch timing matters.
 
 Source: Tom's Hardware | Date: 2026-06-17
 
-### 94 - Intel Foundry - EUV roadmap
+### 85 - Intel Foundry - Advanced packaging
 
-[Intel 14A Yields Hit Impressive Milestone Before Trial Production - TechPowerUp](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTjhBWF8ybGZsaHVUejh0U01hZTRfc1c2Vk9WQW5vckpBLTRoSXRkMTF0WElMalNibVNDVlpLNW1XekJLSkh1UHBqQVJPZDdNZTRuZk5sY0lkWTZzSnk0emsycXRXeHkwMExzNUFtUWFLRVRtMkRxUklBWUpGWWY1dXVVUDIwZTRxdFFnLUNrMm85YXRKc0pXUUlOOHI0V2s2MUHSAacBQVVfeXFMUE50dGt1Z05HMGdNb1lydmVyRFNqckJMQmMxZ1J3RzN3SkJaTHN0TGhXclNKenl2LVhTN0lBaUpoSWwxcHF5Z1ZTSlJQenc1WHloc3lVX25JUkxxX3RiUWRMOWdhUWl6Y01nUDVVbVB4dEFvakVQbFJoekV5cWFWQUlhb1FRNkVIR1pHS2Uwd1ByOFZCay1Cbi1KTWNzbFlqNVd1NE5ZVms?oc=5)
+[Intel makes Advanced Packaging its own foundry focus: former SK hynix chief to scale EMIB-T and HBI - igor´sLAB](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGRS1IZWR4TVExazREallkVV9FOGR0NkU5Ti1WeENTTXdFVmppVGZEX3N0eVdyY1FYdE8yam9hWGx6dXNMSkQza1ExNGg?oc=5)
 
-TechPowerUp reports that Intel 14A Yields Hit Impressive Milestone Before Trial Production.
-Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch
-timing matters.
+igor´sLAB reports that Intel makes Advanced Packaging its own foundry focus: former SK hynix
+chief to scale EMIB-T and HBI. Intel Foundry: advanced packaging expansion can reshape adjacent
+process demand and customer priority.
 
-Source: TechPowerUp | Date: 2026-06-16
+Source: igor´sLAB | Date: 2026-06-20
 
 ### 83 - Intel Foundry - EUV roadmap
 
@@ -42,6 +42,16 @@ Fortune reports that Intel (INTC) Q1 2026 Earnings Call Transcript. Intel Foundr
 progress points to leading-edge process complexity where conductor etch timing matters.
 
 Source: Fortune | Date: 2026-06-27
+
+### 83 - Intel Foundry - EUV roadmap
+
+[Intel Corporation Thailand Depositary Receipts Repr 1 Sh Trade Ideas - SET:INTEL01 - TradingView](https://news.google.com/rss/articles/CBMibkFVX3lxTE5rZFJ2eVc0dWkyaGpOMVpXVmd3dUNxeHhvTzRsMEJSbDZPUkltVFEtVW1XMHFFQm82TllNR0tIVlpKc3QyOC1fQ3QxRmR3R3NwOUk5bHJETGMyOWg4UTVlVFNhdnVnbnphZE0wS2tn?oc=5)
+
+TradingView reports that Intel Corporation Thailand Depositary Receipts Repr 1 Sh Trade Ideas -
+SET:INTEL01. Intel Foundry: roadmap progress points to leading-edge process complexity where
+conductor etch timing matters.
+
+Source: TradingView | Date: 2026-06-29
 
 ### 83 - Kioxia - NAND / DRAM pricing
 
@@ -61,6 +71,16 @@ Technetbook reports that Qualcomm Snapdragon 8 Series 2nm Roadmap Leaked with Me
 capacity, and advanced-node etch pull.
 
 Source: Technetbook | Date: 2026-06-26
+
+### 77 - Samsung Electronics - HBM demand
+
+[Samsung Electronics stock climbs 6% amid strong AI demand for memory chips - Crypto Briefing](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ncUstY3J2bFM5WXUzaGZnemE4RjdDU2d3aTNXdGdaVWNFMm51c0RtdVF4NG5qdkw1a2todENKMmJlZmROc25IdjB3cUYwcUtZZmZzSER6X0xxZk1Rb2Q5a0tEdWFCNFJoWkRTTExKWkFwREE?oc=5)
+
+Crypto Briefing reports that Samsung Electronics stock climbs 6% amid strong AI demand for
+memory chips. Samsung Electronics: HBM demand can pull advanced DRAM capacity and packaging
+intensity forward, lifting conductor etch relevance.
+
+Source: Crypto Briefing | Date: 2026-06-30
 
 ### 77 - SK hynix - HBM demand
 
@@ -102,35 +122,15 @@ customer priority.
 
 Source: igor´sLAB | Date: 2026-06-25
 
-### 73 - Samsung Foundry - Foundry customer wins
+### 75 - Intel Foundry - Advanced packaging
 
-[Samsung Electronics Wins Foundry Orders From Google, AMD and BYD as TSMC Capacity Tightness Drives Client Shift - TradingKey](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHpsTDFXT0RoTThlQjM1MlRTNUpwSUcwNGM2VkRkTzYzMmZUdVhPZDJnSFFGMks0UG9MUV9CUHVYemRWLWQzQnBRbW9aZVlleHp3SUQ2UmphOWhtLTJoa21BdmEzcnRqbXhvN05nVXRPa0RENWVadDFSVWttaDdBbktmUVF5UjF4eEEyMWtNcGpvZEpDMjdSMk5uRQ?oc=5)
+[Intel Corp Stock (INTC) Opened Up by 4.67% on Jun 22: A Full Analysis - TradingKey](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUGplZ2lSOXRUTEd4TU44Y3RDQUZySWxwcXNCUE10UW1ha016cDQ5SXVTWVlqbDcyd3dxRWpEUE1LMmIzcGE0RWZCVlpqQVJXOE5lMjhSYTg3NFZ4Q1FxV3ZpLURLbV9weTVoODk3QkNDUmpEcl9wMUFURTlRb1hkNmY3ektDU0VqZTFv?oc=5)
 
-TradingKey reports that Samsung Electronics Wins Foundry Orders From Google, AMD and BYD as TSMC
-Capacity Tightness Drives Client Shift. Samsung Foundry: fab and capacity signals should be
-checked for ramp timing, layer complexity, and tool pull-ins.
+TradingKey reports that Intel Corp Stock (INTC) Opened Up by 4.67% on Jun 22: A Full Analysis.
+Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer
+priority.
 
-Source: TradingKey | Date: 2026-06-16
-
-### 73 - Micron Technology - HBM demand
-
-[SK Hynix Has a Major Warning for Micron Technology Stock Investors - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0NXWVVwd0NwalZfQngyb3JzN0VQT2thaTZOTURQbl8wNGgwWWdtTTA1X19PaHFBcmJSVkxNcElfS2Q4U0phNWtNQldwdG9saWQ5R1c5dnNBc1RCSWU2NUU0YVZKNExqRXFFekZFXzhTWHRJTkR6SElSZHo3MmszSnZOM3lxbGtxU3hjVFh2Y3d4THVxTUh4Wg?oc=5)
-
-The Motley Fool reports that SK Hynix Has a Major Warning for Micron Technology Stock Investors.
-Micron Technology: HBM demand can pull advanced DRAM capacity and packaging intensity forward,
-lifting conductor etch relevance.
-
-Source: The Motley Fool | Date: 2026-06-19
-
-### 73 - SK hynix - HBM demand
-
-[Samsung and SK Hynix invest $518B in expansion - Techzine Global](https://news.google.com/rss/articles/CBMingFBVV95cUxNTm1ZaVRxWVhZVDk0ZGZrNXpvVWU5UFBFc1JXYmZsMDd6WEppS2RzWHE1UnBqYVRVdC1JdUlYZHdCQkxzWmxXVG9lMDlCMFZLZ19xN2o5NEw4NTNVSjJVMDlobkE5ZmszRW1oZ1NPTTQxalRyeFhyWmR4YkpRblVFSDJTNkJwTndZanozMVZvVmFNR0hkSWFBSl9xaEJiUQ?oc=5)
-
-Techzine Global reports that Samsung and SK Hynix invest $518B in expansion. SK hynix: HBM
-demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch
-relevance.
-
-Source: Techzine Global | Date: 2026-06-29
+Source: TradingKey | Date: 2026-06-22
 
 ### 73 - Kioxia - NAND / DRAM pricing
 
@@ -214,11 +214,11 @@ Source: Seeking Alpha | Date: 2026-06-25
 
 ### 68 - Credo Technology - AI accelerator demand
 
-[Credo Reports Fourth Quarter and Fiscal Year 2026 Financial Results - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNW9ockR0ek1HT2ZDMlBYVFloaFJyR1pwb012M2FfeTZmd29jbnRxT25YWm5oRTVXWjBtdS1HM2FoR2lxbVlVdW1keWE3U09OMk9v?oc=5)
+[Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5)
 
-Credo Technology Group Holding Ltd - Investor Relations reports that Credo Reports Fourth
-Quarter and Fiscal Year 2026 Financial Results. Credo Technology: AI accelerator momentum is a
-leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group
+Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading
+indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
 
 Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-06-26
 
@@ -231,16 +231,6 @@ TIKR.com reports that Credo Technology Rose 9% Today. Can Its AI Growth Justify 
 constraints and etch-intensive foundry demand.
 
 Source: TIKR.com | Date: 2026-06-22
-
-### 68 - JCET - OSAT / packaging capacity
-
-[US$1.1bn JCET chip packaging and testing plant in Shanghai to help secure China's AI capabilities - Construction Review](https://news.google.com/rss/articles/CBMizgFBVV95cUxOclFKb0hfMmJWcmlwWTFYUVFRTVgtQjc2V05md0ptUnlNWTROUWlBcHg2bFFlSkUtdU5ubzZVOHhmX3RPcWRSSkJWdHdDeVN1N3FPMjFqYzVXVWJMU1o0OVRaUXRtZWpuQmJSRmZLVENEQlB1Z2JaRGdFSnZuVWNzd1JGR3o5bXlCOUV5ZXVFamJfbnIzSFktaTJFTTY1eml0cTlmUE1mN0FYcTA1UzJqNUpYczE5eFoxZmNMQm5qLUxDZHFZQlg0ckdfdXFHdw?oc=5)
-
-Construction Review reports that US$1.1bn JCET chip packaging and testing plant in Shanghai to
-help secure China's AI capabilities. JCET: advanced packaging expansion can reshape adjacent
-process demand and customer priority.
-
-Source: Construction Review | Date: 2026-06-25
 
 ### 64 - Broadcom - ASIC and custom silicon
 
