@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T15:48:29.283998+00:00",
+  "generated_at": "2026-07-02T15:28:40.113412+00:00",
   "customers": [
     "TSMC",
     "Samsung Foundry",
@@ -137,6 +137,10 @@
   ],
   "brief": [
     {
+      "headline": "Samsung Foundry Declares Simultaneous Innovation in 2nm and AI Equipment; \"4nm at Full Capacity\" - finance.biggo.com",
+      "implication": "Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
+    },
+    {
       "headline": "[News] Intel Reportedly Breaks Ground on Santa Clara Expansion for Next-Gen EUV Mask Capacity - TrendForce",
       "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
     },
@@ -149,15 +153,21 @@
       "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
     },
     {
-      "headline": "Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune",
+      "headline": "Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point - Tom's Hardware",
       "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
-    },
-    {
-      "headline": "Qualcomm Snapdragon 8 Series 2nm Roadmap Leaked with MediaTek Dimensity 9600 Pro Specs - Technetbook",
-      "implication": "MediaTek: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull."
     }
   ],
   "signals": [
+    {
+      "customer": "Samsung Foundry",
+      "topic": "Foundry customer wins",
+      "title": "Samsung Foundry Declares Simultaneous Innovation in 2nm and AI Equipment; \"4nm at Full Capacity\" - finance.biggo.com",
+      "summary": "finance.biggo.com reports that Samsung Foundry Declares Simultaneous Innovation in 2nm and AI Equipment; \"4nm at Full Capacity\". Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
+      "impact_score": 93,
+      "date": "2026-07-02",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsSnZlSHg3SE1XelptQk8yZlFYOVhMWDBiWHlGMi1UQUVyWXA0TFJQZVBTdy1uM28wMGlyNWpXOXVyams2aWhpdTE4Uk04TmlvemU5ZVdZeC1oRWx0al9yM2I5eVY0dWRtVlRtZnJLTk5wd0RDY2c?oc=5"
+    },
     {
       "customer": "Intel Foundry",
       "topic": "EUV roadmap",
@@ -191,32 +201,22 @@
     {
       "customer": "Intel Foundry",
       "topic": "EUV roadmap",
-      "title": "Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune",
-      "summary": "Fortune reports that Intel (INTC) Q1 2026 Earnings Call Transcript. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 83,
-      "date": "2026-06-27",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDZ1UVdPM3d1SGlxcHl2MWUzU2pDc0hyRHdmeFpTOEF3SkZsaUpteEszQkxjUlQ2QnFJaDJSUXBUWWZuQl9FRVNmVDZDOWJiSVhWU1EwSHBWMmdxVGRrUA?oc=5"
+      "title": "Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point - Tom's Hardware",
+      "summary": "Tom's Hardware reports that Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
+      "impact_score": 79,
+      "date": "2026-07-02",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcUJzZ3RTdnByRVF1blF2QVZJUGhMTjBZa2JUNlphME1ObllkWmFra2lKT3BzOEdFMTNMTzZYMFBSQnVwUDNjZld6ZTlQR3NHNmV5RzlKMmdWWEdmYmw2SldraHNmUXpmaDZPXzZNNXdWQzJmUkgxX0pzdDNxVk4tSGVZbVFfWkdxdkZoVFJTQ2hRelNhdkdveEpJU3dKYnFaV1FmdTUzYlNOcnl5cEgtMHFKVXZ6bVQ0OFRobWhZN2tacTd0cG41U2JjbzZENmczam9McU93UDRJcG5HeVhLVjZ4dw?oc=5"
     },
     {
-      "customer": "MediaTek",
-      "topic": "ASIC and custom silicon",
-      "title": "Qualcomm Snapdragon 8 Series 2nm Roadmap Leaked with MediaTek Dimensity 9600 Pro Specs - Technetbook",
-      "summary": "Technetbook reports that Qualcomm Snapdragon 8 Series 2nm Roadmap Leaked with MediaTek Dimensity 9600 Pro Specs. MediaTek: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull.",
-      "impact_score": 80,
-      "date": "2026-06-26",
-      "source": "Technetbook",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rWDVpT3lRZmNJaG96OTZDNmd2clJHS280QkNfSHI3dzh4ZEFxVHRPdExRTXh1QlR4bHVzajNjTUlKdXNSSmpxb1dycjJGMEhvUC14aU1FZloxTHBzY3lGVVRieXdVRk1DbHVtM3BsX2J1MnBocTk2azJEUEo1U0E?oc=5"
-    },
-    {
-      "customer": "SK hynix",
-      "topic": "HBM demand",
-      "title": "How SK Hynix's bet on a niche memory chip made it more valuable than Samsung - Reuters",
-      "summary": "Reuters reports that How SK Hynix's bet on a niche memory chip made it more valuable than Samsung. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
-      "impact_score": 77,
-      "date": "2026-06-24",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzZyMHVEbFBPMjFsTEx3UG01MUF3MnduN2RTbGlhQkdHM1pNYWJtbkNUb0JIc3VfdTMwNFRfOVo2MWhTc09HLTBqdUJjX1NKYnVWbDh1WEdVZ2JBZG5VcW15Yk9hWHpDWHh5UmlwM3VySFk1YzIzX1FzUHlldUJlSklUODJFMnotelN1UVZwbVMyR1YxNXM1LUtTY09Dd0ZscWF2RXk4RFhWaXhqUmZwb01Eb0FtMVdVVXRKTUZUSmhNbEE?oc=5"
+      "customer": "Intel Foundry",
+      "topic": "Advanced packaging",
+      "title": "Intel and Apple's U.S. Chip Push: Can One Deal Change the AI Stock Supply-Chain Trade? - Crypto Daily",
+      "summary": "Crypto Daily reports that Intel and Apple's U.S. Chip Push: Can One Deal Change the AI Stock Supply-Chain Trade?. Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "impact_score": 79,
+      "date": "2026-06-20",
+      "source": "Crypto Daily",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3NGVDZVdDJ3aHFDRmc0aVhRZmlwbDhQc0xIRjJTb3VJblBCUVpFSHp4NGVkX1RwVFZtWlZ4dVIwZFFrNHBjT3dLN1U2LUNzdEtmcmwwVk9tN1NtLW5nb1dFVUhLblZaZTNtaHNHWDlfOU9PcEYyU1cwWUVMNFlqNTFvRmJzM2M?oc=5"
     },
     {
       "customer": "SK hynix",
@@ -229,14 +229,14 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMFlPb203OUt2bG9DWTRrZzFMOXd4ZTFDaVpCSXBySkVQd1VGZzFGYjRKSjZBNTJMOFJBNFlwSzd0UDlJVDBmQ0szX0o0UU9MUTU4bDZyQlNQam1fSm1sWEZJV0lXRzNmVEtvZGVtTWNlS05qdEpqQ3NwVHM2ajJpcDJGZ05EajlCNjdtY21LYzlDRVdlb2FGT3R3OGNqSEh1MVAyVmNlTl9sTGV2a0FTNWJQc3FoZ3NXU3M3X0J1V3Z6bGhhdUJwakZNNF8zdkZXS3BTLVQ1RnpXeXU0NlNtVTIzSm9oTVQxTUROcWdtak4?oc=5"
     },
     {
-      "customer": "ASE",
-      "topic": "OSAT / packaging capacity",
-      "title": "ASE is building 15 new sites: Advanced Packaging is becoming the next major AI bottleneck - igor\u00b4sLAB",
-      "summary": "igor\u00b4sLAB reports that ASE is building 15 new sites: Advanced Packaging is becoming the next major AI bottleneck. ASE: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "customer": "Micron Technology",
+      "topic": "Fab announcements",
+      "title": "Micron Technology advances New York fab plan, boosting US AI memory capacity - Crypto Briefing",
+      "summary": "Crypto Briefing reports that Micron Technology advances New York fab plan, boosting US AI memory capacity. Micron Technology: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
       "impact_score": 76,
-      "date": "2026-06-25",
-      "source": "igor\u00b4sLAB",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVpJUEdJMGRqSlJIcFAzbDRoazloekNWLVhCQ2p5WG5MaG5ULWNUamhmQUplNVNMc1ZqdEhfbXQzeFdvdXNIbHc0NFRWMmdRLXBfUXZYRGZNcnh6RU84d2NOX3daYUpadFc1NnV6TUduSXBLT1hYS01kNDJvQjdwMHh6Y1lwYzhsZEVPSXRZY2FZOWVUVFhpcEhadw?oc=5"
+      "date": "2026-06-23",
+      "source": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQksyeVQyNkFDbTM1QTZXVU1XRVlvWHBXMURteTlyWmZRdTRfcUgwQVFpLTNoczAtSXNWNWlTeHJybkIyV1ZFYkIzUWZSXzVSWEtDaEVRMk56V1VQTWdNWm43Ty10V2xD?oc=5"
     },
     {
       "customer": "ASE",
@@ -249,16 +249,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWVtR0VVYjVhSEJnVW9SODB6QTMtV0l2ekVGYURvVXgtMVpOeVg1TnBvZUdiWU9tYUlsNDZLQmJzYUZwQU5lTjRvRnQ4RGxLQXIzMFU5RTBDSjA4M0M0blkyWVhjX1NQeVM3QklqaG8zc1pzQTktWHpFZ0VzMnJsUUgtNTl4YUZRbGpQbktyeDJnVVEtX1V4cUtCY3dEWGVPTXYxdVBRZG9XY1RfYXJ0ZmFrSnhjbTJGbFNYQkxXTXNsSFVfcHg3ckRVUXV2TURYcEFiaVprXzVqcGs?oc=5"
     },
     {
-      "customer": "Intel Foundry",
-      "topic": "Advanced packaging",
-      "title": "Intel Corp Stock (INTC) Opened Up by 4.67% on Jun 22: A Full Analysis - TradingKey",
-      "summary": "TradingKey reports that Intel Corp Stock (INTC) Opened Up by 4.67% on Jun 22: A Full Analysis. Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.",
-      "impact_score": 75,
-      "date": "2026-06-22",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUGplZ2lSOXRUTEd4TU44Y3RDQUZySWxwcXNCUE10UW1ha016cDQ5SXVTWVlqbDcyd3dxRWpEUE1LMmIzcGE0RWZCVlpqQVJXOE5lMjhSYTg3NFZ4Q1FxV3ZpLURLbV9weTVoODk3QkNDUmpEcl9wMUFURTlRb1hkNmY3ektDU0VqZTFv?oc=5"
-    },
-    {
       "customer": "SK hynix",
       "topic": "HBM demand",
       "title": "Samsung and SK Hynix invest $518B in expansion - Techzine Global",
@@ -267,16 +257,6 @@
       "date": "2026-06-29",
       "source": "Techzine Global",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTm1ZaVRxWVhZVDk0ZGZrNXpvVWU5UFBFc1JXYmZsMDd6WEppS2RzWHE1UnBqYVRVdC1JdUlYZHdCQkxzWmxXVG9lMDlCMFZLZ19xN2o5NEw4NTNVSjJVMDlobkE5ZmszRW1oZ1NPTTQxalRyeFhyWmR4YkpRblVFSDJTNkJwTndZanozMVZvVmFNR0hkSWFBSl9xaEJiUQ?oc=5"
-    },
-    {
-      "customer": "Kioxia",
-      "topic": "NAND / DRAM pricing",
-      "title": "Kioxia plans new U.S. listing in spring and stock split at home - The Japan Times",
-      "summary": "The Japan Times reports that Kioxia plans new U.S. listing in spring and stock split at home. Kioxia: memory price and utilization momentum help estimate when deferred etch demand may return.",
-      "impact_score": 73,
-      "date": "2026-06-25",
-      "source": "The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXplZDlRamlvb0tDa2Zlc1BwenJfS201SXJTczJsaDRlQTRidllsYkdMQ0Vqa215RkI5a0paeGJOWVZ1WWRXVXE3VG9QUnJCOV9Pd1c4QTlnc0NBd2pfeDFpUXhsaFBoRlYwMVVFRW4xRnhNRzVSTk5sa1JFWm4xU2RaZ21kQndW?oc=5"
     },
     {
       "customer": "Cadence",
@@ -314,7 +294,7 @@
       "title": "Singapore key to US chipmaker GlobalFoundries' quest to equip humanoid robots with AI - The Straits Times",
       "summary": "The Straits Times reports that Singapore key to US chipmaker GlobalFoundries' quest to equip humanoid robots with AI. GlobalFoundries: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
       "impact_score": 70,
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "source": "The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjJ6MlpZUkl4YzlMalRzakgwZ1lxT2ptT3MtcnZ3aUJlbXI5elNNME1OWTYyRW5ScGtrOWljeDRVcW9kTEhUbGFEeU1yMUhSeGFNbExFSjExTi12R2NmX3ZrYzdaQzFmdlJmT0VDLWtXbEJXaEFpbjdDMkN5TXIzeXE0MzVDb2dzeEU2WGxZX1FoRi11VldBRm5HWElTZ1NyQ0s4WWVEWVR4a0U3YVd1bXdPOEZuQk5OQ0Z2bUlHMA?oc=5"
     },
@@ -391,12 +371,22 @@
     {
       "customer": "Texas Instruments",
       "topic": "Fab announcements",
-      "title": "Texas Instruments Inc Stock (TXN) Moved Up by 3.53% on Jun 25: Drivers Behind the Movement - TradingKey",
-      "summary": "TradingKey reports that Texas Instruments Inc Stock (TXN) Moved Up by 3.53% on Jun 25: Drivers Behind the Movement. Texas Instruments: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
+      "title": "Texas Instruments Inc Stock (TXN) Moved Up by 3.40% on Jun 30: A Full Analysis - TradingKey",
+      "summary": "TradingKey reports that Texas Instruments Inc Stock (TXN) Moved Up by 3.40% on Jun 30: A Full Analysis. Texas Instruments: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
       "impact_score": 66,
-      "date": "2026-06-25",
+      "date": "2026-06-30",
       "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdG9CYWJ1em9pWHhELVg3LXNQWWRsUVpRZ2hOZlFxM1lyVXBUOFRqS29yQXExTnQyMHZPcUZRYVpuc0dQYldIUWFVYXRiNktsMkpPOVJuY19ROTZYSUdiN3FYTENPMXJxVFVKTmZ2Tno1cm1Vdzd5NnBJQkhIMjByUWNScEpBSkczV3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVHdUSGZidktLNHdRbHZSU2VUcG8xbnE4SGFWeVBpOG9oRHVoREFOd3ctUERqVnREbkhGQlo0U2dSUmkyZjk2MGNRRE1VWkh1LWRKNDdqT05ZMTB2QkFleHpCVl9NVWZsSmpqaU5tYlZqcWEyQkpYTWtZbTNfTHd0SGdrR25jTmExeWc?oc=5"
+    },
+    {
+      "customer": "Infineon",
+      "topic": "Automotive and edge silicon",
+      "title": "Infineon opens Smart Power Fab as Europe's largest power semiconductor manufacturing site - eeNews Europe",
+      "summary": "eeNews Europe reports that Infineon opens Smart Power Fab as Europe's largest power semiconductor manufacturing site. Infineon: automotive and power-semiconductor demand can influence specialty fab loading and mature-node etch utilization.",
+      "impact_score": 64,
+      "date": "2026-07-02",
+      "source": "eeNews Europe",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2puajYxcFFLTUJSb3NBRm9tU0JfSFNKWmNkc1RmRTRwV3hkSWljeVdPX3Q0ZTJpYnk0MGQydVhGb0FrTGZ2UzNHRkVmcktHNHBkaEZPRXJkOXJOaFhMXy1QdGh1czdSUHFFUGNLdUtGQkExRHdoVnBPaW14aF83bm5neC1ZMG5VbW1Fc0JQQmcyZHJvalY4VzJxeEl0cEs3V3M2TkItWHJ2Ul9POFFIZDAzRjQ3ZW5sdThOUUJR?oc=5"
     },
     {
       "customer": "Broadcom",
@@ -407,16 +397,6 @@
       "date": "2026-06-24",
       "source": "Kavout | AI",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObERtSzNXdzJZRG5KSGljMmRSNTBnWkxNNlZPdEFacHlzMHB4RlRxNzg2Qk9IdURIblBQdnA5MHAwVkprbzFFQWwzZVFSVjdBN0tQWlFlelVEMFdVampIQURDblE4ZUFtT0w5cC0xX1hXb0FaRFdOR1UtSndBc1oyYnpZTktxZjJyQ08tNTVOZjVsM1BqQW01MEcxazgxd0ZnTklXdURMbFpJclU1SDlSejFhV1NoWWNaUVBIdENpOA?oc=5"
-    },
-    {
-      "customer": "Samsung Foundry",
-      "topic": "Foundry customer wins",
-      "title": "Samsung Foundry Unveils 1.4nm Roadmap: SF1.4 Mass Production in 2029, Enhanced Version in 2030 - finance.biggo.com",
-      "summary": "finance.biggo.com reports that Samsung Foundry Unveils 1.4nm Roadmap: SF1.4 Mass Production in 2029, Enhanced Version in 2030. Samsung Foundry: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
-      "impact_score": 63,
-      "date": "2026-07-01",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fYy1nMVdvZktSMXE4UDNiS25FWFlKWHlOSVh2QTNZT3ltTEJHelFVX0tUX3RxWjRXcU1PV2VXN1NzNnd0ckstUUpFclFRYUpmSHY1OTBJeS1GLTA3ZmtDVXJaSS1fMFZPcW5mTjVIOWNxa2RRc0E?oc=5"
     },
     {
       "customer": "Samsung Foundry",
