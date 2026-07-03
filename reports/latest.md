@@ -1,18 +1,28 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-07-02T15:28:40.113412+00:00
+Generated: 2026-07-03T15:23:18.450029+00:00
 
 Tracked entities: 53
 
 ## What matters to conductor etch this week
 
+- **US Media: Samsung and Anthropic Discuss Collaboration on 2nm AI Chips and Advanced Packaging - thelec.net** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **Samsung Foundry Declares Simultaneous Innovation in 2nm and AI Equipment; "4nm at Full Capacity" - finance.biggo.com** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **[News] Intel Reportedly Breaks Ground on Santa Clara Expansion for Next-Gen EUV Mask Capacity - TrendForce** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **Intel makes Advanced Packaging its own foundry focus: former SK hynix chief to scale EMIB-T and HBI - igor´sLAB** - Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.
 - **Intel Breaks Ground On New Manufacturing Facility In Santa Clara, As Foundry Business Brings Back Semiconductor Leadership Right In The Heart of Silicon Valley - Wccftech** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point - Tom's Hardware** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 
 ## Ranked signals
+
+### 95 - Samsung Foundry - Advanced packaging
+
+[US Media: Samsung and Anthropic Discuss Collaboration on 2nm AI Chips and Advanced Packaging - thelec.net](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BTUNVaDBVRmZzZS1vZUNaMndZZkwwZVprLTczeWN3eS1fMS1qMlhqRFBPQ20tcGQxMnVnZFo1M0FybzZnMWdMcngwMTJRN2ROSDZSYTFNR2dXcnRVVmwwV3g4cjBTZUU?oc=5)
+
+thelec.net reports that US Media: Samsung and Anthropic Discuss Collaboration on 2nm AI Chips
+and Advanced Packaging. Samsung Foundry: roadmap progress points to leading-edge process
+complexity where conductor etch timing matters.
+
+Source: thelec.net | Date: 2026-07-03
 
 ### 93 - Samsung Foundry - Foundry customer wins
 
@@ -55,6 +65,26 @@ timing matters.
 
 Source: Wccftech | Date: 2026-06-30
 
+### 80 - MediaTek - ASIC and custom silicon
+
+[Qualcomm Snapdragon 8 Series 2nm Roadmap Leaked with MediaTek Dimensity 9600 Pro Specs - Technetbook](https://news.google.com/rss/articles/CBMif0FVX3lxTE1rWDVpT3lRZmNJaG96OTZDNmd2clJHS280QkNfSHI3dzh4ZEFxVHRPdExRTXh1QlR4bHVzajNjTUlKdXNSSmpxb1dycjJGMEhvUC14aU1FZloxTHBzY3lGVVRieXdVRk1DbHVtM3BsX2J1MnBocTk2azJEUEo1U0E?oc=5)
+
+Technetbook reports that Qualcomm Snapdragon 8 Series 2nm Roadmap Leaked with MediaTek Dimensity
+9600 Pro Specs. MediaTek: custom silicon demand can translate into foundry starts, packaging
+capacity, and advanced-node etch pull.
+
+Source: Technetbook | Date: 2026-06-26
+
+### 80 - Meta MTIA - AI accelerator demand
+
+[Samsung Foundry Emerges as AI Chip Powerhouse, Wooing Anthropic and Meta - Seoul Economic Daily](https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0ZQMDRiOUpQZ2pFYzRFMzVpVTJNOGFoc2ExdldVal9Xdm55RXdPc1ZGUVlla3gxMnplVUxMZVhWcE4tVEtudHJod05RR2hRbHQ1T3o2V0lKQnhrQWdRdTE3RGFMTlo3eHJ5TlZCbkNyU3g3dVFiQk1pQmg2TkpKUmVEZ2VzOXkxM1BUZWFtT1FpZ2Uxdy1jVFFB?oc=5)
+
+Seoul Economic Daily reports that Samsung Foundry Emerges as AI Chip Powerhouse, Wooing
+Anthropic and Meta. Meta MTIA: AI accelerator momentum is a leading indicator for CoWoS/HBM
+constraints and etch-intensive foundry demand.
+
+Source: Seoul Economic Daily | Date: 2026-07-03
+
 ### 79 - Intel Foundry - EUV roadmap
 
 [Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point - Tom's Hardware](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcUJzZ3RTdnByRVF1blF2QVZJUGhMTjBZa2JUNlphME1ObllkWmFra2lKT3BzOEdFMTNMTzZYMFBSQnVwUDNjZld6ZTlQR3NHNmV5RzlKMmdWWEdmYmw2SldraHNmUXpmaDZPXzZNNXdWQzJmUkgxX0pzdDNxVk4tSGVZbVFfWkdxdkZoVFJTQ2hRelNhdkdveEpJU3dKYnFaV1FmdTUzYlNOcnl5cEgtMHFKVXZ6bVQ0OFRobWhZN2tacTd0cG41U2JjbzZENmczam9McU93UDRJcG5HeVhLVjZ4dw?oc=5)
@@ -77,6 +107,16 @@ Source: Crypto Daily | Date: 2026-06-20
 
 ### 77 - SK hynix - HBM demand
 
+[How SK Hynix's bet on a niche memory chip made it more valuable than Samsung - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzZyMHVEbFBPMjFsTEx3UG01MUF3MnduN2RTbGlhQkdHM1pNYWJtbkNUb0JIc3VfdTMwNFRfOVo2MWhTc09HLTBqdUJjX1NKYnVWbDh1WEdVZ2JBZG5VcW15Yk9hWHpDWHh5UmlwM3VySFk1YzIzX1FzUHlldUJlSklUODJFMnotelN1UVZwbVMyR1YxNXM1LUtTY09Dd0ZscWF2RXk4RFhWaXhqUmZwb01Eb0FtMVdVVXRKTUZUSmhNbEE?oc=5)
+
+Reuters reports that How SK Hynix's bet on a niche memory chip made it more valuable than
+Samsung. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward,
+lifting conductor etch relevance.
+
+Source: Reuters | Date: 2026-06-24
+
+### 77 - SK hynix - HBM demand
+
 [SK Hynix aims for $29B Nasdaq debut to fund AI chip growth - MSN](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMFlPb203OUt2bG9DWTRrZzFMOXd4ZTFDaVpCSXBySkVQd1VGZzFGYjRKSjZBNTJMOFJBNFlwSzd0UDlJVDBmQ0szX0o0UU9MUTU4bDZyQlNQam1fSm1sWEZJV0lXRzNmVEtvZGVtTWNlS05qdEpqQ3NwVHM2ajJpcDJGZ05EajlCNjdtY21LYzlDRVdlb2FGT3R3OGNqSEh1MVAyVmNlTl9sTGV2a0FTNWJQc3FoZ3NXU3M3X0J1V3Z6bGhhdUJwakZNNF8zdkZXS3BTLVQ1RnpXeXU0NlNtVTIzSm9oTVQxTUROcWdtak4?oc=5)
 
 MSN reports that SK Hynix aims for $29B Nasdaq debut to fund AI chip growth. SK hynix: HBM
@@ -85,15 +125,35 @@ relevance.
 
 Source: MSN | Date: 2026-06-24
 
-### 76 - Micron Technology - Fab announcements
+### 77 - Kioxia - NAND / DRAM pricing
 
-[Micron Technology advances New York fab plan, boosting US AI memory capacity - Crypto Briefing](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQksyeVQyNkFDbTM1QTZXVU1XRVlvWHBXMURteTlyWmZRdTRfcUgwQVFpLTNoczAtSXNWNWlTeHJybkIyV1ZFYkIzUWZSXzVSWEtDaEVRMk56V1VQTWdNWm43Ty10V2xD?oc=5)
+[Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback - Reuters](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRDVsblQwUXlaZU9ZLUg5eFZNOTRTSzNKZVRSRWVNUmtvU2dseHNUeDc4SWVNMWNYbU5qMjVyUjU4Sk90WE9TOXF4MlREMDhnYmw2cVowVUJwbG1Ud3VCeEFBY1A2SnpzZlVJNHN6eDNPdkdkRVgtdVlhcnNNcUNMWkhlaWdtdlM0eEp1bTRLT2xLTHV5YkVkZ1BxX3FsMXM2c1RGSlo1Q3ZvR0NkMFFNcl80YXR5Q2lnUENiZVVtZkpwdVF5QTdJbV95dDVpSjlDWkRTZGRSaURRaXhz?oc=5)
 
-Crypto Briefing reports that Micron Technology advances New York fab plan, boosting US AI memory
-capacity. Micron Technology: fab and capacity signals should be checked for ramp timing, layer
-complexity, and tool pull-ins.
+Reuters reports that Kioxia ships next-gen memory samples as AI boom fuels dramatic comeback.
+Kioxia: memory price and utilization momentum help estimate when deferred etch demand may
+return.
 
-Source: Crypto Briefing | Date: 2026-06-23
+Source: Reuters | Date: 2026-07-02
+
+### 77 - Kioxia - NAND / DRAM pricing
+
+[Kioxia Sells Out Its Entire 2026 NAND Flash Supply Just as AI Chips Ship - Startup Fortune](https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjdxN0pGdlg0azFFUjMxZm1LazVucXpiTEFqWE1LVzdhUDFLSHNydVc0UUJmXy11ME1MTDNYS0RTa1JFdm9acndBa3lYTXZKZFZBYVRneGdlcVhjR0k2YzJXS3lKQUlVRjdTSVozaUtueHpmbERmZEx6MkV3bTdRb21kX0VnNVI3TWxqVkJURmJjV3plR0tjX3BRRkl1NVBoalE?oc=5)
+
+Startup Fortune reports that Kioxia Sells Out Its Entire 2026 NAND Flash Supply Just as AI Chips
+Ship. Kioxia: memory price and utilization momentum help estimate when deferred etch demand may
+return.
+
+Source: Startup Fortune | Date: 2026-07-03
+
+### 76 - Meta MTIA - AI accelerator demand
+
+[Meta Plans 10 Trillion Won Order as Anthropic Talks Simultaneously, Is Samsung's Foundry Business Reaching a Turning Point? - TradingKey](https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0tfSTBWRnNrd19GR0lLVGVLZlkwRVYyN21pSFRUdzJBbW1mMmxLMHhkV0lmZjJpVmN2OGRFdlpiQkpIdVlra1pZS0gwXzRWNnNlTmZmbVlzYWZLY0Z1and3a0hrMzRmVzItR09FRE13aXExWXhQV2dESkVocVRxZElPTWhqUFlyUGJKYWEtQjFIdTRBWEFNaHdDbUVtNXYwSERidXlmOXhKOGNnTVREMkdlY3VBS0E?oc=5)
+
+TradingKey reports that Meta Plans 10 Trillion Won Order as Anthropic Talks Simultaneously, Is
+Samsung's Foundry Business Reaching a Turning Point?. Meta MTIA: AI accelerator momentum is a
+leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+
+Source: TradingKey | Date: 2026-07-03
 
 ### 76 - ASE - OSAT / packaging capacity
 
@@ -104,16 +164,6 @@ in Latest AI-Driven Price Hike. ASE: advanced packaging expansion can reshape ad
 demand and customer priority.
 
 Source: TrendForce | Date: 2026-07-01
-
-### 73 - SK hynix - HBM demand
-
-[Samsung and SK Hynix invest $518B in expansion - Techzine Global](https://news.google.com/rss/articles/CBMingFBVV95cUxNTm1ZaVRxWVhZVDk0ZGZrNXpvVWU5UFBFc1JXYmZsMDd6WEppS2RzWHE1UnBqYVRVdC1JdUlYZHdCQkxzWmxXVG9lMDlCMFZLZ19xN2o5NEw4NTNVSjJVMDlobkE5ZmszRW1oZ1NPTTQxalRyeFhyWmR4YkpRblVFSDJTNkJwTndZanozMVZvVmFNR0hkSWFBSl9xaEJiUQ?oc=5)
-
-Techzine Global reports that Samsung and SK Hynix invest $518B in expansion. SK hynix: HBM
-demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch
-relevance.
-
-Source: Techzine Global | Date: 2026-06-29
 
 ### 73 - Cadence - EDA / IP design starts
 
@@ -157,13 +207,13 @@ Source: The Straits Times | Date: 2026-06-23
 
 ### 70 - GlobalFoundries - Fab announcements
 
-[GlobalFoundries Stock - Long-term growth story in outsourced chipmaking - AD HOC NEWS](https://news.google.com/rss/articles/CBMixwFBVV95cUxQenlWQVRFaXczRFRmeXZmZ2dQN0tzSUpLM2Vrd1JJTzJCblFRYnE0aEtpVC1uZlhNaGRHZ0RMLUFxRU9vSGR5Y2F5N2k2ZlNUNE9EMmd2RlJrVHV1dVpweGRIeFZUY1F4VEpaWEk4X2w2cV80UjZvd0pRd2l0UDZNSFZ4VjVUZGVXaUFEOFF5ZTVJNFhWY2h6bWJYanJSM0lndWppRFk4aFBkMV9OZ0VjdzdUNXh6di1PcEkwRER0cUZKSUY2LVZR?oc=5)
+[GlobalFoundries Stock - Long-term growth story in outsourced chipmaking - Ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxQenlWQVRFaXczRFRmeXZmZ2dQN0tzSUpLM2Vrd1JJTzJCblFRYnE0aEtpVC1uZlhNaGRHZ0RMLUFxRU9vSGR5Y2F5N2k2ZlNUNE9EMmd2RlJrVHV1dVpweGRIeFZUY1F4VEpaWEk4X2w2cV80UjZvd0pRd2l0UDZNSFZ4VjVUZGVXaUFEOFF5ZTVJNFhWY2h6bWJYanJSM0lndWppRFk4aFBkMV9OZ0VjdzdUNXh6di1PcEkwRER0cUZKSUY2LVZR?oc=5)
 
-AD HOC NEWS reports that GlobalFoundries Stock - Long-term growth story in outsourced
+Ad-hoc-news.de reports that GlobalFoundries Stock - Long-term growth story in outsourced
 chipmaking. GlobalFoundries: EDA/IP activity is an upstream signal for design starts that can
 become future foundry and etch demand.
 
-Source: AD HOC NEWS | Date: 2026-06-20
+Source: Ad-hoc-news.de | Date: 2026-06-20
 
 ### 70 - Texas Instruments - Fab announcements
 
@@ -225,16 +275,6 @@ tool allocation.
 
 Source: Seeking Alpha | Date: 2026-07-01
 
-### 66 - Texas Instruments - Fab announcements
-
-[Texas Instruments Inc Stock (TXN) Moved Up by 3.40% on Jun 30: A Full Analysis - TradingKey](https://news.google.com/rss/articles/CBMiigFBVV95cUxOVHdUSGZidktLNHdRbHZSU2VUcG8xbnE4SGFWeVBpOG9oRHVoREFOd3ctUERqVnREbkhGQlo0U2dSUmkyZjk2MGNRRE1VWkh1LWRKNDdqT05ZMTB2QkFleHpCVl9NVWZsSmpqaU5tYlZqcWEyQkpYTWtZbTNfTHd0SGdrR25jTmExeWc?oc=5)
-
-TradingKey reports that Texas Instruments Inc Stock (TXN) Moved Up by 3.40% on Jun 30: A Full
-Analysis. Texas Instruments: fab and capacity signals should be checked for ramp timing, layer
-complexity, and tool pull-ins.
-
-Source: TradingKey | Date: 2026-06-30
-
 ### 64 - Infineon - Automotive and edge silicon
 
 [Infineon opens Smart Power Fab as Europe's largest power semiconductor manufacturing site - eeNews Europe](https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2puajYxcFFLTUJSb3NBRm9tU0JfSFNKWmNkc1RmRTRwV3hkSWljeVdPX3Q0ZTJpYnk0MGQydVhGb0FrTGZ2UzNHRkVmcktHNHBkaEZPRXJkOXJOaFhMXy1QdGh1czdSUHFFUGNLdUtGQkExRHdoVnBPaW14aF83bm5neC1ZMG5VbW1Fc0JQQmcyZHJvalY4VzJxeEl0cEs3V3M2TkItWHJ2Ul9POFFIZDAzRjQ3ZW5sdThOUUJR?oc=5)
@@ -257,10 +297,20 @@ Source: Kavout | AI | Date: 2026-06-24
 
 ### 63 - Samsung Foundry - Foundry customer wins
 
-[Samsung's 4nm Lines "Fully Booked" as Foundry Momentum Confirmed at SAFE 2026 - Seoul Economic Daily](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVZBOUJnbndod0VlVjFtQ0gxRE9UZ19RLV9XVmVlTW1XUEFMOGp1RFZJalg0dWdmSGxXYkpfS0dRNEtXbC1rVDNlOWxyQy03ckdkQjhpZEtiS0ZkV3hMb201S0VUMThRS0pnM3FrQl9XTW1EZ3NydTdIR0dMU0ZUR0JWSTZKRWx0Vktkb3VvZE0zZ1NoN0t0Wg?oc=5)
+[Samsung Could Aid Apple's Rapid 1.4nm Transition, As Foundry Giant Reportedly Restarting Commercialization Of Next-Generation Lithography - Wccftech](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVVGd1NTMnZ5eW5OTEhlcURDZDZWZVppaTVLVXJMVmxwV0hnRGluZjJzSzhjUkw0YzBpdFNMM3pGN0EzOEVoc0VvamhWd1lxamRCaExHeXdMN09yRVd3MVFHRk1nSWwwWmtCSmplYnZUNGtPcFpIMXZZbTZWdDA4MUhVNm9rRDRQMEx0N21SZ2daX3c40gGaAUFVX3lxTE13eE9xRlZ0Z1JvMU0wSGpqc042ZF9fWTUyVkZUQVUtZldjRUxBdVJrUFZhUndOWVdIQ01xN0VwdS1uNzluU3dydGVSUUVkc0JUZjlONkRZb1JqVndxc3pDSEJ2YWVYckFzeXdvNldHTlp3cEFLUnYwRzJvN3VDa3Jjcmxza0xJdXRqS0h0N3diYXZibzM0WGg1R0E?oc=5)
 
-Seoul Economic Daily reports that Samsung's 4nm Lines "Fully Booked" as Foundry Momentum
-Confirmed at SAFE 2026. Samsung Foundry: fab and capacity signals should be checked for ramp
-timing, layer complexity, and tool pull-ins.
+Wccftech reports that Samsung Could Aid Apple's Rapid 1.4nm Transition, As Foundry Giant
+Reportedly Restarting Commercialization Of Next-Generation Lithography. Samsung Foundry: fab and
+capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.
 
-Source: Seoul Economic Daily | Date: 2026-07-01
+Source: Wccftech | Date: 2026-06-30
+
+### 63 - Samsung Foundry - Foundry customer wins
+
+[Samsung to begin mass production of its cutting-edge 1.4nm process in 2029 - TweakTown](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3FZd045VW5CdEJScS1WT0tsY1RDRzNkdWszaWJkQ3Z6RDBHQUo1bkpJRFBmNndwZU1Rd25Iak1Ielo4VHBxUWJaQVBuMVcxaHd4Y012dlVkZ2E1X290bDVzd3lkRGgwZm1QaGVfbTdxWXI0T1VWZV8taG1tR2txdm9BaXNISXJPc0FXUWtWS1pPWFliZk1DOWdPbzM4OGVsa1VjS3lqUEZhZktLdU1xV3dJTk5xejdxbmpqRk14Tzk?oc=5)
+
+TweakTown reports that Samsung to begin mass production of its cutting-edge 1.4nm process in
+2029. Samsung Foundry: fab and capacity signals should be checked for ramp timing, layer
+complexity, and tool pull-ins.
+
+Source: TweakTown | Date: 2026-07-02
