@@ -1,15 +1,15 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-07-07T15:49:34.222946+00:00
+Generated: 2026-07-08T15:31:58.921895+00:00
 
 Tracked entities: 53
 
 ## What matters to conductor etch this week
 
 - **US Media: Samsung and Anthropic Discuss Collaboration on 2nm AI Chips and Advanced Packaging - thelec.net** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Intel Plots A 14A Gen2 Node With Dual-Side Power Delivery To Counter TSMC And Samsung's 1.4nm Push - Wccftech** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **[News] Intel Reportedly Breaks Ground on Santa Clara Expansion for Next-Gen EUV Mask Capacity - TrendForce** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point - Tom's Hardware** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **Powerchip Semiconductor outlines its foundry growth strategy. PSMC eyes broader chip demand across g - AD HOC NEWS** - PSMC: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.
 
 ## Ranked signals
@@ -23,6 +23,16 @@ and Advanced Packaging. Samsung Foundry: roadmap progress points to leading-edge
 complexity where conductor etch timing matters.
 
 Source: thelec.net | Date: 2026-07-03
+
+### 94 - Intel Foundry - EUV roadmap
+
+[Intel Plots A 14A Gen2 Node With Dual-Side Power Delivery To Counter TSMC And Samsung's 1.4nm Push - Wccftech](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcnJER29xNTdxRVR1Qng3aDF3bkpTUk9HQVVFQUhvT1Y3bDBkbmtnTmpBazBrbEtveWNSZXl6MWtrVldjZXJZYVkteDdWdkxaNm1saEFtWDlybElsVF9rREdIS1NhV2JQSzRYWHpzLVVCRDNPWDNlclhaT2RpOUhyOGdjNFdZT3VBWkVZY1ZNLXZIQml4OVNTRUNZc2JENTg2S0lF0gGoAUFVX3lxTFBlSngxQXlWUU9aUVhsOGd4dDVmS2JZa2djNHgwbFhUWmFqVnlXc05RRDJlTURCX3dzQldmeUZoQ2xkMkg5OUNtNG1abDhCNmQ4SXBXV0I0NGpVQzQ2Nm9GdS1oTFVWY1R1YWZuLWtyN1VIUUE2bU9QSDFxcGVhUE4tWC0wYmVEQlNrbGV2eTF5WW42bmFzSlpVWHc1aHM0eTV1UHFMMlB0dw?oc=5)
+
+Wccftech reports that Intel Plots A 14A Gen2 Node With Dual-Side Power Delivery To Counter TSMC
+And Samsung's 1.4nm Push. Intel Foundry: roadmap progress points to leading-edge process
+complexity where conductor etch timing matters.
+
+Source: Wccftech | Date: 2026-07-06
 
 ### 89 - Intel Foundry - EUV roadmap
 
@@ -42,16 +52,6 @@ Fortune reports that Intel (INTC) Q1 2026 Earnings Call Transcript. Intel Foundr
 progress points to leading-edge process complexity where conductor etch timing matters.
 
 Source: Fortune | Date: 2026-07-05
-
-### 79 - Intel Foundry - EUV roadmap
-
-[Intel expands production of photomasks in California: EUV and High-NA EUV in the focal point - Tom's Hardware](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcUJzZ3RTdnByRVF1blF2QVZJUGhMTjBZa2JUNlphME1ObllkWmFra2lKT3BzOEdFMTNMTzZYMFBSQnVwUDNjZld6ZTlQR3NHNmV5RzlKMmdWWEdmYmw2SldraHNmUXpmaDZPXzZNNXdWQzJmUkgxX0pzdDNxVk4tSGVZbVFfWkdxdkZoVFJTQ2hRelNhdkdveEpJU3dKYnFaV1FmdTUzYlNOcnl5cEgtMHFKVXZ6bVQ0OFRobWhZN2tacTd0cG41U2JjbzZENmczam9McU93UDRJcG5HeVhLVjZ4dw?oc=5)
-
-Tom's Hardware reports that Intel expands production of photomasks in California: EUV and High-
-NA EUV in the focal point. Intel Foundry: roadmap progress points to leading-edge process
-complexity where conductor etch timing matters.
-
-Source: Tom's Hardware | Date: 2026-07-02
 
 ### 78 - PSMC - Fab announcements
 
@@ -75,16 +75,6 @@ Source: Crypto Briefing | Date: 2026-06-30
 
 ### 77 - SK hynix - HBM demand
 
-[SK Hynix aims for $29B Nasdaq debut to fund AI chip growth - MSN](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMFlPb203OUt2bG9DWTRrZzFMOXd4ZTFDaVpCSXBySkVQd1VGZzFGYjRKSjZBNTJMOFJBNFlwSzd0UDlJVDBmQ0szX0o0UU9MUTU4bDZyQlNQam1fSm1sWEZJV0lXRzNmVEtvZGVtTWNlS05qdEpqQ3NwVHM2ajJpcDJGZ05EajlCNjdtY21LYzlDRVdlb2FGT3R3OGNqSEh1MVAyVmNlTl9sTGV2a0FTNWJQc3FoZ3NXU3M3X0J1V3Z6bGhhdUJwakZNNF8zdkZXS3BTLVQ1RnpXeXU0NlNtVTIzSm9oTVQxTUROcWdtak4?oc=5)
-
-MSN reports that SK Hynix aims for $29B Nasdaq debut to fund AI chip growth. SK hynix: HBM
-demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch
-relevance.
-
-Source: MSN | Date: 2026-06-24
-
-### 77 - SK hynix - HBM demand
-
 [SK hynix aims to raise 28 billion through U.S. IPO - Techzine Global](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOWRpSEk3cl92bkNKM0xrdFJsWkZNZmQ5T0VwVXFTRVdpSDlWbFpHcXB5OExsUGJRVENoTWxPblE3Vm45aWxfejZKNUNiTkY2T2VwV1k4VzZqLXc3RjhMZ08wZEc0b3EyQjBMQXJxdVJyT012RzZfZEt4cjkxWktrS0xpT25HUFJfa0ZxQXZoZGQzcHhZM3ZUdjdIQ3RWdmJmbkxn?oc=5)
 
 Techzine Global reports that SK hynix aims to raise 28 billion through U.S. IPO. SK hynix: HBM
@@ -92,6 +82,16 @@ demand can pull advanced DRAM capacity and packaging intensity forward, lifting 
 relevance.
 
 Source: Techzine Global | Date: 2026-07-07
+
+### 77 - SK hynix - HBM demand
+
+[SK Hynix unveils $64B chip plant plan despite market selloff - MSN](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbW12eER2LWthTVg5QUNqUFRnOU5uVnBfU3J6T01IZ0k5V1BXdUxkWG40eVhHTWZvTUduSlgwVVk5OWtHRTJub01tczNpMnVTSWJZUHJiaVQyMTlMdENka0hqWm1iSXFiZV9EZVYtVlJYZVg0eUZwTENVNGlxM0JGVVFLZzdZM0tVa0xRaGVIcG9LOWYya1dUaXY2bW9LZ050VnFmcnBlUFFJTlhkajdPTnlhQ1VDLXRRYnBRMFVyRHhPQkpXMDB3X09rcEFTTXZaTEVSX3VIRzlsMXNPdDViWS1jTXlydmJXSEctLVJVYnI2a1k?oc=5)
+
+MSN reports that SK Hynix unveils $64B chip plant plan despite market selloff. SK hynix: HBM
+demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch
+relevance.
+
+Source: MSN | Date: 2026-07-02
 
 ### 77 - Kioxia - NAND / DRAM pricing
 
@@ -125,10 +125,10 @@ Source: TrendForce | Date: 2026-07-01
 
 ### 73 - Kioxia - NAND / DRAM pricing
 
-[Sandisk (SNDK) Starts 10th Generation 3D NAND Production With Kioxia Through 2034 - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxQTy0yay1tV0o2RWxob1FPOG9VTEZtR0RFcTI1TXNnVmd3cTBrM3VXNlNsT1FPODcxNzI5Z0VNS3kzVElUcTNtTlZIemRKLW9UY0VzeElvVFF0ZDVKUUpjdmQ3YlR6S2xkVHplQnJLSlJvUmU3VFNEcFBOV2piekJyNS1iQ3lWNVRkV05pV2g1aHoxVFEzbWNoWW1pQ1JJYmhXVWc?oc=5)
+[Kioxia and Sandisk (SNDK) Begin Production of 10th-Generation 3D Flash Memory - Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxQM1ExSkVxNUdrU3Rsb3JYVFpRNzB1Xzd2ZVB0WFFiVHNMajZhREU5MmhZLUtSS3dhYXd5Yl91OVpjZWkwZDN6QVI2OHhvOGFJeHVkbXptb0NIeEtrQ0tkTl9zbmxwdUl4SS1JRUpVZFBxUTlDYkVGNHNaZ09OUUJjZG5PWVVmQ2R3LXgxNDRUN1B2V0Rkb0FuSEpEUkVIZw?oc=5)
 
-Yahoo Finance reports that Sandisk (SNDK) Starts 10th Generation 3D NAND Production With Kioxia
-Through 2034. Kioxia: memory price and utilization momentum help estimate when deferred etch
+Yahoo Finance reports that Kioxia and Sandisk (SNDK) Begin Production of 10th-Generation 3D
+Flash Memory. Kioxia: memory price and utilization momentum help estimate when deferred etch
 demand may return.
 
 Source: Yahoo Finance | Date: 2026-07-05
@@ -144,12 +144,12 @@ Source: Sahm | Date: 2026-06-27
 
 ### 70 - SK hynix - CapEx changes
 
-[Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle - Reuters](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMk1zekxDdlhicFlKSXppbTBDQk9TaTFwX04wUnNiWFVsWm45aUQ2ckt4R2Nhbm12NFViN2FDa2t3anBJOXZ0QTdqUnBkelNqSVpTaXdPYnlyYkVMQldEVENpVU16dUt6eGZSLXlXY0g1b3hlZXBTeUlHTno2MGoxQnp6M3hiXzJKdnRMNEJxbzljN25MVDhkUTdtYWdOMDhnWE1mOE02cURBeDJRUTdaNGlVeEh3MWZzVnZmMWN6ZTFqSG9FWVpKN1gyRlU1OWRBZzlpMDBVTmtGSnY1LVE?oc=5)
+[SK hynix to launch $28bn Nasdaq listing amid global AI chip demand - Yahoo Finance](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUm4tamxzNkg1cWxfOFZWWDk4ZEQzR3dSdkxHRkoxa0ZxWkhXOHRmRFBaaUJnOFRMX01tazBkbWF1cDJiUkZXVFZJcnkyYi1rZGZrNFVUS25KcFd2Qkl6bjN1cUJKd0EyM1NmMDdUcmdXSXU1ZFdFUG9wS2dkWHJISnVMcFdETmpTeGhxUFVnMU51ZFNKa2c?oc=5)
 
-Reuters reports that Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle.
+Yahoo Finance reports that SK hynix to launch $28bn Nasdaq listing amid global AI chip demand.
 SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.
 
-Source: Reuters | Date: 2026-06-30
+Source: Yahoo Finance | Date: 2026-07-06
 
 ### 70 - Apple Silicon - GPU / CPU roadmaps
 
@@ -170,16 +170,6 @@ accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-i
 demand.
 
 Source: Seeking Alpha | Date: 2026-06-25
-
-### 68 - Credo Technology - AI accelerator demand
-
-[Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5)
-
-Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group
-Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading
-indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
-
-Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-07-02
 
 ### 67 - Samsung Foundry - Foundry customer wins
 
@@ -233,13 +223,13 @@ Source: Kavout | AI | Date: 2026-06-24
 
 ### 63 - Samsung Foundry - Foundry customer wins
 
-[Samsung to begin mass production of its cutting-edge 1.4nm process in 2029 - TweakTown](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3FZd045VW5CdEJScS1WT0tsY1RDRzNkdWszaWJkQ3Z6RDBHQUo1bkpJRFBmNndwZU1Rd25Iak1Ielo4VHBxUWJaQVBuMVcxaHd4Y012dlVkZ2E1X290bDVzd3lkRGgwZm1QaGVfbTdxWXI0T1VWZV8taG1tR2txdm9BaXNISXJPc0FXUWtWS1pPWFliZk1DOWdPbzM4OGVsa1VjS3lqUEZhZktLdU1xV3dJTk5xejdxbmpqRk14Tzk?oc=5)
+[Samsung Could Aid Apple's Rapid 1.4nm Transition, As Foundry Giant Reportedly Restarting Commercialization Of Next-Generation Lithography - Wccftech](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVVGd1NTMnZ5eW5OTEhlcURDZDZWZVppaTVLVXJMVmxwV0hnRGluZjJzSzhjUkw0YzBpdFNMM3pGN0EzOEVoc0VvamhWd1lxamRCaExHeXdMN09yRVd3MVFHRk1nSWwwWmtCSmplYnZUNGtPcFpIMXZZbTZWdDA4MUhVNm9rRDRQMEx0N21SZ2daX3c40gGaAUFVX3lxTE13eE9xRlZ0Z1JvMU0wSGpqc042ZF9fWTUyVkZUQVUtZldjRUxBdVJrUFZhUndOWVdIQ01xN0VwdS1uNzluU3dydGVSUUVkc0JUZjlONkRZb1JqVndxc3pDSEJ2YWVYckFzeXdvNldHTlp3cEFLUnYwRzJvN3VDa3Jjcmxza0xJdXRqS0h0N3diYXZibzM0WGg1R0E?oc=5)
 
-TweakTown reports that Samsung to begin mass production of its cutting-edge 1.4nm process in
-2029. Samsung Foundry: fab and capacity signals should be checked for ramp timing, layer
-complexity, and tool pull-ins.
+Wccftech reports that Samsung Could Aid Apple's Rapid 1.4nm Transition, As Foundry Giant
+Reportedly Restarting Commercialization Of Next-Generation Lithography. Samsung Foundry: fab and
+capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.
 
-Source: TweakTown | Date: 2026-07-02
+Source: Wccftech | Date: 2026-06-30
 
 ### 54 - NVIDIA - GPU / CPU roadmaps
 
