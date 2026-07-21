@@ -1,16 +1,16 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-07-20T15:19:13.414378+00:00
+Generated: 2026-07-21T15:16:23.422076+00:00
 
 Tracked entities: 53
 
 ## What matters to conductor etch this week
 
 - **Intel Foundry Snags AMD, NVIDIA, and OpenAI as Design Wins on 18A & 14A Nodes While EMIB Achieves 98% Yields - Wccftech** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints - Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative - Tom's Hardware** - Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.
 - **Intel EMIB-T Breaks Past Existing AI & HPC Scaling Limits, Enabling Ultra-Large Die Complexes With Over 10x Reticle Dies & 12 Gb/s+ HBM4e DRAM - Wccftech** - Intel Foundry: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.
 - **Chip Design Agents Move Into Foundry: Cadence InnoStack Joins Rapidus 2nm Node - Tech Times** - Rapidus: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV - select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners - Tom's Hardware** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Will Intel Foundry's High-NA EUV Lead Compound Into a 14A Advantage? - The Futurum Group** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 
 ## Ranked signals
 
@@ -23,17 +23,6 @@ Nodes While EMIB Achieves 98% Yields. Intel Foundry: roadmap progress points to 
 process complexity where conductor etch timing matters.
 
 Source: Wccftech | Date: 2026-07-14
-
-### 99 - Intel Foundry - Advanced packaging
-
-[Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints - Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative - Tom's Hardware](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQN0VrUGYydUhLeTQ3RFBETEx2bTJnX1NheVVSSWpici1RZFBNMVNiMjRJOWxjOVVZdHVubUU1QXBmVjZ4N1MtRzlpRl9GTDlqNGhqaVJqOFAtS0cxWU9RTThGUXJVYUdxbUp5N0pudTF4RW1OV1NlM041dGswSHgtOWlRODQ0WE54VmZxRW80YThCVkcxVFZ5WGlNRERMRnFGNUxzd3JSNkVFU1lpdUJVa29XNHphVUc5cnc3dUNwTENHbl9tNXRUeF84M01GYlc4ZzBLZE50MDRoZXJYYUY3SWxVUnVpT19uX3VYUk5GY0VmZ0V1bC1RbFBUUkk0R1NvYUd2b0ZaVGlaZGVMTFlBRjljdXBrTl8yaDBZQnVlaEZkV3VabzNtN1V4OHF3LWc2MEE4T3JCM09pbV8zeWJvaEdwUjdndEVNbjlaZ3pQZ2hmdnE2?oc=5)
-
-Tom's Hardware reports that Intel's EMIB packaging gains traction as chip designers look to
-skirt TSMC's CoWoS constraints - Google's reported decision for 9th-gen TPUs highlights Intel's
-attractive alternative. Intel Foundry: advanced packaging expansion can reshape adjacent process
-demand and customer priority.
-
-Source: Tom's Hardware | Date: 2026-07-15
 
 ### 99 - Intel Foundry - Advanced packaging
 
@@ -77,6 +66,17 @@ conductor etch timing matters.
 
 Source: The Futurum Group | Date: 2026-07-16
 
+### 94 - Google TPU - AI accelerator demand
+
+[Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints - Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative - Tom's Hardware](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQN0VrUGYydUhLeTQ3RFBETEx2bTJnX1NheVVSSWpici1RZFBNMVNiMjRJOWxjOVVZdHVubUU1QXBmVjZ4N1MtRzlpRl9GTDlqNGhqaVJqOFAtS0cxWU9RTThGUXJVYUdxbUp5N0pudTF4RW1OV1NlM041dGswSHgtOWlRODQ0WE54VmZxRW80YThCVkcxVFZ5WGlNRERMRnFGNUxzd3JSNkVFU1lpdUJVa29XNHphVUc5cnc3dUNwTENHbl9tNXRUeF84M01GYlc4ZzBLZE50MDRoZXJYYUY3SWxVUnVpT19uX3VYUk5GY0VmZ0V1bC1RbFBUUkk0R1NvYUd2b0ZaVGlaZGVMTFlBRjljdXBrTl8yaDBZQnVlaEZkV3VabzNtN1V4OHF3LWc2MEE4T3JCM09pbV8zeWJvaEdwUjdndEVNbjlaZ3pQZ2hmdnE2?oc=5)
+
+Tom's Hardware reports that Intel's EMIB packaging gains traction as chip designers look to
+skirt TSMC's CoWoS constraints - Google's reported decision for 9th-gen TPUs highlights Intel's
+attractive alternative. Google TPU: AI accelerator momentum is a leading indicator for CoWoS/HBM
+constraints and etch-intensive foundry demand.
+
+Source: Tom's Hardware | Date: 2026-07-15
+
 ### 92 - TSMC - Fab announcements
 
 [TSMC commits another $100 billion to Arizona for at least four more 2nm fabs - 2026 capex could hit $64 billion following another record quarterly earnings - Tom's Hardware](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFB2eVM4a3puTTQyYzJXdUkxVmJqY3YtVFVjemI3ajlaWlVzYWpQeWJQZDhEZkdMTGp6QTR0OS1CaFpJNTBFdE1ublhpajg0WGxJcldXdmdxbElyR1ZhaEdCS1lXQURsLWZycW1lXzVxRGg2S0hySkZnbjRuOTRRUFYyTm5HdXBEM1NQLW9uNUtVRmd4ZzdVdzVIOHVuSVpuYjliYXhUZERfR3JKeGtkUVRObWdxM3oxZlE?oc=5)
@@ -86,16 +86,6 @@ Tom's Hardware reports that TSMC commits another $100 billion to Arizona for at 
 roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 
 Source: Tom's Hardware | Date: 2026-07-16
-
-### 86 - PSMC - Fab announcements
-
-[[News] PSMC Reportedly Secures Intel EMIB Certification for Silicon Capacitors, Eyes 10K 12-inch Wafer Capacity by 2027 - TrendForce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYUE0TTJkNGJMUERBY2lSTndPcktqZWxselZFQ0huWnBBTzhuV1loQi1ZWTZ1emR4WGVabkRzR1hZWUZVc3NnZVBsamxFaUF2Wk5odjJvWmZYeEJkeU1ZUVM5dXhQaEEwZF9Gc2JaNXRETDhnTFFHaUhTQ1dwMlFXWXN2M2hQNndhTVZCdE9DUWl2aHJBQ0dxQTJsVTdnRWVvRkxtU09QYXNNVmltTzBxT1lvRlZZNjFZSFdLLUZZTl94YnVfQnFIQXZnaEIzR0FnODg0cUJJbk5iSThTZzVfOFFmMndRYnBJSjNfR1F0akwwX1pIOW9uTw?oc=5)
-
-TrendForce reports that [News] PSMC Reportedly Secures Intel EMIB Certification for Silicon
-Capacitors, Eyes 10K 12-inch Wafer Capacity by 2027. PSMC: fab and capacity signals should be
-checked for ramp timing, layer complexity, and tool pull-ins.
-
-Source: TrendForce | Date: 2026-07-15
 
 ### 84 - Rapidus - EUV roadmap
 
@@ -107,16 +97,6 @@ progress points to leading-edge process complexity where conductor etch timing m
 
 Source: Tom's Hardware | Date: 2026-07-08
 
-### 83 - Samsung Foundry - Foundry customer wins
-
-[Tesla AI5 Locks In Samsung 2nm at Taylor, Flipping the Node Assumption - Tech Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSW9McWNkUVQwMmlCU3RNTWRiVFZFVGdYaWdEOEkwUGhiUDB4azB6TktJWW9JSk5EV0FHemZXMVl3d3F2VzJ3bUJYMVMwT2psdXQzMHhya3ZDa1g3eGQwWnVqeVVIVjVWU0lzWExKd2pvdjdkVHVXbHpNWWI5cXpMcXR3TjFsanZScUV6TTJnMnpQcEgxNGYtR1k1RHkxcld3VmpsT29pTmtheWNqay1IWGtyMkI?oc=5)
-
-Tech Times reports that Tesla AI5 Locks In Samsung 2nm at Taylor, Flipping the Node Assumption.
-Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch
-timing matters.
-
-Source: Tech Times | Date: 2026-07-14
-
 ### 82 - NVIDIA - AI accelerator demand
 
 ["Nvidia Is Hamstrung Too": Packaging Emerges as AI Chips' New Bottleneck, Intensifying Global Capex Race - economy.ac](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGY3NZZm1keDlNaXB2dzlHTWdSR3UxSDBucktFOEhfcGpsNk9vRTdicDFkNlFMUGdsdklCeFNuUzNyczFadUZoR3lNaDVyZHAzQzNMVHlaQQ?oc=5)
@@ -125,17 +105,7 @@ economy.ac reports that "Nvidia Is Hamstrung Too": Packaging Emerges as AI Chips
 Bottleneck, Intensifying Global Capex Race. NVIDIA: AI accelerator momentum is a leading
 indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
 
-Source: economy.ac | Date: 2026-07-14
-
-### 78 - Cerebras - AI accelerator demand
-
-[Cerebras Systems CBRS Jumps As Flex Deal Supercharges AI Capacity - StocksToTrade](https://news.google.com/rss/articles/CBMifkFVX3lxTE9vc0llYzdSMnhVYktiVm9vWFFtTVQ1d0FWNFNnVXBxaGtkMzdhY0Rkckw3SXlZMVhRVEFxdzNMdDdrUm5HcVpDWldEYUxEbl8xOFZZUHJqa3drWXlMSzZobUQ1bkJFR2wzemJ2Z285LUhGdE9TV3NYMEFJTkhPQQ?oc=5)
-
-StocksToTrade reports that Cerebras Systems CBRS Jumps As Flex Deal Supercharges AI Capacity.
-Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-
-intensive foundry demand.
-
-Source: StocksToTrade | Date: 2026-07-10
+Source: economy.ac | Date: 2026-07-16
 
 ### 77 - SK hynix - HBM demand
 
@@ -177,16 +147,6 @@ timing, layer complexity, and tool pull-ins.
 
 Source: Kavout | AI | Date: 2026-07-14
 
-### 73 - Samsung Electronics - HBM demand
-
-[Samsung Electronics Poised to Reclaim HBM Market Lead Next Year with HBM4; "Only the Growth Rate Is Peaking" - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE0wbUJPWXRBY3o4UkxTQUJjQjdYbnd4dTN3dFM2ZmxSaUY1N2poWG4wa1BFYVNzODhiUmwyV0hya1hhbDY4RGtQMXFvLWdPaWVzdV9EVThtVGNwTUlZajlEZE90amFQQXpiTThva3JYZ2c0T0xCOWc?oc=5)
-
-finance.biggo.com reports that Samsung Electronics Poised to Reclaim HBM Market Lead Next Year
-with HBM4; "Only the Growth Rate Is Peaking". Samsung Electronics: HBM demand can pull advanced
-DRAM capacity and packaging intensity forward, lifting conductor etch relevance.
-
-Source: finance.biggo.com | Date: 2026-07-16
-
 ### 73 - Kioxia - NAND / DRAM pricing
 
 [WDC and Kioxia "Re-Opened Talks" : Potential NAND Deal That Could Reshape Storage - Moomoo](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkhCSzYxMGswVDJfcFhMeHY5Skl4VzNSRGFLR0E1YnAyTDc4bThIRXNXcUpZRmRUd0oyeXRadHlfN0pxZ1k2Mld0ODVKT1d5WjZISDNTUl9hWGZoRUlhQVNJWWF2NVBZNjZCVkN2U2pxaWhkTnU2bE5EYzJMZ1AwczdsWGVYLVdtQ1E4ZmtBTkdVYndNekx2NklJQXhzVGNySGIxQ3ZsRXZVSWRv?oc=5)
@@ -196,16 +156,6 @@ Storage. Kioxia: memory price and utilization momentum help estimate when deferr
 may return.
 
 Source: Moomoo | Date: 2026-07-15
-
-### 73 - Kioxia - NAND / DRAM pricing
-
-[Western Digital (WDC) Reopens Kioxia Merger Talks With NAND Memory In Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQempBUEdVajJDMURmQjZXVzRiNGFrQU9odFZWaFZZVmtmUmwxU09WRG9KN3pTcUxQTnpmWnNBRFkyNDBxeGhjU0dvajBCSzNZT2hTTzRpQ3pGeG41RjFjZ0RiQ3lfSnQwWkliZGNSVVlma29CSVZCX0t3VnFjY2lzVl8xQTVLYko4NVFZX3J0c3JFZXp1dXhnWk8tVUVYd2xN?oc=5)
-
-Yahoo Finance reports that Western Digital (WDC) Reopens Kioxia Merger Talks With NAND Memory In
-Focus. Kioxia: memory price and utilization momentum help estimate when deferred etch demand may
-return.
-
-Source: Yahoo Finance | Date: 2026-07-14
 
 ### 73 - Western Digital - NAND / DRAM pricing
 
@@ -217,6 +167,16 @@ deferred etch demand may return.
 
 Source: simplywall.st | Date: 2026-07-13
 
+### 73 - Western Digital - NAND / DRAM pricing
+
+[Western Digital (WDC) Reopens Kioxia Merger Talks With NAND Memory In Focus - Yahoo Finance](https://news.google.com/rss/articles/CBMioAFBVV95cUxQempBUEdVajJDMURmQjZXVzRiNGFrQU9odFZWaFZZVmtmUmwxU09WRG9KN3pTcUxQTnpmWnNBRFkyNDBxeGhjU0dvajBCSzNZT2hTTzRpQ3pGeG41RjFjZ0RiQ3lfSnQwWkliZGNSVVlma29CSVZCX0t3VnFjY2lzVl8xQTVLYko4NVFZX3J0c3JFZXp1dXhnWk8tVUVYd2xN?oc=5)
+
+Yahoo Finance reports that Western Digital (WDC) Reopens Kioxia Merger Talks With NAND Memory In
+Focus. Western Digital: memory price and utilization momentum help estimate when deferred etch
+demand may return.
+
+Source: Yahoo Finance | Date: 2026-07-14
+
 ### 72 - Meta MTIA - AI accelerator demand
 
 [Meta's Iris AI Chip Passes Testing: Broadcom Now Designs Chips for Three Rivals - Tech Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUGVPVDV2VHJIQnRJSGhYYjNVZUN0YjJRY01YTm96ZEh2U0hib3BSbTM4QVhjZ3ZROURhX3QwcVVfek1Ec1lfejM1RXVHaUdtZ0FvLWs0bG5FNDhvUWh0VEtVVFJtOUE1QW9XUEFfQVg5VVB1QjlJQlk0NHVPRTJ0elpyZzdwdHhPdE9qQk1pUUtXVWc0Ym9sQnFzWkwzdkUyYlJGczFHRW5paWRMTFl1RlpNYkNOSDloWndJNm1Sd3hZbFJYQXQw?oc=5)
@@ -226,6 +186,26 @@ Rivals. Meta MTIA: AI accelerator momentum is a leading indicator for CoWoS/HBM 
 etch-intensive foundry demand.
 
 Source: Tech Times | Date: 2026-07-17
+
+### 72 - Cerebras - AI accelerator demand
+
+[AI chip challenger Cerebras sets sights on Europe - The Economic Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWg4c1htdHEyZWJsdlhDLVE1SGRBNWVpd1RnWU9QbHRXejdURTVsX2otOGtDcHBtaW8tT1RsNGZBdFBvSGRlUHNkcG5oREJSMXo5R1pndm5ZSjlJWm1VQnZ4S3BWVUFPZlh1LWdvN1pLdkhfanJNWW1CbmhHWlc5SGN6UE5lV2o2aDJVOXBlaFVIa0NwdkFTRFdaR1VTZXAwc0VpTFJtcDhOODloZ3NzbzRn0gG3AUFVX3lxTE1nMy1VeTRZbElZWHJndENXbk9hdElCcnZmZlBQN0tSM05pQ29KYmNJWWpYOFlDRC1uRTZqOWxuWnhoOFBiUUNkLW56dDlEZGhCVU5jZkN2eGJRaktCUnlYQnAwV29ROEhHczVPdjkySEtUWjN6Z1F6M2JLVWpsb3QzNDhIeS0zajNuQUJSVEg1eE5WVUJXWVlrdXAwcnV0WG1VM0lVOXdzZVYwU1ludFRENHRHSDRrNA?oc=5)
+
+The Economic Times reports that AI chip challenger Cerebras sets sights on Europe. Cerebras: AI
+accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry
+demand.
+
+Source: The Economic Times | Date: 2026-07-09
+
+### 72 - Credo Technology - AI accelerator demand
+
+[Credo Technology Triples Revenue to 1.3 Billion Dollars in Fiscal 2026 - sekbernews.id](https://news.google.com/rss/articles/CBMifkFVX3lxTE14ZHRfTGpQM1BHT0RobzVTZDBKS193ODVwTnhMVWZqMDdVNXV1MDdBdGZmY3dHNXNQU3RMdTV3ajBVREZQSS1nMlhNS2hTUm9weUo5ZE5PNFlDTjk3b1RmdDBTNWVIN3NsT2VFNkJGS1ZmeHhSY01oLWdQQlA3Zw?oc=5)
+
+sekbernews.id reports that Credo Technology Triples Revenue to 1.3 Billion Dollars in Fiscal
+2026. Credo Technology: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints
+and etch-intensive foundry demand.
+
+Source: sekbernews.id | Date: 2026-07-20
 
 ### 71 - Rapidus - EUV roadmap
 
@@ -237,25 +217,24 @@ where conductor etch timing matters.
 
 Source: Medium | Date: 2026-07-13
 
-### 68 - Cerebras - AI accelerator demand
+### 70 - UMC - CapEx changes
 
-[Cerebras Is Winning The Inference Race, Yet I'm Still Not Buying (NASDAQ:CBRS) - Seeking Alpha](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGdFcFg5QWdTRFM2ZTNsRUxpZFdQUXN5TlR6RFQwTjRjNFBrUEdmQl9kVFRoRjROSHhjOFA3akFkXzNsTWFRNnJOekFGMmkwQWVUdUpUTE84dlNObW93c1hmUFJxUExOWEtRNnpVN0FaQ29jbmZsTERyaXB3UmdQLUM4bkdZLW5jdy1mX01yaGp0WldwUm1CQ0tRTUxqVm96V3dmYWpMYmE5RUliNW5hS1hJeGVINExqekwxcnJhaw?oc=5)
+[UMC stock trades around yearly high as chip demand supports margins - Ad-hoc-news.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHdHTHF5TEJlUVAyNmhPZmFOcTFLRFhoZWlzcDdlbmI0R0FLWktqeVROMmZsZnNCLXItUjI3dHVxVldTa0hMR1dVRHNveVlmZ1Z0YlVfZjdvYXpiM3h6U202azI5dVdXSERYZHJFMGVrVmgxWjkwblVLaXIwX2VXdUN3Rl9aVUNVS0pEYU8zaHNHWlZzQXlqM2FCZFByQi1WdVFqdjFobG5MaEJWN0VjSVFHNlhTSEFoSmtGR1hYY0pERDRL?oc=5)
 
-Seeking Alpha reports that Cerebras Is Winning The Inference Race, Yet I'm Still Not Buying
-(NASDAQ:CBRS). Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM
-constraints and etch-intensive foundry demand.
+Ad-hoc-news.de reports that UMC stock trades around yearly high as chip demand supports margins.
+UMC: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.
 
-Source: Seeking Alpha | Date: 2026-07-18
+Source: Ad-hoc-news.de | Date: 2026-07-21
 
-### 68 - Credo Technology - AI accelerator demand
+### 70 - Tower Semiconductor - Fab announcements
 
-[Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5)
+[Tower Semiconductor Boosts 300mm Chip Production in Japan - Bisinfotech](https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0RHUjUwNFFLbXByUlc2d0psaUN3UVJSS1RlbEdzdmtoUjJPcFNMeFpmVDV2ZC1GTEo4SjJuRDB6SDl6NGk0MUR3ZW5fR0ZpdG1GOFBFeEdJencwU0lFeUJ5SEZHMW9mOHdvZHpQbHREMVZ5eWpxdVVnRHM1V3lILVNycDZ6Y3BQNkFDS2U3WQ?oc=5)
 
-Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group
-Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading
-indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+Bisinfotech reports that Tower Semiconductor Boosts 300mm Chip Production in Japan. Tower
+Semiconductor: EDA/IP activity is an upstream signal for design starts that can become future
+foundry and etch demand.
 
-Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-07-16
+Source: Bisinfotech | Date: 2026-07-21
 
 ### 68 - Credo Technology - AI accelerator demand
 
@@ -306,15 +285,15 @@ capacity signals should be checked for ramp timing, layer complexity, and tool p
 
 Source: Semiecosystem | Date: 2026-07-16
 
-### 66 - Tower Semiconductor - Fab announcements
+### 66 - UMC - CapEx changes
 
-[A $3 Billion Reason to Buy Tower Semiconductor Stock Here - inkl](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTk5PUlhvY05CNjhMQnM2X0Fxam9PYkNoVUtkcVBHMnBuY00zdTNHbW1xN2tiS0V4WllvNGVONjVYUS1qb2ZrZ1ZPczN1VmNpNEJFSzJRSm1KcnY2RndDeEVOU3JlWHBGMXBzOXNWMExmajBIek1wNHBwbU1aSVZUZHlhdG9XX1A1YVE?oc=5)
+[UMC stock steadies as revenue growth outpaces profit in latest quarter - Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcXhMblpBUmd3V08wb1dOdFJOYmFXUzQ4NHctd0NQalpfcGNHNnZ2ekxjenltVWcwS3BabTEtRlJIeFRMcG9KVWxkUlllVDk4YkRCaGpyd1BxbVpqdXljeDdvVU1WMHlMU0xVdzFKNXdNeXVnMFlTdzdqQ1dEN213UGUzUlZEZ19OOGViS3JPN3VLc0liMmdJS2h5Wmpua0N2NkVKZ2FQVktPZWN2MlBQZ2Nudm9zMFVDc1k5Ykc1TFJFeWxLSU1xbg?oc=5)
 
-inkl reports that A $3 Billion Reason to Buy Tower Semiconductor Stock Here. Tower
-Semiconductor: fab and capacity signals should be checked for ramp timing, layer complexity, and
-tool pull-ins.
+Ad-hoc-news.de reports that UMC stock steadies as revenue growth outpaces profit in latest
+quarter. UMC: CapEx language is a direct read-through to WFE budgets, timing, and tool
+allocation.
 
-Source: inkl | Date: 2026-07-16
+Source: Ad-hoc-news.de | Date: 2026-07-20
 
 ### 66 - SK hynix - CapEx changes
 
@@ -365,6 +344,16 @@ timing, layer complexity, and tool pull-ins.
 
 Source: simplywall.st | Date: 2026-07-10
 
+### 66 - Texas Instruments - Fab announcements
+
+[Texas Instruments Inc Stock (TXN) Moved Down by 3.93% on Jul 13: Key Drivers Unveiled - TradingKey](https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTdvQnZrSmNYcEZXZVBTS240TkI0OEptTm5zTHpHcENkdGZrRzlhZzlmbjZnenh4SGd4S1YwTC01eDhRRGlCaUZiLXNUaFhVQmdXb1F1aGk3TTlXSFlSUU9ad0dtMFdsZWR3MGVqMklZdHFyYVh0UWl6VllFZElNVlpUUmhraDFKX3c?oc=5)
+
+TradingKey reports that Texas Instruments Inc Stock (TXN) Moved Down by 3.93% on Jul 13: Key
+Drivers Unveiled. Texas Instruments: fab and capacity signals should be checked for ramp timing,
+layer complexity, and tool pull-ins.
+
+Source: TradingKey | Date: 2026-07-13
+
 ### 63 - Samsung Foundry - Foundry customer wins
 
 [Samsung Will Take Three Generations To Unveil Its First 1.4nm Exynos SoC, But The Delay Could Prove Beneficial Despite TSMC Obtaining A Lead - Wccftech](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVJxRmo1cVJlOVZUcmVyQUpKaFVoRGl0WGlFYklnRy1rcFBnMy0yZ0ljYU14Y0R0US1SQW45ZXA0X1VwUzBCQWpZOHhIbDhPRHBVNlBRcUpFUHVoTV90LWRnTzFBa2VrZUZoUEhwVnd5U0kwVWpaNGZBME9pckR6Q1RUZVVkQkpOMlBr0gGQAUFVX3lxTE1oSERtVElOU25LUnBZYmdHemM5akdIMjU3WWJJZ3Y1NjZxNEtwbkgyZWcxbWF5OG9HaVNVWDRnX1V4Slg4Ni0tcHU1NnVwZUdtWVlZYzFuRHJaSHl5Ym5GQWgzSEJlcjhObmtfZnQ2TGtnanIwRkVxY2cweWtjVjVJeU9OUXp0VzVFRm5NYVA4VQ?oc=5)
@@ -385,6 +374,15 @@ can become future foundry and etch demand.
 
 Source: Seeking Alpha | Date: 2026-07-20
 
+### 58 - Siemens EDA - EDA / IP design starts
+
+[Siemens buys Precision Innovations - Electronics Weekly](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWUwX2hyWkx6di01dnZ3N1VtN25wc2VPZThTX0RiMDUxb0s4UFpiczkxZjNVSUlVYjVaaVNVTnJGOEd4QlZ3SkFlN21zUWlTeV9paExvRWlieGZhU2s5aldIdndoMnFhQi1qSGJBWUJKMkFXcDY3dHJPSWpjUUoxc1A2RWF5YXMxN0ZNLVA5VV9oQk54dlE?oc=5)
+
+Electronics Weekly reports that Siemens buys Precision Innovations. Siemens EDA: EDA/IP activity
+is an upstream signal for design starts that can become future foundry and etch demand.
+
+Source: Electronics Weekly | Date: 2026-07-21
+
 ### 55 - STMicroelectronics - Automotive and edge silicon
 
 [Connected Car News: STMicroelectronics, Lyft, Curb, Uber, Ford, BMW, OpenAI, HERE , Esri, Honda, Google, MicroVision, Luminar Technologies & Bosch | auto connected car news - AUTO Connected Car News](https://news.google.com/rss/articles/CBMiggJBVV95cUxObkZJa1JrN0lGNVROVmJ5MVBROVFhSGN0OGY4dDNlVlJWSFVUdG1WSWRKZVlZSWdPMzJqM3VIVzI1eS1vb0tfOUl6N01iWDJ0elZQV1p2NEtnLS1EbUotZ0wtQllDcXJONU9JMFlmb2tnLWV3YXA3c3hVNi0xRVpnQkJ3OXdWRHJ2aXB2MGJVeFBDQnNOWkR6V3hwdFFob0xWZVhEVHgtY1hadnNRTTVNS3oxZ0JfMWh5NF95ZUFjck12U1diVkZpWmhKMFVGeWFYSmVKSHlJOF90VnYyWjdBRUZSMVRfay1fV0tfNzBCT2R2V0dlYXhFSHllRkJ6c3hGeFE?oc=5)
@@ -396,12 +394,12 @@ specialty fab loading and mature-node etch utilization.
 
 Source: AUTO Connected Car News | Date: 2026-07-19
 
-### 54 - Apple Silicon - GPU / CPU roadmaps
+### 55 - STMicroelectronics - Automotive and edge silicon
 
-[TSMC $3 Trillion Case Runs Through Apple and AI - AppleMagazine - AppleMagazine](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jQ0k5QVFPeHFrN3dSem1ZMFFMTTNNUmtFMHZXRXZ1WGJYV1dvSDRiRklQdVNRNkRvMnRjSWNmZ3VlNm41MkZpSTE3NVp3MXh1bXhkYdIBWkFVX3lxTE52a1FpSGdZN2V5NENOYVo2Y3c4cFkxSVdFLURsdlRBMVFrd1ZMTWNBMVhzOXZuUGszMzFHRG5GUkhhNS1jc1ozdXl1MF9uczFvazlicUZnZGYzZw?oc=5)
+[STMicroelectronics stock holds near recent highs as Q1 2026 growth and automotive demand underpin ou - Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjdJZDlBOTB3X3RXRlpaZU01OUNEREtXZDdGNHZqYU5TS1dSYlJwWF9NVXh6dnlBQ0Z5QVlJVlhmcmJBNWVjS0haeUZhV0MzajJ2bF9yWWRPb0kydF9VeTZmVXFNR2dGNV9EOURSVW95dkpaY1NiakJEbkwwTVVPbm1FSS1WTlRoR2VKMFB5UzFjOHBBdHdhNmtjZ281ejJ1UmZNcmU0NWlwbUxIOXZrUjMtVnNBbXgwMGtqMFd5dVdKcXdMenlxNQ?oc=5)
 
-AppleMagazine reports that TSMC $3 Trillion Case Runs Through Apple and AI - AppleMagazine.
-Apple Silicon: fab and capacity signals should be checked for ramp timing, layer complexity, and
-tool pull-ins.
+Ad-hoc-news.de reports that STMicroelectronics stock holds near recent highs as Q1 2026 growth
+and automotive demand underpin ou. STMicroelectronics: automotive and power-semiconductor demand
+can influence specialty fab loading and mature-node etch utilization.
 
-Source: AppleMagazine | Date: 2026-07-07
+Source: Ad-hoc-news.de | Date: 2026-07-20
