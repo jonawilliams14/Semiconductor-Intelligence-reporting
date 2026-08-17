@@ -1,16 +1,16 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-08-14T14:19:06.311787+00:00
+Generated: 2026-08-17T13:51:04.616123+00:00
 
 Tracked entities: 53
 
 ## What matters to conductor etch this week
 
 - **TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production - finance.biggo.com** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **Is Intel's $20 Billion Stock Offering Enough to Tool a 14A Fab? - futurumgroup.com** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Is Intel's $20 Billion Stock Offering Enough to Tool a 14A Fab? - The Futurum Group** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **2nm Process Comparison Webinar: Intel 18A vs Samsung SF2 - TechInsights** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **NVIDIA's Feynman Architecture Launch Pulled Forward; TSMC's A16 Process and Advanced Packaging Capacity in Full Preparation Mode - finance.biggo.com** - TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.
 - **TSMC Revives Longtan for 1.4nm Fabs and CoWoS Hub as Both Sell Out Globally - Tech Times** - TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.
-- **Intel Sells $15B in Stock to Fund Chip Factory for Customers Who Haven't Signed - Tech Times** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 
 ## Ranked signals
 
@@ -26,13 +26,13 @@ Source: finance.biggo.com | Date: 2026-08-13
 
 ### 99 - Intel Foundry - EUV roadmap
 
-[Is Intel's $20 Billion Stock Offering Enough to Tool a 14A Fab? - futurumgroup.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWxTOFJBZHVmNmtXRkNYTWkwamUtbHl2dG5uX1JZUGZUd2syTVFnazIwamx1ME9nV0pqWENSbm1CVXBGNEpjRHM1SExrUTZKUE9PYkswYi1MVVZacjBjLVQwMVJZTG9SY1ZOV3J0N2xfVGQ0a3k1T2lBaGtVWk91RkhnVGMzaDN6Z3FMTWZkWXlOZVpqNldxa2FvVQ?oc=5)
+[Is Intel's $20 Billion Stock Offering Enough to Tool a 14A Fab? - The Futurum Group](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWxTOFJBZHVmNmtXRkNYTWkwamUtbHl2dG5uX1JZUGZUd2syTVFnazIwamx1ME9nV0pqWENSbm1CVXBGNEpjRHM1SExrUTZKUE9PYkswYi1MVVZacjBjLVQwMVJZTG9SY1ZOV3J0N2xfVGQ0a3k1T2lBaGtVWk91RkhnVGMzaDN6Z3FMTWZkWXlOZVpqNldxa2FvVQ?oc=5)
 
-futurumgroup.com reports that Is Intel's $20 Billion Stock Offering Enough to Tool a 14A Fab?.
+The Futurum Group reports that Is Intel's $20 Billion Stock Offering Enough to Tool a 14A Fab?.
 Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch
 timing matters.
 
-Source: futurumgroup.com | Date: 2026-08-11
+Source: The Futurum Group | Date: 2026-08-11
 
 ### 94 - Samsung Foundry - Foundry customer wins
 
@@ -43,6 +43,16 @@ Foundry: roadmap progress points to leading-edge process complexity where conduc
 matters.
 
 Source: TechInsights | Date: 2026-08-07
+
+### 92 - TSMC - Advanced packaging
+
+[NVIDIA's Feynman Architecture Launch Pulled Forward; TSMC's A16 Process and Advanced Packaging Capacity in Full Preparation Mode - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9nc25WR0N1MlludzBBQ3ZPVk9ELWR6c0ZvWWJRUWNLZFBTWHdkUnh2NGJVVFNJSzQzTXlVendhMmIwM1o4dlFUa19laWN6eENPZXdGcXhIc3NxREpaLTBXLUs3WlVMUjhGMV9JbkJHb3M2d1VMQXc?oc=5)
+
+finance.biggo.com reports that NVIDIA's Feynman Architecture Launch Pulled Forward; TSMC's A16
+Process and Advanced Packaging Capacity in Full Preparation Mode. TSMC: advanced packaging
+expansion can reshape adjacent process demand and customer priority.
+
+Source: finance.biggo.com | Date: 2026-08-14
 
 ### 88 - TSMC - Advanced packaging
 
@@ -56,6 +66,15 @@ Source: Tech Times | Date: 2026-08-09
 
 ### 83 - Intel Foundry - EUV roadmap
 
+[Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDZ1UVdPM3d1SGlxcHl2MWUzU2pDc0hyRHdmeFpTOEF3SkZsaUpteEszQkxjUlQ2QnFJaDJSUXBUWWZuQl9FRVNmVDZDOWJiSVhWU1EwSHBWMmdxVGRrUA?oc=5)
+
+Fortune reports that Intel (INTC) Q1 2026 Earnings Call Transcript. Intel Foundry: roadmap
+progress points to leading-edge process complexity where conductor etch timing matters.
+
+Source: Fortune | Date: 2026-08-13
+
+### 83 - Intel Foundry - EUV roadmap
+
 [Intel Sells $15B in Stock to Fund Chip Factory for Customers Who Haven't Signed - Tech Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0dWaVpRR3JXSXQ4SnZCU1g2Z0VjRUpoTUU0cVBlYTd2WnVqNTZ6ZGZ3ZnhDTFN0MG9JVFNOTkdhNHVWdTVuWnd0V3RVbXBFTzFHalVrVThZSjZfSElXMks3UGItTE01WXRER1VYZkNDN2k3U0hLeHFmdTRuWXhPNlF5c0VqWkNBLWFXeGxGclRkNEIyX21JVkJ0d1ZBVExuejNkRmxvVTVVLUI1dXcwWkcyZUtzU1gzWjhQWFIzTQ?oc=5)
 
 Tech Times reports that Intel Sells $15B in Stock to Fund Chip Factory for Customers Who Haven't
@@ -64,13 +83,13 @@ conductor etch timing matters.
 
 Source: Tech Times | Date: 2026-08-10
 
-### 82 - NVIDIA - AI accelerator demand
+### 81 - TSMC - Advanced packaging
 
 [TSMC Shares Rise Nearly 3% Pre-Market as It Expands Outsourced Packaging to Meet Nvidia AI Chip Demand Amid Capacity Constraints - TradingKey](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3FLa1R0ZmlaaXJfREd6dFozY21ZTUs1Z2tRbFE0Y2ZDSnBHQ0RQRGNtRU1BU2JUYmtoYnd5LXRYVkJRZGUxek5qZ2l2R2c5dk9Cd0ExSzJIbXNfaFo0ODhfTXduR0NWNERNSkQ3WDROM2tGVzJsT01SWkFSSE5vb0U3alhtNmxjZzNrN1NtVGM5Z1BsdEtSNURjV1NFd1MzaEcyN3FJS3gtUW5SbTBxMVpHWQ?oc=5)
 
 TradingKey reports that TSMC Shares Rise Nearly 3% Pre-Market as It Expands Outsourced Packaging
-to Meet Nvidia AI Chip Demand Amid Capacity Constraints. NVIDIA: AI accelerator momentum is a
-leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+to Meet Nvidia AI Chip Demand Amid Capacity Constraints. TSMC: advanced packaging expansion can
+reshape adjacent process demand and customer priority.
 
 Source: TradingKey | Date: 2026-08-04
 
@@ -84,46 +103,15 @@ CoWoS/HBM constraints and etch-intensive foundry demand.
 
 Source: Seeking Alpha | Date: 2026-08-06
 
-### 79 - Intel Foundry - EUV roadmap
+### 77 - Tesla Dojo - AI accelerator demand
 
-[Nvidia And Google Are Crowding TSMC's N3 Node - Can Intel Fill The Gap? (NASDAQ:NVDA) - Seeking Alpha](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ24tc0VyaExyUnJud2ZWbEFJT0V3THlLV29nLXdUNUR2OFVmUDNPcUZYdjdNTmJpbHBiYWFVSkI3dW1KMUlNVzBSaTB2bW9yb3BGbWxOVVdNMG1leUF4QU1GM3VOcUMyTGR5V1EyOVlZVTIwOThnTmNDNE5aalBIdWQ5cllNMG14UTlTQnZLN1JMcGFvc1BuS2NWbzUzSTR4Zkp4YlRaTUluWmM?oc=5)
+[Tesla & SpaceX Terafab: Inside the 100-Million-Sq-Ft Megafactory - BASENOR - Tesla Accessories](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlYwQTVOQ2ZBYjhaRmI1WGRVVl9qWEwySlRPNWZWZHlKRFFjTy1RazBvYnh3UjlfYzY1b2VwcUE1QndQcS1wUnhIOF9CaVBfN0dTSTRSS1p2cUNIekJVQ1lCWjJaRmRrbXJXU3RIWGN1dW02Ynl5T1lmY09aSnlOYUV0UF9LRVFRNmlmR3lCTHNOaUpNMzhjVEVtRHU?oc=5)
 
-Seeking Alpha reports that Nvidia And Google Are Crowding TSMC's N3 Node - Can Intel Fill The
-Gap? (NASDAQ:NVDA). Intel Foundry: roadmap progress points to leading-edge process complexity
-where conductor etch timing matters.
+BASENOR - Tesla Accessories reports that Tesla & SpaceX Terafab: Inside the 100-Million-Sq-Ft
+Megafactory. Tesla Dojo: AI accelerator momentum is a leading indicator for CoWoS/HBM
+constraints and etch-intensive foundry demand.
 
-Source: Seeking Alpha | Date: 2026-08-04
-
-### 79 - Intel Foundry - Advanced packaging
-
-[Intel (INTC.US) capitalizes on the AI boom with a $15 billion common stock offering, betting on a 'surge in CPU demand, chip foundry services, and advanced packaging' to reshape its growth trajectory. - Moomoo](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnZ3R1RqZFczT0xIU21nMi1xZG1UdWZGLWtWRV9ZSUNzellwdnBBemY0NG1fczZ1YjZxZHJJQ3VRNThUZm5rU0RuczBJWV91S2J5N3V3Q2JFR1Qxb05ucWcwM3RJWW9EQlhPc3FUZXBKcldpNXVDd1NmR2g5Zkk3d0EyX3ZxQ1U2NFNfclRYUGNFQXExTHc?oc=5)
-
-Moomoo reports that Intel (INTC.US) capitalizes on the AI boom with a $15 billion common stock
-offering, betting on a 'surge in CPU demand, chip foundry services, and advanced packaging' to
-reshape its growth trajectory.. Intel Foundry: advanced packaging expansion can reshape adjacent
-process demand and customer priority.
-
-Source: Moomoo | Date: 2026-08-10
-
-### 79 - SK hynix - CapEx changes
-
-[SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips - 247wallst.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTW1uVG5DTzdSRGFUaEMzUWZyTjFLNV85c2JIZzkxMG5GWHhKRFg0cFJab1ZRYnhYbzZjaUR6bTVjMjdHdHp5VlR3dkl6UGNFdnRVU25fOUZYSWRfdkViUXkwX0FHVEJsVktOaFY0M3dSZjNsbkQ1ZldudGNFTTNvcFlQbS12Y0RMRDJiRWg5WEl2RE9qaGRxY2FOQm9rWVN1ZlI4eHYwWkcxbVozNjNVZFhySW1fbExkVmF3Y1hETy1IQldJajRFU0c5eGtzNkU?oc=5)
-
-247wallst.com reports that SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate
-Falls 7%, Micron Barely Dips. SK hynix: CapEx language is a direct read-through to WFE budgets,
-timing, and tool allocation.
-
-Source: 247wallst.com | Date: 2026-08-07
-
-### 77 - SK hynix - HBM demand
-
-[SK Hynix to invest $38 billion building new memory chip plants as demand soars - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE5OWHRLdGVPZnRBSWh0Uy1XVFNaMFplajBFQ2VzS0ZTWTBNUXNVMEFVRk51bWxTVFl5TndPbkpmbWVlcExBcGsxTXlBWHRNWmh2aHU3d0FJdXBVSkdHN1ZJRXdxUmZpXzBOQVNnSVZMcFB0RE1ITnEw0gF8QVVfeXFMT0tjTHJQUUxsczVuWng3NDQyM1ZNZkpXenYyZDRYRUZHMUlvektWWkFYMThZTGNBdW9hVWtzN0t4N0VxSjlEanBEOHVxeFYwaGxCd1JNalNEa3BXbTZ0UjZOc2R4NjJUalJZRWxnVjlscVJNUnlpcWM2RnZaUg?oc=5)
-
-CNBC reports that SK Hynix to invest $38 billion building new memory chip plants as demand
-soars. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward,
-lifting conductor etch relevance.
-
-Source: CNBC | Date: 2026-08-07
+Source: BASENOR - Tesla Accessories | Date: 2026-08-07
 
 ### 76 - TSMC - Fab announcements
 
@@ -134,27 +122,6 @@ language is a direct read-through to WFE budgets, timing, and tool allocation.
 
 Source: tech-insider.org | Date: 2026-08-08
 
-### 76 - TSMC - Advanced packaging
-
-[Nvidia's Next-Gen Feynman AI Platform Is Ramping Up, Forcing TSMC to Race Ahead: Report - TradingView](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WY0V0VmNrenVmZXZTNVFvcEZ0bWJzTHRnUHFya3Y1UUhuWjBSSzFxMzdYSkpnUWdLT3dQMHQ5NWk4cHlHOVNBVW9kTmhiVDhjWWZGTXBsNnQ1dDRQN19nV1NxLWVtd1Fk?oc=5)
-
-TradingView reports that Nvidia's Next-Gen Feynman AI Platform Is Ramping Up, Forcing TSMC to
-Race Ahead: Report. TSMC: advanced packaging expansion can reshape adjacent process demand and
-customer priority.
-
-Source: TradingView | Date: 2026-08-14
-
-### 76 - Microsoft Maia - AI accelerator demand
-
-[AI Inference Enters the Era of Heterogeneous Computing Power! Microsoft's Maia 300 Accelerates the Rise of In-house Silicon, While TSMC (TSM.US) and Marvell (MRVL.US) Usher in an ASIC Growth Cycle - Bitget](https://news.google.com/rss/articles/CBMiY0FVX3lxTE93LW1XaFFHYTB0VmdtSDZXLURnOUo5d0ZxN1ZDSW92UmNNdWVtcExBLXhiY0xfc1Z1a09tNFJwamE2Y2FpaU41b2xBY3B0M1hPRUROcHZHNThseXBqMEJ6aDBPZ9IBY0FVX3lxTE93LW1XaFFHYTB0VmdtSDZXLURnOUo5d0ZxN1ZDSW92UmNNdWVtcExBLXhiY0xfc1Z1a09tNFJwamE2Y2FpaU41b2xBY3B0M1hPRUROcHZHNThseXBqMEJ6aDBPZw?oc=5)
-
-Bitget reports that AI Inference Enters the Era of Heterogeneous Computing Power! Microsoft's
-Maia 300 Accelerates the Rise of In-house Silicon, While TSMC (TSM.US) and Marvell (MRVL.US)
-Usher in an ASIC Growth Cycle. Microsoft Maia: custom silicon demand can translate into foundry
-starts, packaging capacity, and advanced-node etch pull.
-
-Source: Bitget | Date: 2026-08-11
-
 ### 75 - Intel Foundry - Advanced packaging
 
 [Intel's Advanced Packaging Boosts AI Compute for Data Centers - ET Datacenters](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOelNnUDlwR1dTbjhubXJTb0MyVGZqcTlweVNPU2NoeWN1UWI3djFJdDZwNThTVFVVaFBHMmIzRVVzX2hhN25aVXo2U3dLaHFIdlp3TFIyOXZPRzRDMXRtcGlCREJ3OUpGb2N2V3VObFNJeXdaU2ZSMnhVNFJ4cE1ybEtnYU9SNHAzY012TV93REJDZmhDejA5MWZPTjlLTXhVRE1nT25ONUVwWF9GcEl2RmNmX0preEVSRkQ1NG1NX2FKSXN1Y1ozSTNsWlJkTTFOZEJackQweWxxYmlPVmgzMHhheW8?oc=5)
@@ -164,15 +131,25 @@ Foundry: advanced packaging expansion can reshape adjacent process demand and cu
 
 Source: ET Datacenters | Date: 2026-08-10
 
-### 75 - SK hynix - CapEx changes
+### 75 - Intel Foundry - Advanced packaging
 
-[SK hynix powers Korea AI memory surge with capex jump and R&D ramp-up - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiekFVX3lxTE1VUGluQjNLZXFPRGVMZzhTZ2pvUmpZTlZXSFJoT3RDaFYwZU44Rm5KOVUtQ3pXQml1V0dVZE1XZDJYMkUzZUV1MGktRGY4NFJSMFZ0TzFQVDVnQTBieUxDdzd0YXJJajhCQkZxVVBWaE0tVy1iaFZfRXh30gGOAUFVX3lxTFBoRDZoQ214VHhwTmwtbXFLRmpyUlBVY1haa0U5c0luR3Bab1hOVEtpTElqZVR4MUxSRk42SnNNOFN1OU4wbVpUMk5WX2lCaTBiaUYzQ3dDVEdndjJNa3lmalhLRERJbzIzakhCaWhPTzE0Qk1ldmNsYmJURzJERjh0dlBZSFB3ajJQZVlfaVE?oc=5)
+[Intel's 2025 Storage Industry Comeback: Surprising Truths Beyond Common Expectations - 36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQ3R4cmcxbjhudXRvLTlCRXJtWldlYnVyZzZQb0stYk9ETUhxVzIyZXJFejE4ZWhYNy1CYlNXSXkwbG5mbVlwaDVhVWJiNmlfLWFn?oc=5)
 
-Chosunbiz reports that SK hynix powers Korea AI memory surge with capex jump and R&D ramp-up -
-CHOSUNBIZ. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool
-allocation.
+36Kr reports that Intel's 2025 Storage Industry Comeback: Surprising Truths Beyond Common
+Expectations. Intel Foundry: advanced packaging expansion can reshape adjacent process demand
+and customer priority.
 
-Source: Chosunbiz | Date: 2026-08-14
+Source: 36Kr | Date: 2026-08-17
+
+### 73 - SK hynix - HBM demand
+
+[An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea - CNBC](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkZyZURpRzJDN1Z2QjFneUp4UG9uN2Rfam9FOEF4ZWg1ZHA0R1BRX0FobzVndVZ3dGlGLUpSTnQtX3V4ZmFCWnNFSjFFa3FxMVlXUkRTV1VHajlDOXp5WWRvSVNYVjdHYl95RXE1OFBmTHlneHF2TExuRktvNE00Wi00d3FRbnhlLWR4aTlHUVJSNHhrMS1PdXh3X05hLWtS0gGmAUFVX3lxTFBJa1FBdnRrSVBuRmpydEJ0a3ZzdGZpZzZ6QzV4SXV4bWtfSGZteGtTU0V4QU1DeWM0S3ZuXzVHZUoxVnBvcGNhZlM3M21fREN4ejd3V3FVV1pJajJILVFLR0d3ODZtVXFUcG01VTVsanAzN1FUckktUlVBVW9XOVdDSjFjLU5LN0RzeEY0eFFCamJlWTUyQ3laUFA0aXc1UzAtMlJnWlE?oc=5)
+
+CNBC reports that An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over
+South Korea. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity
+forward, lifting conductor etch relevance.
+
+Source: CNBC | Date: 2026-08-13
 
 ### 73 - SK hynix - HBM demand
 
@@ -193,6 +170,15 @@ Supply. SK hynix: HBM demand can pull advanced DRAM capacity and packaging inten
 lifting conductor etch relevance.
 
 Source: TechRepublic | Date: 2026-08-10
+
+### 73 - Kioxia - NAND / DRAM pricing
+
+[Kioxia All Set to Raise the NAND Game in AI SSDs - EE Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE42c2tiRExVdVhWQzREcGVMb1hGSFFjbnotbE81X0liYUt2a2JhZmxnbGVaZTRyMHdjbktPRVBjQTJONXF3alZ2a0ctWWl1Smo5WEEyZFBCUVFwVWJwQmdGc3labEtnTERkQXZXQXNaZmczSTBkblBRcG44SzdQdw?oc=5)
+
+EE Times reports that Kioxia All Set to Raise the NAND Game in AI SSDs. Kioxia: memory price and
+utilization momentum help estimate when deferred etch demand may return.
+
+Source: EE Times | Date: 2026-08-14
 
 ### 73 - Kioxia - NAND / DRAM pricing
 
@@ -243,16 +229,6 @@ activity is an upstream signal for design starts that can become future foundry 
 
 Source: Longbridge | Date: 2026-08-13
 
-### 70 - Tower Semiconductor - Fab announcements
-
-[Tower Semiconductor (TSEM) Q2 2026 Earnings Call Transcript - The Globe and Mail](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOHNRM3NlTXFuWlJOdVJpYXg4R0tjeDFMc3QySm1WLVUxUENyaG9hT3draVlKLXRyamhPYjdCbXg1dDB2OVppUThMZ3dpeXpiS0RTbEF4VjkxbElYOVN2ZFY4Rmltbk94dHhnU2tkWVFZR2lLYzhlcjRsVGZxaTh4STZ4RnBySDhFVVJNWTlxR1hGb1F5aUVwX0xaQVVab1A0RERCbHdJN3dIQ0VuR2J5TW9ocjUxWXRFdENLYjJRWUNYNFNiZEM5YngyTWNaanZwRHdxc2h2c1JXUQ?oc=5)
-
-The Globe and Mail reports that Tower Semiconductor (TSEM) Q2 2026 Earnings Call Transcript.
-Tower Semiconductor: EDA/IP activity is an upstream signal for design starts that can become
-future foundry and etch demand.
-
-Source: The Globe and Mail | Date: 2026-08-11
-
 ### 70 - Vanguard International Semiconductor - Fab announcements
 
 [Taiwan's VIS sees wafer shipments rising in Q3 - Taiwan News](https://news.google.com/rss/articles/CBMiVEFVX3lxTE13Z0xPYWZTN0FDUDg3TmduWFBUYnN6YzBuTG5hTEhoNXctRXkyNE8zTjlNMldjdUtoYTdLT3hCSE9qb09BYUdnTk5RSk1NMXpCNWpYSg?oc=5)
@@ -262,6 +238,16 @@ Semiconductor: EDA/IP activity is an upstream signal for design starts that can 
 foundry and etch demand.
 
 Source: Taiwan News | Date: 2026-08-04
+
+### 70 - SK hynix - CapEx changes
+
+[SK Hynix to invest $38 billion building new memory chip plants as demand soars - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE5OWHRLdGVPZnRBSWh0Uy1XVFNaMFplajBFQ2VzS0ZTWTBNUXNVMEFVRk51bWxTVFl5TndPbkpmbWVlcExBcGsxTXlBWHRNWmh2aHU3d0FJdXBVSkdHN1ZJRXdxUmZpXzBOQVNnSVZMcFB0RE1ITnEw0gF8QVVfeXFMT0tjTHJQUUxsczVuWng3NDQyM1ZNZkpXenYyZDRYRUZHMUlvektWWkFYMThZTGNBdW9hVWtzN0t4N0VxSjlEanBEOHVxeFYwaGxCd1JNalNEa3BXbTZ0UjZOc2R4NjJUalJZRWxnVjlscVJNUnlpcWM2RnZaUg?oc=5)
+
+CNBC reports that SK Hynix to invest $38 billion building new memory chip plants as demand
+soars. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool
+allocation.
+
+Source: CNBC | Date: 2026-08-07
 
 ### 70 - Texas Instruments - Fab announcements
 
@@ -273,15 +259,35 @@ for design starts that can become future foundry and etch demand.
 
 Source: simplywall.st | Date: 2026-08-09
 
-### 68 - NVIDIA - AI accelerator demand
+### 69 - NVIDIA - GPU / CPU roadmaps
+
+[NVIDIA Secures TSMC A16 Node for Next-Generation "Feynman" GPUs - techpowerup.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWVUWVhwUENVRHYyQkdkY05mRXc4REdPNi1tSWVWYWo4WGcxcWotMnVCcmhBS0lZZzlNQmo0b0x2YUt6dTNhVUNDMnFGb1JXbG1QNkUtZVJ4UUVTRkxDUWRyNnllZXpKaGZPaVJIR29DU0x1bjVoamFFbWxfZlA3NUZiR1pVdXd5VlZRaVRJaDN1ZmNkbEcxRUFiVVDSAaIBQVVfeXFMT1IwdThUc0tMUXFneXg1LW9QOHBMdFJqbW90bGRpazE5VnZGU2lva2ZWcDNKXzN5WUxSS2xGSUlnUDAzWlIxNUdkb1I1NWRHTVNCdDllcTg1bWx1RjJEVVVGVWt4M3k5NC0zODF2QzZNcTBRS1ZrZlF6eEU4Y2pGLS1tZm9ORElmTzN4N01QYWNCMTlKbWp0Y1BxLWs1RU9fcDNB?oc=5)
+
+techpowerup.com reports that NVIDIA Secures TSMC A16 Node for Next-Generation "Feynman" GPUs.
+NVIDIA: fab and capacity signals should be checked for ramp timing, layer complexity, and tool
+pull-ins.
+
+Source: techpowerup.com | Date: 2026-08-14
+
+### 68 - Microsoft Maia - AI accelerator demand
 
 [Microsoft Maia 300 Seeks 300,000 TSMC Units; Nvidia Controls 60% of Packaging Queue - Tech Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGJOTUZ1d0xvaERjTlQyazd0bGUxamh6UjZHQ0FjTlF5cUhvaDNzUnRxa29aTUJBYTBmMzhuem1ZZGhwOUlFcTFTMl9hZEh5bDVfb0d4aFJJNnNaem5neWdoOEVRYmRtMXJYSWFEXzRNRzBrb2psV3BaUkhkWnNhQWVZUmc3R244V2RoWnZtRFhRMktuVzZLdnVkVy15ZFQ1cGpvT19lcTRhY3htc3ZSM2FKV2RIWHBFeWkxVE5rR0IzZG9QY3dIMFF2YTA?oc=5)
 
 Tech Times reports that Microsoft Maia 300 Seeks 300,000 TSMC Units; Nvidia Controls 60% of
-Packaging Queue. NVIDIA: AI accelerator momentum is a leading indicator for CoWoS/HBM
+Packaging Queue. Microsoft Maia: AI accelerator momentum is a leading indicator for CoWoS/HBM
 constraints and etch-intensive foundry demand.
 
 Source: Tech Times | Date: 2026-08-11
+
+### 68 - Cerebras - AI accelerator demand
+
+[Cerebras shares plummet 16% after results fail to impress investors - WKZO](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdm5fcnFza0c4VG94OTNPdUZZLTZ6ZDkxcXVBN1UxVHZweXkzWjJ0OUlmZjZScHNoaXJUTG9CODI0ODhJcFJ2SnYzVzlvTU04T08tOFFZZ19MZ01jQVNpalF4WmJSMG1fYVBqdGlISFhtNjc1ZzB3MndHVEZhdEh4QU84SUVWWHNmcm8xZA?oc=5)
+
+WKZO reports that Cerebras shares plummet 16% after results fail to impress investors. Cerebras:
+AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive
+foundry demand.
+
+Source: WKZO | Date: 2026-08-13
 
 ### 68 - Cerebras - AI accelerator demand
 
@@ -292,16 +298,6 @@ AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etc
 foundry demand.
 
 Source: WSAU | Date: 2026-08-13
-
-### 68 - Cerebras - AI accelerator demand
-
-[Cerebras shares plummet 16% after results fail to impress investors - KELO-AM](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ20wNXhkQjF5eWNSaXBMc2czZm9NbFBiU25pcnhSdTVzdlNhMGZ2WFFuaFRHbnRJQzNYMGJTdG1RVThRejZJMzJFbkk0cGt2cEJ1RVg3bGotOGVyRzF5TDJIbEFkRlJtQ1VNMEpXVWdiTzJuelplNU44NG9PcGs3SXI0aExSX09sVzFtUw?oc=5)
-
-KELO-AM reports that Cerebras shares plummet 16% after results fail to impress investors.
-Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-
-intensive foundry demand.
-
-Source: KELO-AM | Date: 2026-08-12
 
 ### 68 - Cerebras - AI accelerator demand
 
@@ -325,6 +321,16 @@ Source: Tech Times | Date: 2026-08-05
 
 ### 68 - Credo Technology - AI accelerator demand
 
+[Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5)
+
+Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group
+Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading
+indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+
+Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-08-13
+
+### 68 - Credo Technology - AI accelerator demand
+
 [Credo Technology Surges 52% YTD: Buy, Sell or Hold the Stock? - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDlKZW53bGJtR3JrbjE4YTVzNWJfNnZZdjBPVjk1WDJsdEgyVDZPU1hVVmpyVkJwY0JUNVdZSm9IZVVwM1pmSmpvQkhBWHJmdzY3SzF2eTBmb1pCRTQ4MXhxNXZWVmRZMzc0a2hsUWdPMGoyZUhOdzBRQjFFcHNNRzZnQXlqdGJoYTJTOGlGNVN0bThxUi1tNm5vdw?oc=5)
 
 Yahoo Finance reports that Credo Technology Surges 52% YTD: Buy, Sell or Hold the Stock?. Credo
@@ -343,25 +349,6 @@ pull-ins.
 
 Source: Moomoo | Date: 2026-08-04
 
-### 66 - TSMC - Fab announcements
-
-[[News] TSMC 3nm Monthly Wafer Starts to Hit 180K by Early 4Q26 on Strong Demand, 2-3 Months Ahead of Expectations - TrendForce](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSndHT0VwRkE2WnZacHBsdHdJSXFCbUg2STdhTEwzbmNxekNlM09GUmdOYndKLXY0a0dPTklocXNSTlNTTldsV1Q3U1pnNGJYeUk3dHNZazRaNkVjUWU4U19aQjg2bTNLOXVEdEw0ZkJYTTVuenROYTFuZTQ0Ny13S1dHQ0V5NEs1RVhOWXJ2YnVvMHI0M3EtdlJkd1BsZUZnRnZiSGJrVU95dWRwMjcyVkp1OGxiZVh1VHFCVXFaVi1NN2VKMFBXTnZhalZEZmVnQ19QZTN3N2xhU3BMOUFUcmFBY3dEcmNZQ3c?oc=5)
-
-TrendForce reports that [News] TSMC 3nm Monthly Wafer Starts to Hit 180K by Early 4Q26 on Strong
-Demand, 2-3 Months Ahead of Expectations. TSMC: fab and capacity signals should be checked for
-ramp timing, layer complexity, and tool pull-ins.
-
-Source: TrendForce | Date: 2026-08-03
-
-### 66 - GlobalFoundries - Fab announcements
-
-[GlobalFoundries Q2 Earnings Call Highlights - TradingView](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNTRBZEFrYUVKbjZYV3UyaWZ5d2JIcWVTdzVURFNqdjlQSDRGS3lqRUV5Um9VQUdrTEljcDhMQWlMSEVtcTRIdHlodFBTb1BfZmMwcTRoZ0JzQ0s3VFdvYllETlZuSXIwTnBGVHgwc20yQ0ktdm43LXBEZ1M0T2JlTXVLcXpNRmlOOXFycmpfU2cwNzlPNXltSDlVcDMtY3RIbG9CVTVB?oc=5)
-
-TradingView reports that GlobalFoundries Q2 Earnings Call Highlights. GlobalFoundries: fab and
-capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.
-
-Source: TradingView | Date: 2026-08-05
-
 ### 66 - Tower Semiconductor - Fab announcements
 
 [Should Tower Semiconductor's Record Q3 Outlook and 2028 Targets Prompt Action From TSEM Investors? - simplywall.st](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNUVVRnNVbXVLRHRhNGpCd0xPVEpVQW8tZi13TENFWFYxN2ptSHgxQ2FJb2g2RnRhcWM0UkRaQjNmLW1BUFV6YnY2eUh4WXpNWlZTUHVtUFpzZWhFQ0hHT3FZMHU2ZFp3U3dnRWF6ano1ZlREWlRHbnI3T19NTnczWW9EUzFJUTBxaVZIRl9oakEyTGo3UG9FRk9CU3VxRHdSOXJiaHB0NUFMUXVmbG0za0FaUS1yVFYwV1dKOGUwT05kdkpuM3YzallTbnNjUTR6OGY2LWozV3RydGNs0gHiAUFVX3lxTFA5UGxIVG5ISUFRUHhmS1ZUYkZNRDktWmtYRExfZ1dhMTE5RnVPeUJxWmZSdkE2OF9xbHpncFEwbHdpY3B2R0F5RENVa28zQU9VamlFc1RSUVFvNXdPdElKdV9zNllfMHdPeFBsZGcxMFp4Y1RjVmVydHZkRFAzbmNZWlQ1bUlNRmlPb1NaeVdGbWlVZGdmU1JRcERacDFiUHIyQUREVVZiX1dGNWxBWU5GYUFtc0dsWmc1aXlNOHFONFpOLWlNeEFYX2dNQVo2bmFYR3RVaTk3U1FMck0wMk5nNmc?oc=5)
@@ -374,10 +361,11 @@ Source: simplywall.st | Date: 2026-08-11
 
 ### 66 - Tower Semiconductor - Fab announcements
 
-[Tower Semiconductor Q2 Earnings Call Highlights - MarketBeat](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFl2QThrTHRsSmEtWW1ITXlqTFVZcE8yOXRsV3ZRV2ZkS1dyZTdMMEZkTk9KU3FJNzI5eWpEanhId1FYazRJYkJHWFdMTHpxVDdzY0Y2YnVydEhtTUxOMkdZazRYODdXSURBblNjQTFHZFkyNGFtSlEtU1dDQ0o4X281c012XzJWOUlyYXdMTnhKU182N3l5dW9XWEZqU3V6ZW5F?oc=5)
+[Tower Semiconductor (NASDAQ:TSEM) Posts Earnings Results, Beats Expectations By $0.03 EPS - MarketBeat](https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEVnVHh1clUwTmlmWDkybFJIaWdTQWQ2VHpVOEx2Z3pFeHozenVkTFZtYXpwcTNCOFlkM000elRNQ2pYVlVMSkRublhmZmoxRW13NkNNemllVlUzek1SLXY2dkZFUDc3QktvREYtY21EVHhzcUVvZFp0WWx0UGhVTDU4aUdtTU5VVXhZakkwOXg0b2hsQXVZYzlFUGFfazVqb05VanI1d3F3b2xtRFJVTk9ZaWM5QlpRN2RRa1dCdnEzNTAzVkthZTdsVFpjR3FCNlBR?oc=5)
 
-MarketBeat reports that Tower Semiconductor Q2 Earnings Call Highlights. Tower Semiconductor:
-fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.
+MarketBeat reports that Tower Semiconductor (NASDAQ:TSEM) Posts Earnings Results, Beats
+Expectations By $0.03 EPS. Tower Semiconductor: fab and capacity signals should be checked for
+ramp timing, layer complexity, and tool pull-ins.
 
 Source: MarketBeat | Date: 2026-08-04
 
@@ -391,14 +379,25 @@ signals should be checked for ramp timing, layer complexity, and tool pull-ins.
 
 Source: finance.biggo.com | Date: 2026-08-04
 
-### 64 - Marvell - ASIC and custom silicon
+### 66 - SK hynix - CapEx changes
 
-[Marvell's Next Move Is To $100 (NASDAQ:MRVL) - Seeking Alpha](https://news.google.com/rss/articles/CBMieEFVX3lxTE14VjZTYkxoczNid1NlUTgzNm5hYXRUa3V4Z1JWbG5QNV91RzN3a1lCRDNjdW5JclM1bEp6bGRQdXpJZ0JTeFJjbXdmeTZUMi1fSUYyeGgwaGRoSkcyUkJXd2VkX054aHNMX0VuM3hJYkRJNi16QzN5dQ?oc=5)
+[SK hynix First-Half Capex Jumps 73% to 18.3 Trillion Won on AI Memory Boom - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE5LT2wweDlwWjV0a0ZLVjl3OGIzd0RGN1ZHOTZsS1pfbFEtdzdxUWI3dlNUQmRMN1BObDAteGx0c0dDT0hyT29HTDFoY2pOcUkwcTJ2NzBOeXpEUzUtMHA4Q05oYnVFMkwtcHQ3cExCUkhSVGlqQXc?oc=5)
 
-Seeking Alpha reports that Marvell's Next Move Is To $100 (NASDAQ:MRVL). Marvell: custom silicon
-demand can translate into foundry starts, packaging capacity, and advanced-node etch pull.
+finance.biggo.com reports that SK hynix First-Half Capex Jumps 73% to 18.3 Trillion Won on AI
+Memory Boom. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool
+allocation.
 
-Source: Seeking Alpha | Date: 2026-08-03
+Source: finance.biggo.com | Date: 2026-08-14
+
+### 66 - Texas Instruments - Fab announcements
+
+[Texas Instruments (TXN) Could Be 36% Undervalued Following GE Appliances Supply Win - simplywall.st](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTUVMZzlXMkNBNld6ZV9RbTdxdUhpXzBtSnMxd0l3UFZmQ1R5WVozYWtNRVVNRUwwdWstTGVZLXFvRlVBQ1ZqamVZWENEWExLdG5QX0JFbklEb3MwVy1VMW9BeVA4S29zRlViTW1Wa3lfbjRNT0p3TEVXSWZmR0F5LW5ZR0hnZzJYVDJ1X1NhTURJMzBVRFNEX3NIbUxIRS03NEItZTAxMG1KbUxmc1pxRFY1elY4VFdtX3dnd3dkQWs2US11VmlQRi1QNTFlbEZDSU9Sd3BNRWJkUWZ4Z2fSAd4BQVVfeXFMUE1FTGc5VzJDQTZXemVfUW03cXVIaV8wbUpzMXdJd1BWZkNUeVlaM2FrTUVVTUVMMHVrLUxlWS1xb0ZVQUNWamplWVhDRFhMS3RuUF9CRW5JRG9zMFctVTFvQXlQOEtvc0ZVYk1tVmt5X240TU9Kd0xFV0lmZkdBeS1uWUdIZ2cyWFQydV9TYU1ESTMwVURTRF9zSG1MSEUtNzRCLWUwMTBtSm1MZnNacURWNXpWOFRXbV93Z3d3ZEFrNlEtdVZpUEYtUDUxZWxGQ0lPUndwTUViZFFmeGdn?oc=5)
+
+simplywall.st reports that Texas Instruments (TXN) Could Be 36% Undervalued Following GE
+Appliances Supply Win. Texas Instruments: fab and capacity signals should be checked for ramp
+timing, layer complexity, and tool pull-ins.
+
+Source: simplywall.st | Date: 2026-08-15
 
 ### 64 - ASE - OSAT / packaging capacity
 
