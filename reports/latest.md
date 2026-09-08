@@ -1,6 +1,6 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-09-07T18:14:12.977042+00:00
+Generated: 2026-09-08T17:13:47.535241+00:00
 
 Tracked entities: 53
 
@@ -9,8 +9,8 @@ Tracked entities: 53
 - **Intel 14A Defect Drop Rivals 22nm Era: Customers Now Asking for Capacity, Not Data - techtimes.com** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **Intel 14A defect density is dropping faster than the company expected - 'we have not seen this performance since 22nm,' says CFO - Tom's Hardware** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **2nm Process Comparison Webinar: Intel 18A vs Samsung SF2 - TechInsights** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting Foundry's Future On TSMC Fight - Wccftech** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **Nvidia's Groq chip ramp brings Samsung foundry closer to profit - The Korea Herald** - Groq: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+- **Nvidia's Groq chip ramp brings Samsung foundry closer to profit - koreaherald.com** - Groq: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+- **Sandisk and Kioxia have yen for new NAND fabs - Blocks & Files** - Kioxia: memory price and utilization momentum help estimate when deferred etch demand may return.
 
 ## Ranked signals
 
@@ -44,25 +44,15 @@ matters.
 
 Source: TechInsights | Date: 2026-09-03
 
-### 94 - Intel Foundry - EUV roadmap
-
-[Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting Foundry's Future On TSMC Fight - Wccftech](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOW54bTJCd19RZ3QwWGxOWWFuUU82S3lHTmpkMUNhSzhGVnVYT3pjajk5Ul90Vzk0S2RFY0JXdUgzcDNoNHVwNEE3ak5DOE1IbUxOYlo3SEZMTDdWMzFRLXJhUHFkZENuZUJDSnpxdTlUVE5iVmEtNzJ1c1VJZVIybnNCVERKeUg0d0lxdUkxWnpta0hnUVM5OHVtampsZ3lxVDJPLVFTZDd1NnZ5NUZneUIzNmFlUElmaXhjRDN1Z1jSAcYBQVVfeXFMTmVsT2syTk84eTd5UXpTcHJNc3IxbnQ1MTEtWVpzQ1VIcGpfdnBPaTdrOXQ2MUNPeElQdkxDaE04OTRNb3FwSExrODNYbjRKZ0doYjdub0N6QWVlTXcwMDc2dDdFWHFyVW03dEgyVGFwSEFSMFk3THkwYUtUd3FXVXltUWFVLVg2d0JRWE45V01qc2cyTlBNcU5sakc5OEhRZEZseG4yeGhGdEw1R1JXeGRQWVJwaV9fU1c1TlhPZkd1YkZUMHd3?oc=5)
-
-Wccftech reports that Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting
-Foundry's Future On TSMC Fight. Intel Foundry: roadmap progress points to leading-edge process
-complexity where conductor etch timing matters.
-
-Source: Wccftech | Date: 2026-09-01
-
 ### 89 - Groq - AI accelerator demand
 
-[Nvidia's Groq chip ramp brings Samsung foundry closer to profit - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORWl1MDA0TFFSUG02YWFDMWlsdGxGMUpRVmN0N1F2QzF0dkNkb205VTd1ZndkRmdVcGpOLVRRWUw0bUlHNnFqTFp4MUtNaWFWNk9SVkJEbw?oc=5)
+[Nvidia's Groq chip ramp brings Samsung foundry closer to profit - koreaherald.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORWl1MDA0TFFSUG02YWFDMWlsdGxGMUpRVmN0N1F2QzF0dkNkb205VTd1ZndkRmdVcGpOLVRRWUw0bUlHNnFqTFp4MUtNaWFWNk9SVkJEbw?oc=5)
 
-The Korea Herald reports that Nvidia's Groq chip ramp brings Samsung foundry closer to profit.
+koreaherald.com reports that Nvidia's Groq chip ramp brings Samsung foundry closer to profit.
 Groq: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-
 intensive foundry demand.
 
-Source: The Korea Herald | Date: 2026-08-26
+Source: koreaherald.com | Date: 2026-08-26
 
 ### 82 - Kioxia - NAND / DRAM pricing
 
@@ -85,13 +75,23 @@ Source: finance.biggo.com | Date: 2026-09-02
 
 ### 80 - Groq - AI accelerator demand
 
-[Samsung mass-produces Nvidia's inference chip Groq 3 LPU, boding well for foundry turnaround - KED Global](https://news.google.com/rss/articles/CBMid0FVX3lxTFBhRTNOZXhPV3k4WlVoT0xIVmJFODh4Yk9wSW5oSTlQeXRrSmdyVE9QNXNLV29GSDZjUFEyY0RUVkRFaDhkSFQ0N0otZGVfYWgyVlFkbGNWemN5QlI5aVAwOGxWdHN2TmhpZ0owZG45VzFoVExDcnQ0?oc=5)
+[Nvidia's Groq 3 LPX chip pushes Samsung foundry closer to profitability - Big News Network.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDk5cnJFM09vTnBMRHd1TVdXYVk2OS0yMzBORmhHMnh5Z0ppNzNscDhIckJnS2FVRWNWOGZnNnlWTUlFNmZmd1dfSXhEb2hXdXoxUGZ0UGw4YUxWdXNfUV9pMWxaX2RQOFY4UkdPQS12NE9sNFp3SFRsTWdyVGZJSTNkZGNRa0YxNk1ZY0lsaEoxcWt2WmViUE1hZlkzeEhRLVJEOWpURUNTTjQwSG1zODV1dDhadw?oc=5)
 
-KED Global reports that Samsung mass-produces Nvidia's inference chip Groq 3 LPU, boding well
-for foundry turnaround. Groq: AI accelerator momentum is a leading indicator for CoWoS/HBM
-constraints and etch-intensive foundry demand.
+Big News Network.com reports that Nvidia's Groq 3 LPX chip pushes Samsung foundry closer to
+profitability. Groq: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints
+and etch-intensive foundry demand.
 
-Source: KED Global | Date: 2026-08-25
+Source: Big News Network.com | Date: 2026-08-27
+
+### 79 - Intel Foundry - EUV roadmap
+
+[Intel Foundry Achieves Milestone with One Million High-NA EUV Wafers - TechPowerUp](https://news.google.com/rss/articles/CBMipgFBVV95cUxPblB6UXZBVTBxQzhCd2JQZ3c3UHRwYzdXOVctN2lkREdsajdONmlES0dkRzc5T3RJdkZ2OFVwNWRGVE92U2dnZU15dUVCM0tGQnVIZUlGQXVSZHBCVDdSdXZPa3EyNjZVOVlPSERMem5aMnpqaWx6eHdoenZVVmdoT0g0c1pBcWpvS0R1RFliZk5XVlhvX2hkVEpzbmdSSkRSWUpxbWdR0gGrAUFVX3lxTE9ZdWhUWXpweFVUSXJyMzlHN2tMLUJLanNmVzZzZ09oTXZmT3YxbEFjQTZOTzFwNFJLUkhuNWpMOThkMXJJVmlON0xTUUxkTUlDTU4tZ0FzV2VDeXBMR3ZJaUtET1ZvZHVHbWRRZlc2cmF2dTNXQzBKemZhSF9QUjhRV00wSzFGank1QUs2akpFWndrVllfaUxMOEhiZEgydkhwbTY4N3dWY3RYNA?oc=5)
+
+TechPowerUp reports that Intel Foundry Achieves Milestone with One Million High-NA EUV Wafers.
+Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch
+timing matters.
+
+Source: TechPowerUp | Date: 2026-09-08
 
 ### 79 - Cerebras - AI accelerator demand
 
@@ -106,23 +106,13 @@ Source: Tom's Hardware | Date: 2026-08-27
 
 ### 77 - Kioxia - NAND / DRAM pricing
 
-[Kioxia and Sandisk to Invest Over $31 Billion in Japan, Extending Leadership in Memory Industry - businesswire.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQVJMRWIxYzktUnpqX2Foa2IwamNnOFk5VndoRk9fUjNZZHJEZFdwUlcwRHJydEtQNnhoZm5SQ0xmUUc5b0NuVGpOc2c1R2NYOEFqRmtXcjlib3VvOGZ4X0I2V0RkQm1vdnltUFNUSkZsNGMzOS1jcW40X0RHOVFSRWdDdmFZSjNlSm1aZHR0aHpDMDU4dGRMU20tRHNwS2Vka2R3b1hkaEtaX3BIb3V1YlM1Wi1rYXFRZkl6ZXNjbk4yR3hNY0RfOHV1TzhOTEYtS3FLS1hEaWxCSUtuX2JPWEZHblQtV1pf?oc=5)
+[Kioxia and Sandisk to Invest Over $31 Billion in Japan, Extending Leadership in Memory Industry - Business Wire](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQVJMRWIxYzktUnpqX2Foa2IwamNnOFk5VndoRk9fUjNZZHJEZFdwUlcwRHJydEtQNnhoZm5SQ0xmUUc5b0NuVGpOc2c1R2NYOEFqRmtXcjlib3VvOGZ4X0I2V0RkQm1vdnltUFNUSkZsNGMzOS1jcW40X0RHOVFSRWdDdmFZSjNlSm1aZHR0aHpDMDU4dGRMU20tRHNwS2Vka2R3b1hkaEtaX3BIb3V1YlM1Wi1rYXFRZkl6ZXNjbk4yR3hNY0RfOHV1TzhOTEYtS3FLS1hEaWxCSUtuX2JPWEZHblQtV1pf?oc=5)
 
-businesswire.com reports that Kioxia and Sandisk to Invest Over $31 Billion in Japan, Extending
+Business Wire reports that Kioxia and Sandisk to Invest Over $31 Billion in Japan, Extending
 Leadership in Memory Industry. Kioxia: memory price and utilization momentum help estimate when
 deferred etch demand may return.
 
-Source: businesswire.com | Date: 2026-08-27
-
-### 77 - Kioxia - NAND / DRAM pricing
-
-[Kioxia and Sandisk plan $31 billion Japan memory chip expansion - The Japan Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1hPT2E2S2lTaHdXa3NwcjlvSGMzSTl3S0UtRFoyeFUxT2JBdWQwRVpRV2FoUFlmamxoT0U0SEp4U3ZfUFJfWkNjcktWQVUwTWt5RHRDOGRjenNWRFhsVHV2SGNQOWZJRjBWNTRzWXMwWmtHWDk0QklLazlHRThKc2xwOVBYOVoxRGVld1AtWjhyZUE?oc=5)
-
-The Japan Times reports that Kioxia and Sandisk plan $31 billion Japan memory chip expansion.
-Kioxia: memory price and utilization momentum help estimate when deferred etch demand may
-return.
-
-Source: The Japan Times | Date: 2026-08-27
+Source: Business Wire | Date: 2026-08-27
 
 ### 76 - Micron Technology - Fab announcements
 
@@ -145,13 +135,13 @@ Source: techtimes.com | Date: 2026-08-26
 
 ### 73 - Micron Technology - HBM demand
 
-[Micron Technology: The Center Of Gravity For The Memory Supercycle (NASDAQ:MU) - seekingalpha.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHpYdWdMMmRESFVyX2pJRFZJLXVVQUlVaEJQLVZoQ3hhRnlKQUZaVS1tV21NMTdSQVdOWWhiSmg3UjBlc2NlU1J1YW9TRmVCTmI5VDgtZDlkVTZQajZxNkU5QkVNU3czUl9VdHZZZDIzbEtiYTdHQ3MtS2xpS1JZNXZhazJBZzBpRmVQT2YyTWgxUnB4Sjh2SkI2SmMzLWp6cHRMTlBDM3NCQQ?oc=5)
+[Micron Technology: The Center Of Gravity For The Memory Supercycle (NASDAQ:MU) - Seeking Alpha](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHpYdWdMMmRESFVyX2pJRFZJLXVVQUlVaEJQLVZoQ3hhRnlKQUZaVS1tV21NMTdSQVdOWWhiSmg3UjBlc2NlU1J1YW9TRmVCTmI5VDgtZDlkVTZQajZxNkU5QkVNU3czUl9VdHZZZDIzbEtiYTdHQ3MtS2xpS1JZNXZhazJBZzBpRmVQT2YyTWgxUnB4Sjh2SkI2SmMzLWp6cHRMTlBDM3NCQQ?oc=5)
 
-seekingalpha.com reports that Micron Technology: The Center Of Gravity For The Memory Supercycle
+Seeking Alpha reports that Micron Technology: The Center Of Gravity For The Memory Supercycle
 (NASDAQ:MU). Micron Technology: HBM demand can pull advanced DRAM capacity and packaging
 intensity forward, lifting conductor etch relevance.
 
-Source: seekingalpha.com | Date: 2026-08-31
+Source: Seeking Alpha | Date: 2026-08-31
 
 ### 73 - SK hynix - HBM demand
 
@@ -172,16 +162,6 @@ Boom. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensi
 lifting conductor etch relevance.
 
 Source: TradingView | Date: 2026-08-28
-
-### 73 - Western Digital - NAND / DRAM pricing
-
-[Western Digital Corp Stock (WDC) Moved Up by 4.42% on Sep 4: Drivers Behind the Movement - TradingKey](https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUM0QXlSc1NEWkRzUFI3bWN2aERGTFNFeXJMRmRzR05pd2FrdWpST2V5djJDSi10TlNVcWhXM0lKckp1ak05WHpGQ1kwNmVHemo4Z09ZNnNiYmJVUm9tSzlJTEZOOHZpckVPQU80SndlelFURnRqTl80azluVXJXTWtfLXdhRjRyREE?oc=5)
-
-TradingKey reports that Western Digital Corp Stock (WDC) Moved Up by 4.42% on Sep 4: Drivers
-Behind the Movement. Western Digital: memory price and utilization momentum help estimate when
-deferred etch demand may return.
-
-Source: TradingKey | Date: 2026-09-04
 
 ### 72 - NVIDIA - AI accelerator demand
 
@@ -213,25 +193,15 @@ tool allocation.
 
 Source: finance.biggo.com | Date: 2026-08-31
 
-### 70 - Apple Silicon - GPU / CPU roadmaps
-
-[Apple Debuts 2nm M6 Mac Mini and Quad-Die M5 Ultra Mac Studio, Pushing On-Device AI - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE52VXlLcU10OVhXLXgzcVVHN04wcFZwY2hsVjlCMFlTMVNRZGJZT0E3NzNXYVZ1Qks4ZEl4Vkg4dWZGX1VtWGtMa0tnTU92ZnV4Mm5YSzdvdGc0XzlzYjRBQVdJMUNoZEw5WHJVMU51ekFTQ3hPQ0E?oc=5)
-
-finance.biggo.com reports that Apple Debuts 2nm M6 Mac Mini and Quad-Die M5 Ultra Mac Studio,
-Pushing On-Device AI. Apple Silicon: roadmap progress points to leading-edge process complexity
-where conductor etch timing matters.
-
-Source: finance.biggo.com | Date: 2026-08-25
-
 ### 68 - NVIDIA - AI accelerator demand
 
-[NVIDIA's Quarterly Profits Soared to Record Levels, but Consumers are about to Pay the Price - Mix93.3](https://news.google.com/rss/articles/CBMie0FVX3lxTE9mVmZTcWZTa0ZxWmRHbThJZnFpWG5ucm0tUWlTVEZKRS13WE9LTHl2amY4ZWJja0N1ZXVvUVdjdy1tMFd1Vm9PRTRwX0RpRUhxczNIN0hWS2ZodWE3U3NjOW1MaTNoNjMyMUx4al90RGl1RnZ5SFFvbG9ndw?oc=5)
+[AI Semiconductor Supply Chain Explained: Nvidia, TSMC, ASML, Micron and SK Hynix - MEXC](https://news.google.com/rss/articles/CBMiswFBVV95cUxOakplVEhIbGc2amc0NnZGemM2TDFwYWtfSWo4RXhDdGNDRkFCTzFjTFZZdzFLcEtfMlFteTQyc0pyWVJ2d2JORWN6OFlIYTR4YVdTY3ItdWJ2ZGNtXzBmQ1Z5SjJVc1V1aEg5blZhaWpiMjgyUWtva3FsMm90VGlVai15V2ZaWGhYQi01M09FdkxhM1JwOFZzeVVvQ3FSMlhGSWF4TXl1enNGejBqelhLVEJxRQ?oc=5)
 
-Mix93.3 reports that NVIDIA's Quarterly Profits Soared to Record Levels, but Consumers are about
-to Pay the Price. NVIDIA: AI accelerator momentum is a leading indicator for CoWoS/HBM
-constraints and etch-intensive foundry demand.
+MEXC reports that AI Semiconductor Supply Chain Explained: Nvidia, TSMC, ASML, Micron and SK
+Hynix. NVIDIA: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and
+etch-intensive foundry demand.
 
-Source: Mix93.3 | Date: 2026-08-31
+Source: MEXC | Date: 2026-09-07
 
 ### 68 - Broadcom - ASIC and custom silicon
 
@@ -243,6 +213,26 @@ capacity, and advanced-node etch pull.
 
 Source: techtimes.com | Date: 2026-09-03
 
+### 68 - Broadcom - ASIC and custom silicon
+
+[Broadcom(AVGO) Earnings Preview: Can Custom AI Chips Drive AVGO Stock Higher? | MEXC Crypto Pulse - MEXC](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNHRlQUVpZjdwcTR4bVJqdU5fWGdTbnJ6Z251NkFaQjRGaTV1UGU1Zjh4NVNiSWhFSnQ2NzBxbzZKTC1wZ1Jkell5OWlzNnBaNVk3Tm5HNDFRTnRETWZvb0otR0c4VHNJSGV5VE9iNDYxcEppcGQ3b2hDbG5EdFF2UEZKbFc4dw?oc=5)
+
+MEXC reports that Broadcom(AVGO) Earnings Preview: Can Custom AI Chips Drive AVGO Stock Higher?
+| MEXC Crypto Pulse. Broadcom: custom silicon demand can translate into foundry starts,
+packaging capacity, and advanced-node etch pull.
+
+Source: MEXC | Date: 2026-08-31
+
+### 68 - Tesla Dojo - AI accelerator demand
+
+[Robotaxi hits 1M unsupervised miles · Tesla Shorts 🚀 - Buttondown](https://news.google.com/rss/articles/CBMid0FVX3lxTE9DVlZWUFV2TUlMd0tEd29NLVA0ZFNIVVpBTExEVnE0cWdzU3NFRkhIbkd6LUFTdlV2NWNZSWtBZlVxZkhwWmNlM2VvYmRCdlJOYng2REJhQ3lET1JLT3JQQkpfVm9YM056X19CWGpES25objE3QzdZ?oc=5)
+
+Buttondown reports that Robotaxi hits 1M unsupervised miles · Tesla Shorts 🚀. Tesla Dojo: AI
+accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry
+demand.
+
+Source: Buttondown | Date: 2026-09-06
+
 ### 68 - Tesla Dojo - AI accelerator demand
 
 [Tesla's finalized AI 5 processor revives the stalled… · Tesla Shorts 🚀 - Buttondown](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnVablEwSE9udjFyOEVUTTNFOEFobGpLRnA1dWJFclZ6R2FhcHQtcVk4T0lHSjRKc1F1SXBEM29kMVBURGdwLTRxMXVhajQyQ3FtTXprR3N6SWgtN2Z6bW5FN2VmZ0I4TlpHNHRIQ0tCcjM1NkU0cnM5VmhOaDdBZlNOaEtSd0ZjOGwxZ0pNN3g4dk5RN2FFYkRSZFkzT3c?oc=5)
@@ -252,16 +242,6 @@ Tesla Dojo: AI accelerator momentum is a leading indicator for CoWoS/HBM constra
 intensive foundry demand.
 
 Source: Buttondown | Date: 2026-08-30
-
-### 68 - Cerebras - AI accelerator demand
-
-[Cerebras shares plummet 16% after results fail to impress investors - Reuters](https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RxTUJxMTh2Mk9XSmgxdm1MZDh6MlRtcVl5aFM1bmF1ajVmWlFnUF9nNU0yYjloQ0pON2VSWFZBYTVldmJ0TGI5N2psYlcwZVRuSURZaUM1NkYzVkh4NGVNRUtjd0F0M3RMTno2X0RSNG9VbF91V2lDOUh0OG5nSDJiY2M4cDdrM1lGRnNicldnNXBBQTBDRFVzNHdJQQ?oc=5)
-
-Reuters reports that Cerebras shares plummet 16% after results fail to impress investors.
-Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-
-intensive foundry demand.
-
-Source: Reuters | Date: 2026-08-25
 
 ### 68 - Credo Technology - AI accelerator demand
 
@@ -294,72 +274,73 @@ can reshape adjacent process demand and customer priority.
 
 Source: TrendForce | Date: 2026-08-31
 
+### 66 - GlobalFoundries - Fab announcements
+
+[Globalfoundries breaks ground on new fab in Singapore - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkdYTDZSTGpxeDhmRTNWVVg1eEs0X01aSi1yUWwyZFZaU0ZHOXhVZDFMMkFjcnBMWEE3Uno0eWhCYTJPc2czUXdLdV9udy1WeVM5YVNkVVBpME9ZYUdzRTdXM2JUYkdNYUhJLV9vQ2FJRXA2enNLXzRFdV82ZmFFQktOSnlCZmVpbVlPZnM0RVMwS1JuSzY2dW53?oc=5)
+
+Singapore Economic Development Board (EDB) reports that Globalfoundries breaks ground on new fab
+in Singapore. GlobalFoundries: fab and capacity signals should be checked for ramp timing, layer
+complexity, and tool pull-ins.
+
+Source: Singapore Economic Development Board (EDB) | Date: 2026-09-02
+
 ### 66 - SK hynix - CapEx changes
 
-[SK Hynix: Cheap Despite A Historic Memory Boom (NASDAQ:SKHY) - seekingalpha.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjU0RngyVWJTRVdOOGRtVXl0Um11NkFUaElyUENtVTlsaVpzanJ0TVNuYTBWbFpOMWx5YWtwRHpFWmdhUWhHVzJkYUNyVFgxYWRDdnhMZW1kX0pjU21ZMlUyYWxJMlBoLVBQX3c1c3A4VU52N1FWR1lQR3A1bXlZVnlqWmhMQ0VkMUFZQQ?oc=5)
+[SK hynix: The HBF And HBS Bet You Don't Want To Miss (NASDAQ:SKHY) - Seeking Alpha](https://news.google.com/rss/articles/CBMilgFBVV95cUxQNlZtb3VQdHlHRnlVOVRTbWVUdUZFX3VTT3MtZXRkSERJYzFMd29TbzRJZVV5b1YxdG9wblZTQ18wbU5Od1pmZXhBTGZzcDlxMUJzNVVvdTU0RTRncVZIVGcyNjEzc3M2bDJTeEpWUXpjeWxxaTMwem0xUGc5eWxTVUJadWliMTBHV1E5Rk5nUnlCeEl5S0E?oc=5)
 
-seekingalpha.com reports that SK Hynix: Cheap Despite A Historic Memory Boom (NASDAQ:SKHY). SK
-hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.
+Seeking Alpha reports that SK hynix: The HBF And HBS Bet You Don't Want To Miss (NASDAQ:SKHY).
+SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.
 
-Source: seekingalpha.com | Date: 2026-08-25
+Source: Seeking Alpha | Date: 2026-09-03
 
 ### 64 - Arista Networks - ASIC and custom silicon
 
-[Why Broadcom should buy Arista (and why it won't) - SDxCentral](https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2dJN3oyQ3NpQ0k5bVVNaUpnN3FpUWxrb05OdW9xQWVFNHNrOFJlTHJfbUxXbXlOSnVnWF9XcmRsZWNmd05PNTlXTjJRZUJVenRaMkhROFBWT0xLV2JxaXdJeXVzVGUyaFRtV2hpbTVMTzBJVUZpYU5HdldIVjMtZ01PNXh3S2NBOWpaSmYxQUpDZw?oc=5)
+[Why Broadcom should buy Arista (and why it won't) - sdxcentral.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2dJN3oyQ3NpQ0k5bVVNaUpnN3FpUWxrb05OdW9xQWVFNHNrOFJlTHJfbUxXbXlOSnVnWF9XcmRsZWNmd05PNTlXTjJRZUJVenRaMkhROFBWT0xLV2JxaXdJeXVzVGUyaFRtV2hpbTVMTzBJVUZpYU5HdldIVjMtZ01PNXh3S2NBOWpaSmYxQUpDZw?oc=5)
 
-SDxCentral reports that Why Broadcom should buy Arista (and why it won't). Arista Networks:
+sdxcentral.com reports that Why Broadcom should buy Arista (and why it won't). Arista Networks:
 custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node
 etch pull.
 
-Source: SDxCentral | Date: 2026-09-02
+Source: sdxcentral.com | Date: 2026-09-02
 
 ### 62 - Infineon - Automotive and edge silicon
 
-[Infineon's Two-Front Push: Solar Silicon Carbide and AI Power Architecture - AD HOC NEWS](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPak1aeG1hUTF4RGVQSkdjeFhZbTVTYTJ2Vk9VNWdoR3ZvcnN4ZlNEMTA3ZmdpNkliLUZ1Q2pINkJsWDZBUlktZC1fanRQZUZ0b0s5RnozZ0NsdGhTOU1ZdUpBbjJsbXRWVDFGWk5HbEFtNGRRUmxCM3BWVXJCLVE4WXVLM3RsZWVYTUtPSnpobzlwRFZxQmxraXBkZ3VXekhPZnc3TEdiczNCSHZIOWdXdjRIaHhQZHZPX05WZEJXN185WkhRa0xSWXlLckdUZWs3VkNfZk5nTnNjcUFJd2c?oc=5)
+[Infineon stock edges higher as new silicon carbide deal supports FY26 outlook - AD HOC NEWS](https://news.google.com/rss/articles/CBMizAFBVV95cUxQTi1MclhGSXI4cERMTllGMW9FRkFHUU40Wkg0RlM2ZFhsNkx4WENOZkk1V1ZUazd1WWZqMlhoTWtmcGhsNTdNZEp3a29DS0ZDc2tFZkgxSTNYQVpVMkNRSmV5bWZvQm50cmtnYzN5ZmZqaDhQNWwxWVhjcFNIQmFqMDhTTGlyY3lLSnI0dEhTQUJKZlRNTlNnalk4SnlocDRHbU5mRUZyVUdwTnVBblBOOGJpSC1MMkt0X25mcWdMckFGYjdLVHozdnlvNkY?oc=5)
 
-AD HOC NEWS reports that Infineon's Two-Front Push: Solar Silicon Carbide and AI Power
-Architecture. Infineon: automotive and power-semiconductor demand can influence specialty fab
-loading and mature-node etch utilization.
+AD HOC NEWS reports that Infineon stock edges higher as new silicon carbide deal supports FY26
+outlook. Infineon: automotive and power-semiconductor demand can influence specialty fab loading
+and mature-node etch utilization.
 
 Source: AD HOC NEWS | Date: 2026-08-26
 
 ### 58 - NVIDIA - GPU / CPU roadmaps
 
-[Top 30+ AI Chip Makers: NVIDIA & Its Competitors - aimultiple.com](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5)
+[Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5)
 
-aimultiple.com reports that Top 30+ AI Chip Makers: NVIDIA & Its Competitors. NVIDIA: EDA/IP
+AIMultiple reports that Top 30+ AI Chip Makers: NVIDIA & Its Competitors. NVIDIA: EDA/IP
 activity is an upstream signal for design starts that can become future foundry and etch demand.
 
-Source: aimultiple.com | Date: 2026-08-26
+Source: AIMultiple | Date: 2026-08-26
 
 ### 58 - Synopsys - EDA / IP design starts
 
-["Tape-out is not the finish line; it's where the real validation begins." - Sudeep Shivalli, Synopsys India - Electronics For You BUSINESS](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa1dyR053Y1lpOW5palYtY0o1NVlQLVJvX3lCenBaR2RtVXE4SUR0eTZES0lMazNkbXB0Zk5NaWNIbEZhWXFHRWFCR2ZXcklndmxsT1BTa1BTR1czX1dCNXZha041b2FRVnJDQk5MQmZoTjh4RXV1LS02YlhvVnVNRlluUVNiZks5S0FlZE5TVVhNTmdGcEpzT3JMSWJnSjVOVlIwbVJnb3BoMmE0U1dWOVZwZE9MM1pPclM1ZC1ROWF4SXBXV1B1aHctZTBiVXI5QXd3bC1XSVhzeUFBUUdj?oc=5)
+["Tape-out is not the finish line; it's where the real validation begins." - Sudeep Shivalli, Synopsys India - electronicsforyou.biz](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa1dyR053Y1lpOW5palYtY0o1NVlQLVJvX3lCenBaR2RtVXE4SUR0eTZES0lMazNkbXB0Zk5NaWNIbEZhWXFHRWFCR2ZXcklndmxsT1BTa1BTR1czX1dCNXZha041b2FRVnJDQk5MQmZoTjh4RXV1LS02YlhvVnVNRlluUVNiZks5S0FlZE5TVVhNTmdGcEpzT3JMSWJnSjVOVlIwbVJnb3BoMmE0U1dWOVZwZE9MM1pPclM1ZC1ROWF4SXBXV1B1aHctZTBiVXI5QXd3bC1XSVhzeUFBUUdj?oc=5)
 
-Electronics For You BUSINESS reports that "Tape-out is not the finish line; it's where the real
+electronicsforyou.biz reports that "Tape-out is not the finish line; it's where the real
 validation begins." - Sudeep Shivalli, Synopsys India. Synopsys: EDA/IP activity is an upstream
 signal for design starts that can become future foundry and etch demand.
 
-Source: Electronics For You BUSINESS | Date: 2026-08-31
+Source: electronicsforyou.biz | Date: 2026-08-31
 
 ### 55 - Infineon - Automotive and edge silicon
 
-[Infineon powers NASA's Roman Space Telescope mission - manufacturingtodayindia.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHd6RmtsUi1iSFQyaHpvbkhodjBCMDJtSElHN2pPWkdvRkNHUGNpT3BNUlpOOWNrX0tCakVWelVYeENONzc1aWw2bmFpbXhlWXNKVHJ2SktIYVlJN1lxRi1WN1FKUGw4RUtLUmdtT09ucElWaUF2N2Z3MEx2eUxZdQ?oc=5)
+[Infineon powers NASA's Roman Space Telescope mission - Manufacturing Today India](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbHd6RmtsUi1iSFQyaHpvbkhodjBCMDJtSElHN2pPWkdvRkNHUGNpT3BNUlpOOWNrX0tCakVWelVYeENONzc1aWw2bmFpbXhlWXNKVHJ2SktIYVlJN1lxRi1WN1FKUGw4RUtLUmdtT09ucElWaUF2N2Z3MEx2eUxZdQ?oc=5)
 
-manufacturingtodayindia.com reports that Infineon powers NASA's Roman Space Telescope mission.
+Manufacturing Today India reports that Infineon powers NASA's Roman Space Telescope mission.
 Infineon: automotive and power-semiconductor demand can influence specialty fab loading and
 mature-node etch utilization.
 
-Source: manufacturingtodayindia.com | Date: 2026-09-04
-
-### 54 - NVIDIA - GPU / CPU roadmaps
-
-[OpenAI Jalapeño: Better Than Nvidia Blackwell - SemiAnalysis](https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5)
-
-SemiAnalysis reports that OpenAI Jalapeño: Better Than Nvidia Blackwell. NVIDIA: fab and
-capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.
-
-Source: SemiAnalysis | Date: 2026-08-25
+Source: Manufacturing Today India | Date: 2026-09-04
 
 ### 54 - NVIDIA - GPU / CPU roadmaps
 
