@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:58:32.872674+00:00",
+  "generated_at": "2026-09-11T17:00:45.317692+00:00",
   "customers": [
     "TSMC",
     "Samsung Foundry",
@@ -137,12 +137,12 @@
   ],
   "brief": [
     {
-      "headline": "Intel 14A Defect Drop Rivals 22nm Era: Customers Now Asking for Capacity, Not Data - Tech Times",
-      "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
-    },
-    {
       "headline": "2nm Process Comparison Webinar: Intel 18A vs Samsung SF2 - TechInsights",
       "implication": "Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
+    },
+    {
+      "headline": "Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting Foundry's Future On TSMC Fight - Wccftech",
+      "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
     },
     {
       "headline": "UMC announces new 22nm wafer fab in Singapore - Singapore Economic Development Board (EDB)",
@@ -153,21 +153,11 @@
       "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
     },
     {
-      "headline": "TSMC to Keep Microbump for HBM Packaging for Now, Tasks Suppliers with 5\u03bcm Challenge - finance.biggo.com",
-      "implication": "TSMC: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance."
+      "headline": "\"Nvidia Is Hamstrung Too\": Packaging Emerges as AI Chips' New Bottleneck, Intensifying Global Capex Race - economy.ac",
+      "implication": "NVIDIA: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand."
     }
   ],
   "signals": [
-    {
-      "customer": "Intel Foundry",
-      "topic": "EUV roadmap",
-      "title": "Intel 14A Defect Drop Rivals 22nm Era: Customers Now Asking for Capacity, Not Data - Tech Times",
-      "summary": "Tech Times reports that Intel 14A Defect Drop Rivals 22nm Era: Customers Now Asking for Capacity, Not Data. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 99,
-      "date": "2026-08-28",
-      "source": "Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWklNMDB2YW9zeWhHTEI1cHoyTGp2ekpXWVRiYkY2QjV3djhLZjdaYUhaTDEzdVp0dGxjNG81bVRpT3pRVEdtaDYyMHF4amtWTjdsdDgtcDd3NnRCMGZ6UGhIMGs2T1BIVk9kZ0txVW1uVFlKbHJINWZaTnhmd0l4Rm1lOGFxUFhpSnh6ZktON2NVLS1XZjZpNGItd2gzOU5od2N1RzRpMHJhRlJhZXBlc1NZM1NyeEhVVnBxclh5NlN0VDBod0JPamwzMA?oc=5"
-    },
     {
       "customer": "Samsung Foundry",
       "topic": "Foundry customer wins",
@@ -179,6 +169,16 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3OTVtSlZobE5lbnVhRkdxelUzZXlqXzJoTW5EaU1UcndzYUZWUFNnblk1TGo4enRaLWdZaWxpYmdLMmRQZHFndEwxV2RWblpJOTdjLWprQlptb3FNR1NzNENjeVRDYTl3NGs4?oc=5"
     },
     {
+      "customer": "Intel Foundry",
+      "topic": "EUV roadmap",
+      "title": "Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting Foundry's Future On TSMC Fight - Wccftech",
+      "summary": "Wccftech reports that Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting Foundry's Future On TSMC Fight. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
+      "impact_score": 94,
+      "date": "2026-09-01",
+      "source": "Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOW54bTJCd19RZ3QwWGxOWWFuUU82S3lHTmpkMUNhSzhGVnVYT3pjajk5Ul90Vzk0S2RFY0JXdUgzcDNoNHVwNEE3ak5DOE1IbUxOYlo3SEZMTDdWMzFRLXJhUHFkZENuZUJDSnpxdTlUVE5iVmEtNzJ1c1VJZVIybnNCVERKeUg0d0lxdUkxWnpta0hnUVM5OHVtampsZ3lxVDJPLVFTZDd1NnZ5NUZneUIzNmFlUElmaXhjRDN1Z1jSAcYBQVVfeXFMTmVsT2syTk84eTd5UXpTcHJNc3IxbnQ1MTEtWVpzQ1VIcGpfdnBPaTdrOXQ2MUNPeElQdkxDaE04OTRNb3FwSExrODNYbjRKZ0doYjdub0N6QWVlTXcwMDc2dDdFWHFyVW03dEgyVGFwSEFSMFk3THkwYUtUd3FXVXltUWFVLVg2d0JRWE45V01qc2cyTlBNcU5sakc5OEhRZEZseG4yeGhGdEw1R1JXeGRQWVJwaV9fU1c1TlhPZkd1YkZUMHd3?oc=5"
+    },
+    {
       "customer": "UMC",
       "topic": "CapEx changes",
       "title": "UMC announces new 22nm wafer fab in Singapore - Singapore Economic Development Board (EDB)",
@@ -186,7 +186,7 @@
       "impact_score": 91,
       "date": "2026-09-08",
       "source": "Singapore Economic Development Board (EDB)",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYk1veTJKelFlb3RNMUNPS0VoVUJQcWFXTXNKU0haOHJLRmwtWUpEQmhjU3VDLXJDMl82M1ljbzFyNWhkbDlsNndWOWRiT256UUpMT19VLUwyamdQeW90S3JiVEhQMGtRS1d4T2dOcmhmcWhzLVo5bGFfUjZ0Y3VOV1JuOEdIWVZ5dHA2LTQ0RVMxS1k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0dkR1BVd3NhUnBHN0pUOTVhNU1jcDhzNDQyTFNUY3pwdi05c2NZNkhrdFFwMUE1V09GZ0poVkdiSGEyZDVXZF8xN3FLdFBmMkIzN0RHZFFyOW8wcF9rczJyb2hyaTNoTUJySnJ4enpZblFRbHFTSGdkbWh6cm1aeWc1RlktSFNjYnpwTko4QQ?oc=5"
     },
     {
       "customer": "Intel Foundry",
@@ -197,6 +197,16 @@
       "date": "2026-09-04",
       "source": "Fortune",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDZ1UVdPM3d1SGlxcHl2MWUzU2pDc0hyRHdmeFpTOEF3SkZsaUpteEszQkxjUlQ2QnFJaDJSUXBUWWZuQl9FRVNmVDZDOWJiSVhWU1EwSHBWMmdxVGRrUA?oc=5"
+    },
+    {
+      "customer": "NVIDIA",
+      "topic": "AI accelerator demand",
+      "title": "\"Nvidia Is Hamstrung Too\": Packaging Emerges as AI Chips' New Bottleneck, Intensifying Global Capex Race - economy.ac",
+      "summary": "economy.ac reports that \"Nvidia Is Hamstrung Too\": Packaging Emerges as AI Chips' New Bottleneck, Intensifying Global Capex Race. NVIDIA: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
+      "impact_score": 82,
+      "date": "2026-09-08",
+      "source": "economy.ac",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGY3NZZm1keDlNaXB2dzlHTWdSR3UxSDBucktFOEhfcGpsNk9vRTdicDFkNlFMUGdsdklCeFNuUzNyczFadUZoR3lNaDVyZHAzQzNMVHlaQQ?oc=5"
     },
     {
       "customer": "TSMC",
@@ -251,12 +261,12 @@
     {
       "customer": "SK hynix",
       "topic": "HBM demand",
-      "title": "Upbeat AI Data Centers Demand Propels SK Hynix: More Growth Ahead? - tradingview.com",
-      "summary": "tradingview.com reports that Upbeat AI Data Centers Demand Propels SK Hynix: More Growth Ahead?. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
+      "title": "Beyond HBM: Samsung, SK hynix target AI data center storage - The Korea Herald",
+      "summary": "The Korea Herald reports that Beyond HBM: Samsung, SK hynix target AI data center storage. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
       "impact_score": 73,
-      "date": "2026-09-03",
-      "source": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGpWQVB4Y2oxOGJzalhFTmUtaGVHYk9JR3FYaWxtaE9fUlpnVERfWVdHcERvTkVJY3BRaUdfM0dOMEZSSkNydVVPTFJoSUl3d2ZIY0lpM2Q0ZFNGeFVKNnhNUnFlWWNpVWFfdlJJWllOVmExYlA0Rlo1SGFYYW1tZnNBV3h6NGVRckczak5pUV9pUzI3ZU9WMU1tZUJra2ZPcHV0d0JLSkZoeGNBTFdfZlhveG0zZUxUNEp2VQ?oc=5"
+      "date": "2026-09-02",
+      "source": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zTkt6SS0za2hDdWd3aThtVUVTM2RyT0FIa0YydGlEUXNpWXIweVNlNHFtTXV0VDVwUkMwbkU2V2E4dDJuempkNEd4NDVnTU1reFBiSmYxZw?oc=5"
     },
     {
       "customer": "Kioxia",
@@ -287,16 +297,6 @@
       "date": "2026-09-03",
       "source": "shattered.io",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00OFZfYkFQbWJsbXVHV2VtZEZ0QzdfRUdlRHlKY0VRc0U1YWVOa2drb2pjTGVmZVFLbTFCczlfUDJ1czNxSUs2bnRnU1dFYWVhRTFrdTJEME5tLTE0alNzS0N1Yw?oc=5"
-    },
-    {
-      "customer": "Micron Technology",
-      "topic": "Fab announcements",
-      "title": "Micron Technology (MU) Q3 2026 Earnings Call Transcript - Fortune",
-      "summary": "Fortune reports that Micron Technology (MU) Q3 2026 Earnings Call Transcript. Micron Technology: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
-      "impact_score": 70,
-      "date": "2026-09-03",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wQ1l4Rl9ucHRIMUR5LUZiM19CU2RlLTJQNUhiUktFa3VraWpQZ01aMTAyZHNabG93SU13ZVEwTWNIY2hpdnZJSVk3RUNZSkkzLTdGM1VyUXJ0eFJ2aXdvR2FWWC1acGtUdFlmVnViVWc?oc=5"
     },
     {
       "customer": "SK hynix",
@@ -389,16 +389,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80TGhPZlk3Z1dGRlYwbWdTNUEwWUNoQnAwUTVBZFUyTXRWZTJDclFaODF3MzdKOGc0U1N3YURmVEJlNmNPeG1RSHVIblkwN2oxMEg0?oc=5"
     },
     {
-      "customer": "Powertech Technology",
-      "topic": "OSAT / packaging capacity",
-      "title": "[News] Powertech Bets NT$70B on World's First Panel-Level AI Chip Packaging in 2027, Potentially Ahead of TSMC - trendforce.com",
-      "summary": "trendforce.com reports that [News] Powertech Bets NT$70B on World's First Panel-Level AI Chip Packaging in 2027, Potentially Ahead of TSMC. Powertech Technology: advanced packaging expansion can reshape adjacent process demand and customer priority.",
-      "impact_score": 68,
-      "date": "2026-08-31",
-      "source": "trendforce.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONE1jbnMzbjRRUzg3QldoemZlQ2VRM1h3LXpCa2xvWU41bHZRQjVYUTFpWUhqbVZrNjJ4c0o1YUpsQU5mUXBXWVVjN2tOU0cyQjhfWU1fdkMySkswWlBmWEhwXzRDZzFRQjRQWVRpM1VHZFg2NUtmS3lDMUt0bGxPaHYwdzhzbUhpUHJpNV9teTlmQ1pCa2NJY0QxUGFCbjZ0Y25XQ21IaDNGYk1Cc2h5dXgxc3p3ZVk5MVAxS2tMWm9iLXBMenpWVTM1OVpibzVhdWFBS1dtV1RkZXVDT014bmlqTFppNm10RWFpQQ?oc=5"
-    },
-    {
       "customer": "GlobalFoundries",
       "topic": "Fab announcements",
       "title": "Globalfoundries breaks ground on new fab in Singapore - Singapore Economic Development Board (EDB)",
@@ -431,11 +421,11 @@
     {
       "customer": "Arista Networks",
       "topic": "ASIC and custom silicon",
-      "title": "Why Broadcom should buy Arista (and why it won't) - SDxCentral",
-      "summary": "SDxCentral reports that Why Broadcom should buy Arista (and why it won't). Arista Networks: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull.",
+      "title": "Why Broadcom should buy Arista (and why it won't) - sdxcentral.com",
+      "summary": "sdxcentral.com reports that Why Broadcom should buy Arista (and why it won't). Arista Networks: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull.",
       "impact_score": 64,
       "date": "2026-09-02",
-      "source": "SDxCentral",
+      "source": "sdxcentral.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2dJN3oyQ3NpQ0k5bVVNaUpnN3FpUWxrb05OdW9xQWVFNHNrOFJlTHJfbUxXbXlOSnVnWF9XcmRsZWNmd05PNTlXTjJRZUJVenRaMkhROFBWT0xLV2JxaXdJeXVzVGUyaFRtV2hpbTVMTzBJVUZpYU5HdldIVjMtZ01PNXh3S2NBOWpaSmYxQUpDZw?oc=5"
     },
     {

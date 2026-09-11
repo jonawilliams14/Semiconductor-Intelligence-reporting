@@ -1,28 +1,18 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-09-10T16:58:32.872674+00:00
+Generated: 2026-09-11T17:00:45.317692+00:00
 
 Tracked entities: 53
 
 ## What matters to conductor etch this week
 
-- **Intel 14A Defect Drop Rivals 22nm Era: Customers Now Asking for Capacity, Not Data - Tech Times** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **2nm Process Comparison Webinar: Intel 18A vs Samsung SF2 - TechInsights** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting Foundry's Future On TSMC Fight - Wccftech** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **UMC announces new 22nm wafer fab in Singapore - Singapore Economic Development Board (EDB)** - UMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **TSMC to Keep Microbump for HBM Packaging for Now, Tasks Suppliers with 5μm Challenge - finance.biggo.com** - TSMC: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.
+- **"Nvidia Is Hamstrung Too": Packaging Emerges as AI Chips' New Bottleneck, Intensifying Global Capex Race - economy.ac** - NVIDIA: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
 
 ## Ranked signals
-
-### 99 - Intel Foundry - EUV roadmap
-
-[Intel 14A Defect Drop Rivals 22nm Era: Customers Now Asking for Capacity, Not Data - Tech Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWklNMDB2YW9zeWhHTEI1cHoyTGp2ekpXWVRiYkY2QjV3djhLZjdaYUhaTDEzdVp0dGxjNG81bVRpT3pRVEdtaDYyMHF4amtWTjdsdDgtcDd3NnRCMGZ6UGhIMGs2T1BIVk9kZ0txVW1uVFlKbHJINWZaTnhmd0l4Rm1lOGFxUFhpSnh6ZktON2NVLS1XZjZpNGItd2gzOU5od2N1RzRpMHJhRlJhZXBlc1NZM1NyeEhVVnBxclh5NlN0VDBod0JPamwzMA?oc=5)
-
-Tech Times reports that Intel 14A Defect Drop Rivals 22nm Era: Customers Now Asking for
-Capacity, Not Data. Intel Foundry: roadmap progress points to leading-edge process complexity
-where conductor etch timing matters.
-
-Source: Tech Times | Date: 2026-08-28
 
 ### 94 - Samsung Foundry - Foundry customer wins
 
@@ -34,9 +24,19 @@ matters.
 
 Source: TechInsights | Date: 2026-09-03
 
+### 94 - Intel Foundry - EUV roadmap
+
+[Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting Foundry's Future On TSMC Fight - Wccftech](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOW54bTJCd19RZ3QwWGxOWWFuUU82S3lHTmpkMUNhSzhGVnVYT3pjajk5Ul90Vzk0S2RFY0JXdUgzcDNoNHVwNEE3ak5DOE1IbUxOYlo3SEZMTDdWMzFRLXJhUHFkZENuZUJDSnpxdTlUVE5iVmEtNzJ1c1VJZVIybnNCVERKeUg0d0lxdUkxWnpta0hnUVM5OHVtampsZ3lxVDJPLVFTZDd1NnZ5NUZneUIzNmFlUElmaXhjRDN1Z1jSAcYBQVVfeXFMTmVsT2syTk84eTd5UXpTcHJNc3IxbnQ1MTEtWVpzQ1VIcGpfdnBPaTdrOXQ2MUNPeElQdkxDaE04OTRNb3FwSExrODNYbjRKZ0doYjdub0N6QWVlTXcwMDc2dDdFWHFyVW03dEgyVGFwSEFSMFk3THkwYUtUd3FXVXltUWFVLVg2d0JRWE45V01qc2cyTlBNcU5sakc5OEhRZEZseG4yeGhGdEw1R1JXeGRQWVJwaV9fU1c1TlhPZkd1YkZUMHd3?oc=5)
+
+Wccftech reports that Intel's David Zinsner Says 14A Improving Fastest Since 2012 Node, Betting
+Foundry's Future On TSMC Fight. Intel Foundry: roadmap progress points to leading-edge process
+complexity where conductor etch timing matters.
+
+Source: Wccftech | Date: 2026-09-01
+
 ### 91 - UMC - CapEx changes
 
-[UMC announces new 22nm wafer fab in Singapore - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYk1veTJKelFlb3RNMUNPS0VoVUJQcWFXTXNKU0haOHJLRmwtWUpEQmhjU3VDLXJDMl82M1ljbzFyNWhkbDlsNndWOWRiT256UUpMT19VLUwyamdQeW90S3JiVEhQMGtRS1d4T2dOcmhmcWhzLVo5bGFfUjZ0Y3VOV1JuOEdIWVZ5dHA2LTQ0RVMxS1k?oc=5)
+[UMC announces new 22nm wafer fab in Singapore - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0dkR1BVd3NhUnBHN0pUOTVhNU1jcDhzNDQyTFNUY3pwdi05c2NZNkhrdFFwMUE1V09GZ0poVkdiSGEyZDVXZF8xN3FLdFBmMkIzN0RHZFFyOW8wcF9rczJyb2hyaTNoTUJySnJ4enpZblFRbHFTSGdkbWh6cm1aeWc1RlktSFNjYnpwTko4QQ?oc=5)
 
 Singapore Economic Development Board (EDB) reports that UMC announces new 22nm wafer fab in
 Singapore. UMC: roadmap progress points to leading-edge process complexity where conductor etch
@@ -52,6 +52,16 @@ Fortune reports that Intel (INTC) Q1 2026 Earnings Call Transcript. Intel Foundr
 progress points to leading-edge process complexity where conductor etch timing matters.
 
 Source: Fortune | Date: 2026-09-04
+
+### 82 - NVIDIA - AI accelerator demand
+
+["Nvidia Is Hamstrung Too": Packaging Emerges as AI Chips' New Bottleneck, Intensifying Global Capex Race - economy.ac](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGY3NZZm1keDlNaXB2dzlHTWdSR3UxSDBucktFOEhfcGpsNk9vRTdicDFkNlFMUGdsdklCeFNuUzNyczFadUZoR3lNaDVyZHAzQzNMVHlaQQ?oc=5)
+
+economy.ac reports that "Nvidia Is Hamstrung Too": Packaging Emerges as AI Chips' New
+Bottleneck, Intensifying Global Capex Race. NVIDIA: AI accelerator momentum is a leading
+indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+
+Source: economy.ac | Date: 2026-09-08
 
 ### 81 - TSMC - Advanced packaging
 
@@ -105,13 +115,13 @@ Source: Yahoo Finance | Date: 2026-09-03
 
 ### 73 - SK hynix - HBM demand
 
-[Upbeat AI Data Centers Demand Propels SK Hynix: More Growth Ahead? - tradingview.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGpWQVB4Y2oxOGJzalhFTmUtaGVHYk9JR3FYaWxtaE9fUlpnVERfWVdHcERvTkVJY3BRaUdfM0dOMEZSSkNydVVPTFJoSUl3d2ZIY0lpM2Q0ZFNGeFVKNnhNUnFlWWNpVWFfdlJJWllOVmExYlA0Rlo1SGFYYW1tZnNBV3h6NGVRckczak5pUV9pUzI3ZU9WMU1tZUJra2ZPcHV0d0JLSkZoeGNBTFdfZlhveG0zZUxUNEp2VQ?oc=5)
+[Beyond HBM: Samsung, SK hynix target AI data center storage - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zTkt6SS0za2hDdWd3aThtVUVTM2RyT0FIa0YydGlEUXNpWXIweVNlNHFtTXV0VDVwUkMwbkU2V2E4dDJuempkNEd4NDVnTU1reFBiSmYxZw?oc=5)
 
-tradingview.com reports that Upbeat AI Data Centers Demand Propels SK Hynix: More Growth Ahead?.
-SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting
+The Korea Herald reports that Beyond HBM: Samsung, SK hynix target AI data center storage. SK
+hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting
 conductor etch relevance.
 
-Source: tradingview.com | Date: 2026-09-03
+Source: The Korea Herald | Date: 2026-09-02
 
 ### 73 - Kioxia - NAND / DRAM pricing
 
@@ -142,16 +152,6 @@ Maia: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints a
 intensive foundry demand.
 
 Source: shattered.io | Date: 2026-09-03
-
-### 70 - Micron Technology - Fab announcements
-
-[Micron Technology (MU) Q3 2026 Earnings Call Transcript - Fortune](https://news.google.com/rss/articles/CBMicEFVX3lxTE9wQ1l4Rl9ucHRIMUR5LUZiM19CU2RlLTJQNUhiUktFa3VraWpQZ01aMTAyZHNabG93SU13ZVEwTWNIY2hpdnZJSVk3RUNZSkkzLTdGM1VyUXJ0eFJ2aXdvR2FWWC1acGtUdFlmVnViVWc?oc=5)
-
-Fortune reports that Micron Technology (MU) Q3 2026 Earnings Call Transcript. Micron Technology:
-EDA/IP activity is an upstream signal for design starts that can become future foundry and etch
-demand.
-
-Source: Fortune | Date: 2026-09-03
 
 ### 70 - SK hynix - CapEx changes
 
@@ -243,16 +243,6 @@ CoWoS/HBM constraints and etch-intensive foundry demand.
 
 Source: Benzinga España | Date: 2026-09-06
 
-### 68 - Powertech Technology - OSAT / packaging capacity
-
-[[News] Powertech Bets NT$70B on World's First Panel-Level AI Chip Packaging in 2027, Potentially Ahead of TSMC - trendforce.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxONE1jbnMzbjRRUzg3QldoemZlQ2VRM1h3LXpCa2xvWU41bHZRQjVYUTFpWUhqbVZrNjJ4c0o1YUpsQU5mUXBXWVVjN2tOU0cyQjhfWU1fdkMySkswWlBmWEhwXzRDZzFRQjRQWVRpM1VHZFg2NUtmS3lDMUt0bGxPaHYwdzhzbUhpUHJpNV9teTlmQ1pCa2NJY0QxUGFCbjZ0Y25XQ21IaDNGYk1Cc2h5dXgxc3p3ZVk5MVAxS2tMWm9iLXBMenpWVTM1OVpibzVhdWFBS1dtV1RkZXVDT014bmlqTFppNm10RWFpQQ?oc=5)
-
-trendforce.com reports that [News] Powertech Bets NT$70B on World's First Panel-Level AI Chip
-Packaging in 2027, Potentially Ahead of TSMC. Powertech Technology: advanced packaging expansion
-can reshape adjacent process demand and customer priority.
-
-Source: trendforce.com | Date: 2026-08-31
-
 ### 66 - GlobalFoundries - Fab announcements
 
 [Globalfoundries breaks ground on new fab in Singapore - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkdYTDZSTGpxeDhmRTNWVVg1eEs0X01aSi1yUWwyZFZaU0ZHOXhVZDFMMkFjcnBMWEE3Uno0eWhCYTJPc2czUXdLdV9udy1WeVM5YVNkVVBpME9ZYUdzRTdXM2JUYkdNYUhJLV9vQ2FJRXA2enNLXzRFdV82ZmFFQktOSnlCZmVpbVlPZnM0RVMwS1JuSzY2dW53?oc=5)
@@ -284,13 +274,13 @@ Source: Samsung Semiconductor | Date: 2026-09-10
 
 ### 64 - Arista Networks - ASIC and custom silicon
 
-[Why Broadcom should buy Arista (and why it won't) - SDxCentral](https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2dJN3oyQ3NpQ0k5bVVNaUpnN3FpUWxrb05OdW9xQWVFNHNrOFJlTHJfbUxXbXlOSnVnWF9XcmRsZWNmd05PNTlXTjJRZUJVenRaMkhROFBWT0xLV2JxaXdJeXVzVGUyaFRtV2hpbTVMTzBJVUZpYU5HdldIVjMtZ01PNXh3S2NBOWpaSmYxQUpDZw?oc=5)
+[Why Broadcom should buy Arista (and why it won't) - sdxcentral.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2dJN3oyQ3NpQ0k5bVVNaUpnN3FpUWxrb05OdW9xQWVFNHNrOFJlTHJfbUxXbXlOSnVnWF9XcmRsZWNmd05PNTlXTjJRZUJVenRaMkhROFBWT0xLV2JxaXdJeXVzVGUyaFRtV2hpbTVMTzBJVUZpYU5HdldIVjMtZ01PNXh3S2NBOWpaSmYxQUpDZw?oc=5)
 
-SDxCentral reports that Why Broadcom should buy Arista (and why it won't). Arista Networks:
+sdxcentral.com reports that Why Broadcom should buy Arista (and why it won't). Arista Networks:
 custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node
 etch pull.
 
-Source: SDxCentral | Date: 2026-09-02
+Source: sdxcentral.com | Date: 2026-09-02
 
 ### 58 - NVIDIA - GPU / CPU roadmaps
 
