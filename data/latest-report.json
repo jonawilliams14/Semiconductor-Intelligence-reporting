@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:50:17.393817+00:00",
+  "generated_at": "2026-09-24T17:50:52.530113+00:00",
   "customers": [
     "TSMC",
     "Samsung Foundry",
@@ -149,11 +149,11 @@
       "implication": "MediaTek: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull."
     },
     {
-      "headline": "MediaTek to Unveil Dimensity 9600 Series on September 15 - First 2nm Chip Takes Aim at Premium Market - finance.biggo.com",
-      "implication": "MediaTek: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull."
+      "headline": "Intel vs. TSMC: One Chip Stock Controls 72.5% of the Foundry Market. The Other Is Mounting a Comeback. - Barchart.com",
+      "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
     },
     {
-      "headline": "Intel vs. TSMC: One Chip Stock Controls 72.5% of the Foundry Market. The Other Is Mounting a Comeback. - Barchart.com",
+      "headline": "Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune",
       "implication": "Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
     }
   ],
@@ -189,16 +189,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JVkpuam1TVWZlWXRQMXhSQ2hpRVFFcl9wUFJXemd3aDlkU2NKMHMxb1lYOGpvdkFLNnEtZnRhVG9hclgteTdxZnFpMEZOZ1o2R2pQTGo3Y2JIT2s1QUpfMVNUV25tRWdZd25tSmtha2dndjQtZ1NJd3UwWkY?oc=5"
     },
     {
-      "customer": "MediaTek",
-      "topic": "ASIC and custom silicon",
-      "title": "MediaTek to Unveil Dimensity 9600 Series on September 15 - First 2nm Chip Takes Aim at Premium Market - finance.biggo.com",
-      "summary": "finance.biggo.com reports that MediaTek to Unveil Dimensity 9600 Series on September 15 - First 2nm Chip Takes Aim at Premium Market. MediaTek: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull.",
-      "impact_score": 84,
-      "date": "2026-09-10",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5MHVmYndvN09OSS1ab1l4anMwTW5JeFlGNlV6bGxMY2QwenFTN0pBQXZNVWVKN2NOT21mQ3FyVHJoOW5FQW9EM29jcndROGlvRGZ0TFd3cXVFVFVGcWtPMmlOdXVvWkg4dWpVcUdXbDZKZEZUbUE?oc=5"
-    },
-    {
       "customer": "Intel Foundry",
       "topic": "EUV roadmap",
       "title": "Intel vs. TSMC: One Chip Stock Controls 72.5% of the Foundry Market. The Other Is Mounting a Comeback. - Barchart.com",
@@ -206,7 +196,7 @@
       "impact_score": 83,
       "date": "2026-09-22",
       "source": "Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMFR4LUxRdXNKcFItODB2b1c0eTZhQXlEWGl4N2lfRmpKYkpBVkN3aGQyZDNqbHRaNkZFT3B3U0w2QzJpSV83Q0JnTENObVlBRmxIYVZrZnhYTVl0NkY3OEEzVWJsRHFSV3pyck1BS3lVMi0zc1kyakstSDQzN1M1ZFQ1cWRZcnZwQTZGRmNfRk5HT3BKbGNtbXRkTk9ROG1Wc0o2MTJFTUQwc2gxRGVwU3RocDhYVVk4N0FZNmtTOWx5UDdZdDVrVl9BME9rWE1jSFZ4eTlEYVA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM0dlcWxlc0ZoeFdRVkJVS2I1R2tYSDdDb1U2ekp5Q2FEWnR1Ry16YmRoVHhCdmhmcHkzemhOWk53VnNEV3A0SkZjTU9hM2YxU2E4ZldudXBBWHRmNDdHcmNVUlRWcEh0cjNiZ0d1TG9jYmI5WlhnNHRQMlZrRGlCUnVtSGZHcC1pZWdjRm5Xc2FuM20tVHc1Vnlfa251dVBMd2ZJRURqdTREQVhDci1wSXRNMXoxNjJsZXdWZ1ZZS1VmRHhLSFFyS1MxTmw1QUc0QmF2RXdoYmE?oc=5"
     },
     {
       "customer": "Intel Foundry",
@@ -217,16 +207,6 @@
       "date": "2026-09-19",
       "source": "Fortune",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDZ1UVdPM3d1SGlxcHl2MWUzU2pDc0hyRHdmeFpTOEF3SkZsaUpteEszQkxjUlQ2QnFJaDJSUXBUWWZuQl9FRVNmVDZDOWJiSVhWU1EwSHBWMmdxVGRrUA?oc=5"
-    },
-    {
-      "customer": "Samsung Foundry",
-      "topic": "Foundry customer wins",
-      "title": "Samsung's 2nm Yield Tops 50%, Restarts Qualcomm Talks; Snapdragon Summit May Decide Foundry Assignment - finance.biggo.com",
-      "summary": "finance.biggo.com reports that Samsung's 2nm Yield Tops 50%, Restarts Qualcomm Talks; Snapdragon Summit May Decide Foundry Assignment. Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 79,
-      "date": "2026-09-14",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vekxqRDI2MUN5UUZiczRELVBka21rRUdOanU2RHg4OEt3czJfZ3NkaWs1VXYxbjQwNkZVZGRIM2FXV3V4RUktNzRSb2lKQ0htR25qdmRSX0lNV05JNVBXLXE0TnMxSllEckRYeGgxTGlEbnRaT3c?oc=5"
     },
     {
       "customer": "Intel Foundry",
@@ -257,16 +237,6 @@
       "date": "2026-09-22",
       "source": "semivision",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0xxaG9OQ2t4MGxEcVh0b0hPWWNEM3BEU0lUU1BOQmF1UkdkN1Z3djF2bm9aSjNfMWt0RmlmdWxoN08yX3ZRdkdVOVltU3c4VFhZYUwwelJuNTVUaTVaenltcnhOLWtOVzlpc2lQcEVLS01aMm1uMWdwMk8wS3lMeTQ4djY?oc=5"
-    },
-    {
-      "customer": "Kioxia",
-      "topic": "NAND / DRAM pricing",
-      "title": "Kioxia dismisses SK Hynix tie-up and vows to ease chip price rises - The Japan Times",
-      "summary": "The Japan Times reports that Kioxia dismisses SK Hynix tie-up and vows to ease chip price rises. Kioxia: memory price and utilization momentum help estimate when deferred etch demand may return.",
-      "impact_score": 77,
-      "date": "2026-09-10",
-      "source": "The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPejd2bkRVakoxMThsSVZ0b3J6MlpKY0ZIbGpVU2FWMzV5RzJ4d0NTLU5UczJwYkN1ME1zZFhYUkN0LW5qTXpOT3pyQ29NLXpvNktHYk9EdW1LOVNCSEFmZl9OLUlDU05SZVB5cUxxcE5RSUlvYzJpLXRraDBKN0NDSmpnT1V1azV4SENMZnZZakpmMV9r?oc=5"
     },
     {
       "customer": "NVIDIA",
@@ -339,34 +309,14 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pTUs0cjNJR3N1ek1MUHdKX1B5ODBEeUpIWnRIc2dWbW5KVE1kUUhYRTRnS2JfNHM3dGJhMURUNFlRbHpOSmdPMjMzbkVlMkcwZTJrRWRMSUxZMzlIVHE2WEVtd1hJMlpIODJ4aWUyNFRIZWt1ckE?oc=5"
     },
     {
-      "customer": "Meta MTIA",
-      "topic": "AI accelerator demand",
-      "title": "[News] Meta Targets 1H27 Deployment for New TSMC-Made AI Chip, Claims Efficiency Edge Over NVIDIA - TrendForce",
-      "summary": "TrendForce reports that [News] Meta Targets 1H27 Deployment for New TSMC-Made AI Chip, Claims Efficiency Edge Over NVIDIA. Meta MTIA: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
-      "impact_score": 72,
-      "date": "2026-09-16",
-      "source": "TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWRZYjJaSmpWLTFva3ZLcV9LMTB0TzlGUU9nMFdwczd4YS1RQktBMzJEOEdSV29uX0wxNVZlNnhaaklkZXVaVTNwV3VVTjV4ZVplaVVNZHlvYnRXSGNHODVyempkeWF0Z3AwWHpTUU5mTDcxUmRNNkZIUk5MdWVGNlZCX0lsSldEVDU5ZGVteWgwMk9ZLUcwaWFRNGFHamhGekdfMmg0ZXJaNUZWRjdPdU9FU1l0RkhsbFEyeklzSV9rSEJuZ1g4Vk4wWlppbmVvSVdUeQ?oc=5"
-    },
-    {
-      "customer": "Cerebras",
-      "topic": "AI accelerator demand",
-      "title": "Andrew Feldman on Building Cerebras and the Future of Chips | Ep. 57\uff5cUncapped with Jack Altman - finance.biggo.com",
-      "summary": "finance.biggo.com reports that Andrew Feldman on Building Cerebras and the Future of Chips | Ep. 57\uff5cUncapped with Jack Altman. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
-      "impact_score": 72,
-      "date": "2026-09-15",
-      "source": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Xb3ZvSjhkMXJVVUlSb1hnbWNxX2x3QVRpQXRzb2xMS252NllEUWZsM0JVNEpOVE8zRVBwb2ZPRlRhS0p5bWFuN2pYU1BkRlk4QWdOTER3VWF1TkRzUmtF?oc=5"
-    },
-    {
       "customer": "Texas Instruments",
       "topic": "Fab announcements",
-      "title": "Texas Instruments vs. Cerebras Systems: Which Chip Stock Has the Edge? - The Globe and Mail",
-      "summary": "The Globe and Mail reports that Texas Instruments vs. Cerebras Systems: Which Chip Stock Has the Edge?. Texas Instruments: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
+      "title": "Texas Instruments vs. Cerebras Systems: Which Chip Stock Has the Edge? - TradingView",
+      "summary": "TradingView reports that Texas Instruments vs. Cerebras Systems: Which Chip Stock Has the Edge?. Texas Instruments: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
       "impact_score": 70,
       "date": "2026-09-22",
-      "source": "The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbF9qUkRQWUI0eV9WcFA0dFc1Z2l5VHdHcjAtN0MwODM5OHAzUUFJd0RiVWxxLTdGMldFbDhvLTZ1dEV1bm1mLUNmM0xFbjdma21QekQwdVZlQmJnbHAwSGNTVWJOWFFWTXFGcGxqXzd2Q2ZLZ0JRWVZRLXN3SV9kbjdkQnc5V2RBQXNvcDhZOTl4azV2X2JISnVGS2g5dXNmWXNwNUFmNE5NZWNXWENHRloxcTZxd0d0aDBlQnFDVjlCRzZVQXRtSVl4Zm80b3NjckJjakRTSTFRaV9zbmtKWHB2X05heDA?oc=5"
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUUzcjdDMl8zaHBXd2VpOTB4VkpXOWNwcGJJVVQwbnRua1Y0QjJyYWhwbkd1Y0lRcHB0TzFtU09fcm9WZmZfTmV4clhfX1FLTTgxTFA5SUJnYXk5ZVhrSkhoVkw2TkY5SWlEcDVCVmNVVnF0VUVYaU9ESlpqVFZqU0dmbFdTUVF2dEdvNTJDOGlLUDFfT3FkTXRydllFbWN0dUU1Q0x5T1BUTnZPNk05TlNoMWNqb3FYZFljRXFnYTk?oc=5"
     },
     {
       "customer": "MediaTek",
@@ -421,21 +371,21 @@
     {
       "customer": "UMC",
       "topic": "CapEx changes",
-      "title": "United Microelectronics Corp Stock (UMC) Moved Up by 5.46% on Sep 16: What Investors Need To Know - tradingkey.com",
-      "summary": "tradingkey.com reports that United Microelectronics Corp Stock (UMC) Moved Up by 5.46% on Sep 16: What Investors Need To Know. UMC: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
+      "title": "United Microelectronics Corp Stock (UMC) Moved Up by 5.46% on Sep 16: What Investors Need To Know - TradingKey",
+      "summary": "TradingKey reports that United Microelectronics Corp Stock (UMC) Moved Up by 5.46% on Sep 16: What Investors Need To Know. UMC: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
       "impact_score": 66,
       "date": "2026-09-16",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2RlbDBjYXNjWVFfY1JyWnZoU2wwSDdnbDZ0eTBwbEhKd0hCcVVEcnlpV1NwTlo3LXNXdWo1b0dPSUdaazgwZDA4bklTdEpaM0tSeXN2aGg5ZHFfZ2FIRFRmbG80aFdnMlRuLVhvalpHMnNoR2hWelR1X3MzSTFjOVJpNWdIZnVFdHc?oc=5"
     },
     {
       "customer": "UMC",
       "topic": "CapEx changes",
-      "title": "United Microelectronics Corp Stock (UMC) Moved Up by 8.83% on Sep 17: Drivers Behind the Movement - tradingkey.com",
-      "summary": "tradingkey.com reports that United Microelectronics Corp Stock (UMC) Moved Up by 8.83% on Sep 17: Drivers Behind the Movement. UMC: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
+      "title": "United Microelectronics Corp Stock (UMC) Moved Up by 8.83% on Sep 17: Drivers Behind the Movement - TradingKey",
+      "summary": "TradingKey reports that United Microelectronics Corp Stock (UMC) Moved Up by 8.83% on Sep 17: Drivers Behind the Movement. UMC: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
       "impact_score": 66,
       "date": "2026-09-17",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVF9LNnFWNkRpTUpFdVRqbWlUNnpGcWNOLS1iUllkcS1ULUpvdm5SMmE5MGhENG4tYXY4NkRwVXBoVEhaNm1hTk9Qc0tRZVFNUGl4Nk9LajhpVFBVMXZCNm1zc0xwZWROcUlQa2trTEk1QURCUENVV05aZUQzODlUZFBsNFJETWM2TXc?oc=5"
     },
     {
@@ -484,7 +434,7 @@
       "title": "Samsung stock is ignoring a $16.5 billion Tesla catalyst: should investors worry - TradingView",
       "summary": "TradingView reports that Samsung stock is ignoring a $16.5 billion Tesla catalyst: should investors worry. Samsung Foundry: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
       "impact_score": 63,
-      "date": "2026-09-16",
+      "date": "2026-09-15",
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZmYwUklPTHdFZ1lmZWcxYWJfN0VVdTREaFhmYmptbUktXzJYWkRmbnRxMXJMYnhZWlhmZno2cUpzRUg3emVZaDNUNElsVHpiek52SHRWTG51bzBFbGRobkhZdTFvaW1DRWprUUI3cVhtZW9uWXZYRVhqclJRZ1FueVJjRjhGQWRTVVVUTFhuZzMxREZfUnViT3lnQ2lsUUxOazgyeHlCbVRwWTNNLWxYQjNMNWNoVnZfY20yMTVwWDR5cFRSTXhqeExqbWFPUFQz?oc=5"
     },
@@ -499,13 +449,33 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UYlQtNjVDT09maWxpR0pGbEU0MGxYaDdad1VzYnp6cXBTcjc4RlY0TXJ0SVVvb0NTU19DdkVCbFFOVjk1MUNmdUg4UjhEdw?oc=5"
     },
     {
+      "customer": "Synopsys",
+      "topic": "EDA / IP design starts",
+      "title": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design - Synopsys",
+      "summary": "Synopsys reports that Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design. Synopsys: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
+      "impact_score": 58,
+      "date": "2026-09-23",
+      "source": "Synopsys",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmd5OEFxWGtDdGFnSTFvWFo5UnNPaVlpSURPM2Z5b3phckoyUGtTeExVVTgtWW5rZ1RibXRfWk83Q2FXZlN1NzRiZGZINGNGbTlBS2dvV2VwQXpKR1RVNENLRmtxc2dmWHJSX1N1blUtVjRTczF0QWRjT3RfWmQzLU8taldoN09Xejdmb2JSZ3VIVUQwUnNnekFoUmdHUThFOWVYc3A1bkQwZ1RCSTlWMFZkVC1NN29aTGNtRi11RFJUMDBzTHV5bzZDM2xqcE0?oc=5"
+    },
+    {
+      "customer": "Cadence",
+      "topic": "EDA / IP design starts",
+      "title": "Cadence Collaborates With TSMC to Deliver Certified Tool Solutions and Industry-Leading, Silicon-Proven UALink IP on TSMC Advanced Processes - Yahoo Finance",
+      "summary": "Yahoo Finance reports that Cadence Collaborates With TSMC to Deliver Certified Tool Solutions and Industry-Leading, Silicon-Proven UALink IP on TSMC Advanced Processes. Cadence: EDA/IP activity is an upstream signal for design starts that can become future foundry and etch demand.",
+      "impact_score": 58,
+      "date": "2026-09-23",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGdjc2lCMlNMRy1KOG9pSHVkelcxZEtEN3JXN1FreENPUkVkSHFTX3RtSXBSUEh4aTV3OEJvcFdORWZWTWFGY3NvbENoTFdIeWhHVDFXRXY0VEZDcFhQeWpid1VqT3dNSmNRc2t5SkVmc3ZneGljQ1lSSVFVMHBDaVZtZW1EZUJEcUw4a1hSYWtTNV9wZnIxVENRS2lOcHgyNXpqVEZESzFhOE0?oc=5"
+    },
+    {
       "customer": "STMicroelectronics",
       "topic": "Automotive and edge silicon",
-      "title": "STMicroelectronics Sees AI Data-Center Revenue Surging Past $2 Billion in 2027 - marketbeat.com",
-      "summary": "marketbeat.com reports that STMicroelectronics Sees AI Data-Center Revenue Surging Past $2 Billion in 2027. STMicroelectronics: automotive and power-semiconductor demand can influence specialty fab loading and mature-node etch utilization.",
+      "title": "STMicroelectronics Sees AI Data-Center Revenue Surging Past $2 Billion in 2027 - MarketBeat",
+      "summary": "MarketBeat reports that STMicroelectronics Sees AI Data-Center Revenue Surging Past $2 Billion in 2027. STMicroelectronics: automotive and power-semiconductor demand can influence specialty fab loading and mature-node etch utilization.",
       "impact_score": 55,
       "date": "2026-09-13",
-      "source": "marketbeat.com",
+      "source": "MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZTRQbWpjdmU0eFVRQU5DSU5Gb0pJZnNIUVR6NWdTSGtCUFZKR0JSUEVmN05ZVG1tZGdWeWNYVmZKN3MzdTZia21FNUNWMzlTa21xa3EzSmZUUmRrUUk3ZkNINl9WTGZvY2dkeEhkeEVtd184dUhINnJOaGMzSEoycUg0ZGZMX1FTMlphdjVZc0E1aHE3NXR6Q0Z2Z3VuUlA2NDRsZktFajJWc0pwU2E1YXVfTkdmMUd0TzZWMHZyaVlSZm5iVkNhSHpKdnAyZTlYNlBR?oc=5"
     },
     {
