@@ -1,18 +1,38 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-10-13T19:50:42.074198+00:00
+Generated: 2026-10-14T17:58:31.056887+00:00
 
 Tracked entities: 53
 
 ## What matters to conductor etch this week
 
+- **Analyzing Intel's EMIB and Foveros advanced packaging roadmaps - how Intel plans to scale chips in every direction - Tom's Hardware** - Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.
+- **Microsoft Maia 300 Puts 288GB of HBM4 at 18TB/s on an N2P Chiplet and 96 Accelerators in a 167kW Rack - StorageReview.com** - Microsoft Maia: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
 - **TSMC Stock Forecast: Texas Expansion and 2nm Ramp Put Record AI Demand in Focus - TradingKey** - TSMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **NVIDIA May Use Intel's Foveros for Chip Packaging From Late 2028, Analyst Says - XenoSpectrum** - Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.
 - **Intel Stock Price Forecast - INTC ($109.51) Falls 3.19% on Terafab-TSMC Doubt - $102.86 Support, $118 Target - TradingNEWS** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **[News] AI Chip Memory Strategies Diverge: Microsoft's Maia 300 Fuels HBM4 Demand as Intel Bets on LPDDR5X - TrendForce** - Microsoft Maia: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
-- **Samsung Foundry 2nm Yield Hits 60%; Chips Still Drain More Power Than Snapdragon - Tech Times** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 
 ## Ranked signals
+
+### 99 - Intel Foundry - Advanced packaging
+
+[Analyzing Intel's EMIB and Foveros advanced packaging roadmaps - how Intel plans to scale chips in every direction - Tom's Hardware](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzJXNjR0RzRNOUpvbWhocUpxbHlXRTZpSi0zbDZCUjQ3V2hSN2lOWUN1Z3NDNnZuTUswM0xoTmRJYkVXZkZoZ05mTGpLU2Y4NklJck1GeWE5LTJIU2d4aXZ5YTRXSGlSLW1LYjlGNVczN18weXE5ZWFlZHhDNjZmOUltSmRCUGhfZl9ENnhsMkxpeU5ucXpMSm9TRFZrVnZHZGtZOEQ4M01mNjJRUkg1ZWlaYTlBN0IyWUZIaEgyYlhTbGZFTU9JcDY4b1pneWlIaHZLWTllU2RpSXlGYzI5d3pSRWdiVjl3Rkd3d2ZYRDFvdEtsdWpQbHlpT2VTdw?oc=5)
+
+Tom's Hardware reports that Analyzing Intel's EMIB and Foveros advanced packaging roadmaps - how
+Intel plans to scale chips in every direction. Intel Foundry: advanced packaging expansion can
+reshape adjacent process demand and customer priority.
+
+Source: Tom's Hardware | Date: 2026-10-14
+
+### 95 - Microsoft Maia - AI accelerator demand
+
+[Microsoft Maia 300 Puts 288GB of HBM4 at 18TB/s on an N2P Chiplet and 96 Accelerators in a 167kW Rack - StorageReview.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ29nNGxFNmVwUXdzRk9tQkxlLU1JYkxaRmlYV0pTaHFCQWp3YUJnS0dUZGYydHdzcVhFbUhzZXVVc08yZnVnUUVwVjVhMlYxT3pCWGtHOW5QcC1TbWFVTl9pc29hRWVXYUxsMHVFYUdIZXFyNHBzdFpsUlZmSFpLT1Y3MnFqT2J3dU9PYTBuOXc3VDdB0gGaAUFVX3lxTFBwR0pmdjBMdlZWYWd6WHBadmFGWC1tYXlPYlZ6MWJvcE53emdxakg1QmE2QVgzamhrSnhGd0hFNWJsd2p2YXVlWUdMcGtaQjlwVUNrTXZvUXlVR3A4b1Q5MjAtQnBnVUZyLTRvR3pCYmFEbDczY1RKcTkzZnhsZFRWWlBLcWRfYjg2WXpBTVVzQURvbXVwcTByWkE?oc=5)
+
+StorageReview.com reports that Microsoft Maia 300 Puts 288GB of HBM4 at 18TB/s on an N2P Chiplet
+and 96 Accelerators in a 167kW Rack. Microsoft Maia: AI accelerator momentum is a leading
+indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+
+Source: StorageReview.com | Date: 2026-10-12
 
 ### 91 - TSMC - Fab announcements
 
@@ -54,16 +74,6 @@ indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
 
 Source: TrendForce | Date: 2026-10-13
 
-### 83 - Samsung Foundry - Foundry customer wins
-
-[Samsung Foundry 2nm Yield Hits 60%; Chips Still Drain More Power Than Snapdragon - Tech Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxQelZXT2hPWDhOY2MyOWhSby1aN0J2Yl83RmM0UFJxQVVnQXNyQjFHQnZMV0UtR3R0cXVQajVxMmFnbU9lcTA3OFlQWld6WFBWVV9rV1NUS080eVZQUW9SUEJlckNuOEZoNUxKN09hLW5IMW54TFhjU3J2Wkc2QlQ2OHBOUlg1T2hWXzhreE1PdUJkNHUxTzc4WVBZbWstOXlwWG1mUUx1MFVvZ1JvdXFSalRESkhkNUJHdzJmMElINWNBXzNsX1kw?oc=5)
-
-Tech Times reports that Samsung Foundry 2nm Yield Hits 60%; Chips Still Drain More Power Than
-Snapdragon. Samsung Foundry: roadmap progress points to leading-edge process complexity where
-conductor etch timing matters.
-
-Source: Tech Times | Date: 2026-09-30
-
 ### 83 - Intel Foundry - EUV roadmap
 
 [Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDZ1UVdPM3d1SGlxcHl2MWUzU2pDc0hyRHdmeFpTOEF3SkZsaUpteEszQkxjUlQ2QnFJaDJSUXBUWWZuQl9FRVNmVDZDOWJiSVhWU1EwSHBWMmdxVGRrUA?oc=5)
@@ -103,15 +113,15 @@ and tool pull-ins.
 
 Source: igor´sLAB | Date: 2026-10-10
 
-### 77 - SK hynix - HBM demand
+### 77 - Samsung Foundry - Foundry customer wins
 
-[How to Play SK Hynix Stock Amid a Potential $10B Solidigm IPO - TradingView](https://news.google.com/rss/articles/CBMitgFBVV95cUxNa20tYWZ2bV9zcU14S2NwalhRWVlNSDAxUzdtbUQxX2ltTnF2aV9LRGNQMjMxUGhvRlZCRGt3UkZ2dVh6T1dmQ0ZmYXluT0swM3BMdE4zMnI2TFRyQll1bWtKRkkwbm1LNGQxdWJxMGcwMnpnaEpYbUswOHFCSEZJcWFSdXhsOWxVUjFuYlhPNjhOZDZYaWw4MUxZTlBndDVSUGo3UUZUazdMX2VZd1dhSDIyb3JHUQ?oc=5)
+[Samsung Used HBM4 Memory Supply Monopoly to Force AMD Into Foundry Talks - Tech Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVhQRG42RnpNdkFiRExWekI4cDFfMEpyWkh0eWxzakNIUGtxcDdjUGxRbVFqYmFzSDRLRndfbG9OQnVheGhINXhMM1NTUThJbThJQnBWaU5sUVQxS2FVazZhZXRWa1JlQVMzUXYyUXRGM1gxSU1fUXk1TFRKYjdNMWgxb3JwSktlajdYWXNUREdOSUU1NDEyOS1waGhrbldRaC1uTjMyRHZXY0dDbDVqcWxkT1FYOEVaOEh3?oc=5)
 
-TradingView reports that How to Play SK Hynix Stock Amid a Potential $10B Solidigm IPO. SK
-hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting
-conductor etch relevance.
+Tech Times reports that Samsung Used HBM4 Memory Supply Monopoly to Force AMD Into Foundry
+Talks. Samsung Foundry: HBM demand can pull advanced DRAM capacity and packaging intensity
+forward, lifting conductor etch relevance.
 
-Source: TradingView | Date: 2026-10-12
+Source: Tech Times | Date: 2026-10-09
 
 ### 77 - Credo Technology - AI accelerator demand
 
@@ -174,6 +184,16 @@ return.
 
 Source: Business Wire | Date: 2026-10-09
 
+### 73 - Kioxia - NAND / DRAM pricing
+
+[Kioxia plunges 13%-how far will it fall? Memory stocks shaken by new tech from Chinese players; what's the focus going forward? - Moomoo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMktxbE16d2RpUUY5T1U2ZzZUT29SRVdlUnVURFhaeGxhU2hFd0FRZll1VXhCR1paek9CMlZ4ekk4MVBINHVDZVJSaHRuanBwaGZkRzI1N3JPcjdOd2ZCUlVmTGwzckRrWk1nZGJIaHplNnlTM1AzVFFXanNfeHFpd1JSRk90RlZxRk5yUGVrRkZvdms5WTQtWTJiRDQxTk5VdVd1bHFYVVZXSU1wM0E?oc=5)
+
+Moomoo reports that Kioxia plunges 13%-how far will it fall? Memory stocks shaken by new tech
+from Chinese players; what's the focus going forward?. Kioxia: memory price and utilization
+momentum help estimate when deferred etch demand may return.
+
+Source: Moomoo | Date: 2026-10-13
+
 ### 73 - Western Digital - NAND / DRAM pricing
 
 [Can Toshiba's Expansion Lower Hard Drive Prices, and What Does It Mean for Western Digital, Seagate and Kioxia? - TradingKey](https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ2FGZXJnUXJHcmQzS1BtR0dPd1ZBT1k2OTBZWkxQdmNFSnltclF0RGhFdXZ4QmZZMGptTkkzSmQ3M1ZWdi1nUTRYMVVwWWZOeS04WGZZaTN2NlVPWXZ2ZVBfZU0yQnVwekExZUxraTNmdzZiVmRqd2M0emJfalRONjNIcm9ST29nZlBiZkJsY0lTd0dpWjVqZ0U3a1FmX0FaVkJDWTVoN091NUp6dlJBakhzVHRsNmdIYURtdEg1RmV0bWtvVmxZRDQzSDI?oc=5)
@@ -196,13 +216,13 @@ Source: Startup Fortune | Date: 2026-10-04
 
 ### 72 - Cerebras - AI accelerator demand
 
-[Cerebras: Forgotten AI Chip Stock (NASDAQ:CBRS) - Seeking Alpha](https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbUt5eUJReVdpN09wTkpud2NJQXoybnFQN01rN1FhVHg2cDhJTHVkWkV3NW85bEdFSUVyQlhJRG9QdWhDbUVlLTd5UUxsUWhuSTVhS2N6dVR4bnhMY0dTVnl4aER5UUxhVXBucmRSejFRaTZFYzg4enN0emEtdw?oc=5)
+[Cerebras Stock Has Been a Bust Since Its IPO. That Could Be About to Change. - Barchart.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN01NVDlwUzVjR1ZvTTBXWk1xZ3ZRdzVxc3hNSS1uY1F0RzBZTlZoSTdVQ3ZtN3FtbTRVTGxRMGZTNk1fNktNVlA5RUQ4WGQ4SGFGdDliUlMtSXB1YjZZQ1lIYlR1OEtQdE85TkxLRVd4Tk1ISVF3cU9kYWkyZ1lObEg4Nm1aUUotZTZEYmlDSDRZRVVRWWRKQjNTbHY4Uk5tOHp3RUtwYkFtczR5UUdaNUhaQm90Yi02TUE?oc=5)
 
-Seeking Alpha reports that Cerebras: Forgotten AI Chip Stock (NASDAQ:CBRS). Cerebras: AI
-accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry
-demand.
+Barchart.com reports that Cerebras Stock Has Been a Bust Since Its IPO. That Could Be About to
+Change.. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and
+etch-intensive foundry demand.
 
-Source: Seeking Alpha | Date: 2026-09-30
+Source: Barchart.com | Date: 2026-10-08
 
 ### 72 - Cerebras - AI accelerator demand
 
@@ -213,16 +233,6 @@ AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etc
 foundry demand.
 
 Source: Longbridge | Date: 2026-10-09
-
-### 68 - Broadcom - ASIC and custom silicon
-
-[AI Custom Chip Stocks Roundup: Beyond Broadcom, Which Deserves More Attention Among Marvell Technology, TSMC, and Amkor? - TradingKey](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHAzazlpbUdCc21oSjFIN1lFUHoxcW5xbm5oSEdkRm5kbDE1OEtIbWxtNzAzQ0FYUjctS3FNNUNOUGlIN2NOMUZ5WWxvWnlCTXlhakFFTHZpbEdsNGtkTFRUWWpwZFFsMWE2V1k3Y1F5N3BtMUx5ZUdYTWNrSU0takxxU3UzWXZ4bEg3bDIwSEVXN05tX3FnWXVKUDhvb1FJSWxhSWs4b1Y?oc=5)
-
-TradingKey reports that AI Custom Chip Stocks Roundup: Beyond Broadcom, Which Deserves More
-Attention Among Marvell Technology, TSMC, and Amkor?. Broadcom: custom silicon demand can
-translate into foundry starts, packaging capacity, and advanced-node etch pull.
-
-Source: TradingKey | Date: 2026-10-05
 
 ### 68 - Marvell - ASIC and custom silicon
 
@@ -243,16 +253,6 @@ of Custom Chip Demand. Marvell: custom silicon demand can translate into foundry
 packaging capacity, and advanced-node etch pull.
 
 Source: BigGo Finance | Date: 2026-10-06
-
-### 68 - Microsoft Maia - AI accelerator demand
-
-[Microsoft Presses Forward Maia Custom AI Silicon - Redmondmag.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnRoN3JOSzhReXN2WklYV045dDQxM1JONTJOWXhRR3JVYjEyV3B6ZDZNQ2o5eUxFRzQ0RWhmbWt5Sl9SaTBRbEtaUUozNHBoMFBwaTZZd1lKYVVvRTNnTEVHUVh4eWVPeGNsN2RhYVBXbDkydVVUbFFlYUd2RHF3b2FYbTV5aGVYY2h0ODQwbGIzS2Q2ejQzSTg0dy1TN1VEX2Y2OUhB?oc=5)
-
-Redmondmag.com reports that Microsoft Presses Forward Maia Custom AI Silicon. Microsoft Maia: AI
-accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry
-demand.
-
-Source: Redmondmag.com | Date: 2026-09-30
 
 ### 68 - Microsoft Maia - AI accelerator demand
 
@@ -304,6 +304,16 @@ capacity signals should be checked for ramp timing, layer complexity, and tool p
 
 Source: Evertiq | Date: 2026-10-12
 
+### 66 - Tower Semiconductor - Fab announcements
+
+[Tower Semiconductor (NasdaqGS:TSEM) Stock Forecast & Analyst Predictions - Simply Wall Street](https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2xONy1HaVV6dDg5a3FGd2FkQXhERm5QamRjeUZOYnh3dTN2c3UtRlpBaWJPN1JQSjRXdm1RTG9teXp2SkZabTBTb3RzZ0ZibTMteDhaTTVPUFZlclRhdHpSWGd4aEFBOFUwQkEtbXFnTU5oSDhrbWxBd2FwbFRqN1BCa2hSZl92MTQxb3pB?oc=5)
+
+Simply Wall Street reports that Tower Semiconductor (NasdaqGS:TSEM) Stock Forecast & Analyst
+Predictions. Tower Semiconductor: fab and capacity signals should be checked for ramp timing,
+layer complexity, and tool pull-ins.
+
+Source: Simply Wall Street | Date: 2026-10-09
+
 ### 66 - SK hynix - CapEx changes
 
 [SK hynix (KOSE:A000660) Stock Forecast & Analyst Predictions - Simply Wall Street](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTAtNWFkX1gycFV0QVo0U0FLRzh6a2Q5M0pZcDA2eWFWRGlyc0U2Qm1YaDAyVHFjdm16UWNhckVyN1o5QUNsVWRxUmd2RUJLeGVuQjZmUnl6T1Nnd2Y1MjFNYktKYjhDR1labloxQkx5RF96YkRBX016dnlnMGJlY1lXSEduLW5mSHc?oc=5)
@@ -315,23 +325,23 @@ Source: Simply Wall Street | Date: 2026-10-08
 
 ### 66 - Texas Instruments - Fab announcements
 
-[A Silent Winner: Texas Instruments Anchors the AI Supercycle - MarketBeat](https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1FxcTdfRGJZVW5VNHY5dVpBeEh5czZnbTZPdWJxLWpibkhaTGwxd2lZcDltRDZZeUFoUm95dTVmMW5fR29yM21xdncxMTNRZFpsblZ3Ym1rVWpFYmZsQWZaenhTcFlBc1k1ZmotNE1vVC1mdTZyWGdHQmplbzh2MnphekkyY0lsTDc0SVVKVzJkazRTSmFBN1RyWlk?oc=5)
+[Texas Instruments Inc Stock (TXN) Opened Down by 3.14% on Oct 7: Facts Behind the Movement - TradingKey](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXNqXzc2UlRDRUtIdU5ZUmxuZlItRWE2YkZqU0lLZXNjWUFtQUhLbllPZzN2d1YyTldMVmlDSzR2dmR6X3V4Uzc4ZlJjODdHZzRaNWJ6MjQwcW9YYlc4ODlGUFFTQ24yWDNrZ3dSRHJ0YUlIdUxjVC1QUlhtZmE2SXRqdjZJb2tNOXc?oc=5)
 
-MarketBeat reports that A Silent Winner: Texas Instruments Anchors the AI Supercycle. Texas
-Instruments: fab and capacity signals should be checked for ramp timing, layer complexity, and
-tool pull-ins.
+TradingKey reports that Texas Instruments Inc Stock (TXN) Opened Down by 3.14% on Oct 7: Facts
+Behind the Movement. Texas Instruments: fab and capacity signals should be checked for ramp
+timing, layer complexity, and tool pull-ins.
 
-Source: MarketBeat | Date: 2026-10-13
+Source: TradingKey | Date: 2026-10-07
 
-### 64 - Arista Networks - ASIC and custom silicon
+### 64 - Broadcom - ASIC and custom silicon
 
-[Arista (ANET) Has $13.3 Billion of Cash and No Debt at All. What Is That Worth? - Yahoo Finance](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcll4RlAtSHBHRmkxdkQ0SXBqR0o2WW1OcmdDdEJtS1lPbjE4dzQ5NkVWekxxNHd4QVBCRFdLUkNZTGZnZUtZeGtmTzhZOGEwREotSzRlRXZibzZsUVFVTW9rN0hSUmFzY0RyeG41UHdDNFpFMXZhZTVPektNbjZuVTlqNjhDalgyY3BqSjFpQWY1aWs?oc=5)
+[Broadcom: Growth Reliance On OpenAI And Anthropic Becomes Concerning (NASDAQ:AVGO) - Seeking Alpha](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGVTTFpva1FJenZ4WkZWQ3JRNTY5MjIzYUVzbFg3Q3ZpWWQwYUZkZ1Q0blhCSExucE11aTZPYXR1VTVSNkZyaWdCZENtNXJrVEFGQld0bG5Vc29wdU55TVZ3MHZLaEVEX1E2c2FEeFJZS2kzVVNrazdZV29hWmRSY29ObE9HdjFqQ2xEN0pjcm5yV0pFdF9OYzRIWWxlbDhvTGlNdmtJT1otaFp6?oc=5)
 
-Yahoo Finance reports that Arista (ANET) Has $13.3 Billion of Cash and No Debt at All. What Is
-That Worth?. Arista Networks: custom silicon demand can translate into foundry starts, packaging
+Seeking Alpha reports that Broadcom: Growth Reliance On OpenAI And Anthropic Becomes Concerning
+(NASDAQ:AVGO). Broadcom: custom silicon demand can translate into foundry starts, packaging
 capacity, and advanced-node etch pull.
 
-Source: Yahoo Finance | Date: 2026-10-04
+Source: Seeking Alpha | Date: 2026-10-10
 
 ### 58 - Synopsys - EDA / IP design starts
 
