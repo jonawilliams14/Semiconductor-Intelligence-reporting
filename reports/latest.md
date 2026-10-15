@@ -1,6 +1,6 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-10-14T17:58:31.056887+00:00
+Generated: 2026-10-15T17:44:39.399073+00:00
 
 Tracked entities: 53
 
@@ -83,35 +83,15 @@ progress points to leading-edge process complexity where conductor etch timing m
 
 Source: Fortune | Date: 2026-10-13
 
-### 80 - SK hynix - CapEx changes
+### 80 - TSMC - Fab announcements
 
-[SK hynix: The Case For Owning The HBM Leader Into 2027 (NASDAQ:SKHY) - Seeking Alpha](https://news.google.com/rss/articles/CBMimgFBVV95cUxNREZHOVA4T1V4OFNIOEFSTFhEZXA5WUQyZTRzUE9LVzJSSVk5aVZUbTd5SW9ZSTBGVzJnN0VtOGFLOTB6bHpMa1BXOFNDVlNpUkEwU2Zpel9HUDUtLWVmYkZVLXVfUDluSWdDdUwxY0gxVHhzYlppclYwb285NEFyS3lPUkVPMjhPamt6dlFfQ3RsNy1fQnZpZFpn?oc=5)
+[TSMC's 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity - semivision](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnVXYkRNSFd2SXhUeDl3czBnck5yd0FUMl9fMk5mM095eTVIcnN3eGdKTnlBeVRaSXFVZm1mTkxtQ19WTU5pZG5zc0k1M0NaUG9wbUt1ZUlTZzQxaTFRcTBRVHlpYmhRUkRiTFVuUVRVeEtWY1dFOVdzVWt3aHprdmllTDE?oc=5)
 
-Seeking Alpha reports that SK hynix: The Case For Owning The HBM Leader Into 2027 (NASDAQ:SKHY).
-SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting
-conductor etch relevance.
+semivision reports that TSMC's 2026 Q3 Earnings Call: AI Demand, A14, Texas Expansion and the
+Race for Chip Capacity. TSMC: EDA/IP activity is an upstream signal for design starts that can
+become future foundry and etch demand.
 
-Source: Seeking Alpha | Date: 2026-10-01
-
-### 79 - TSMC - Advanced packaging
-
-[GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US - Five-year agreement valued at $2 billion - Tom's Hardware](https://news.google.com/rss/articles/CBMigwJBVV95cUxOQlpVMmk3OHdIMmdkQ1ZNUkhRbDN0cDNCVlpZSG5wcS1UWFpxM0hrN3hsLUFfOENTLUkyTUxHOFpMemVxS3V0Yllfa2ttN0RVMjhXaGNYdlpwWS05UGNyTUtnTmlxYnFaTW1ZR19DZXFTazBLeUtDVkN0VlE5bUNFWldjeF9MQTNWT1VsSm0zS1FmV0hTVUFnLU1jWEdEcXlRQU1UZ3RieFVSSUlPaUJtZVlqRVozWXRoNU5XV1czdk5PNGdUSGxVZ2tRakZTbFA3a2JhUUJpY3JUR1poR25UOHRONHlzeXF1bmtpeXB3aXp0azc2aVA3TlRBTnROT1I4b2dz?oc=5)
-
-Tom's Hardware reports that GlobalFoundries to produce silicon interposers for TSMC's CoWoS in
-the US - Five-year agreement valued at $2 billion. TSMC: advanced packaging expansion can
-reshape adjacent process demand and customer priority.
-
-Source: Tom's Hardware | Date: 2026-10-08
-
-### 78 - GlobalFoundries - Fab announcements
-
-[TSMC to Have CoWoS Interposers Manufactured at GlobalFoundries - igor´sLAB](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE56OFZNSklPV0VXTGE2VTF0TDlwYU9CTGpxcElNWG9nclpKTWp4RFhCdDF4Q0JZZzhJdk81aU5MLWVkTHRCSzljb3g0dGstUVFNZTZfdmNNWFRqZ3VabEZKNDVPa1dzVHEyWi1NSlJhXzdjQkpOX3JzNjVEYWN1ekxycmVoSEQwQWxrQ0dCY1cwUQ?oc=5)
-
-igor´sLAB reports that TSMC to Have CoWoS Interposers Manufactured at GlobalFoundries.
-GlobalFoundries: fab and capacity signals should be checked for ramp timing, layer complexity,
-and tool pull-ins.
-
-Source: igor´sLAB | Date: 2026-10-10
+Source: semivision | Date: 2026-10-15
 
 ### 77 - Samsung Foundry - Foundry customer wins
 
@@ -122,6 +102,16 @@ Talks. Samsung Foundry: HBM demand can pull advanced DRAM capacity and packaging
 forward, lifting conductor etch relevance.
 
 Source: Tech Times | Date: 2026-10-09
+
+### 77 - SK hynix - HBM demand
+
+[How to Play SK Hynix Stock Amid a Potential $10B Solidigm IPO - TradingView](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkpoVnAzb3FVZ2VWSTFTN0tRNE9Md0k0bElCejZ2Uk9jYzU1UGM3b1lzOVlVQmF2VkZEWEk4bTlJNkRJZnZZUlVGR0hoQUJsM0JrazA0YWs0NmM5QkJrTmhIVXViSldoaVhxRHBUV0lXdmNFUmo3RW9vSWthZGVvYjlUNWhXMzEzLUg0Sm51YnJST05zUnk0d0FMcmhDM2xLZ2lLUVZvTUZGeElUdGdLWWNxN1IyUQ?oc=5)
+
+TradingView reports that How to Play SK Hynix Stock Amid a Potential $10B Solidigm IPO. SK
+hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting
+conductor etch relevance.
+
+Source: TradingView | Date: 2026-10-12
 
 ### 77 - Credo Technology - AI accelerator demand
 
@@ -164,16 +154,6 @@ and advanced-node etch pull.
 
 Source: https://tech-insider.org/ | Date: 2026-10-05
 
-### 73 - SK hynix - HBM demand
-
-[SK hynix: The $1 Trillion Inflection Is Closer Than It Looks - Seeking Alpha](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZW9CbE9Tc3RqNGVKcmg4aGFxdWRpcEpXZFZxM29iWTk1OU9OYUVISGtpRXF1RU5hbXR3NmstM05TSHA0RFgwYXpJWDZPNGFTdTM2RFJDLXpSUWs0YmJLUGxZa2dTR3VlV0NIZUNlNF94MWY4eGNsQ3hJcC03ZTZzVFc3MlZkS3hjTjBWbWlscS1OMjNCMlZLbjRTUnBOVWZR?oc=5)
-
-Seeking Alpha reports that SK hynix: The $1 Trillion Inflection Is Closer Than It Looks. SK
-hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting
-conductor etch relevance.
-
-Source: Seeking Alpha | Date: 2026-10-01
-
 ### 73 - Kioxia - NAND / DRAM pricing
 
 [Kioxia Introduces E1.L QLC-based SSDs for Hyperscale Data Centers - Business Wire](https://news.google.com/rss/articles/CBMivwFBVV95cUxQbm5VV1JDaFdBU0ZKQmRUVVAyRFI4bEVBenFJZTZUUldleDgxNmVoTmdHZnpNWkRxNVh2bDJDQ200bjFVMGVOdFdoVVE0Y1lXal9jSGxUeWRjd3JKampibXdzUmRNNTFxc05hV2lQTEE5aTBMWnVweUZ1T25lYUs0LTJhdWVCZmhiZE5FYVFXQVJtTUpKS3R1WFlJTVhBY1RQUmNXWWVZUTFXMExDeDh6c2FuZ3BBNnZPVjMycXlVUQ?oc=5)
@@ -206,6 +186,16 @@ Source: TradingKey | Date: 2026-10-10
 
 ### 72 - Cerebras - AI accelerator demand
 
+[Cerebras sidesteps AI chip supply bottlenecks with 5nm wafer-scale design - Crypto Briefing](https://news.google.com/rss/articles/CBMif0FVX3lxTE9Tb2NKWmlTLV9nc1V5T1BNUjhXRFFJSVgtZzRqcUNfY0Q3dU12MnQ0a1djbERHMDdXUHJzUEx6U29jaWRvbUpERDI5YWkxLUtNcS10TEh1RXpKVS0zN1lGa0dYa3d2QXpzT0pROXlseFVPSEZYMUYzd2hIYTNwcjg?oc=5)
+
+Crypto Briefing reports that Cerebras sidesteps AI chip supply bottlenecks with 5nm wafer-scale
+design. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and
+etch-intensive foundry demand.
+
+Source: Crypto Briefing | Date: 2026-10-03
+
+### 72 - Cerebras - AI accelerator demand
+
 [Cerebras bets its whole chip design on dodging the packaging queue crushing rivals - Startup Fortune](https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTkydDJCX1ZLamQ0amJFZS1CTEczMlFISFNXbXRxRVhvcE5JVUR3SVZBQVItWW42Zm5XckZuM0xLRWJWaGJqaE93bVRYS3dYY3JheGlPQXdIVEp2aTQwUXhfUXIxeGdyb1BUSUNZN0VCTmR6VXl5dDZkNUVqaUZLa2RHUUxwUHZ4N084dGw3VmRWTVk4Tk1EX21EX3lFZ1FCbVA4QlBqWUZQeXZDcklz?oc=5)
 
 Startup Fortune reports that Cerebras bets its whole chip design on dodging the packaging queue
@@ -223,16 +213,6 @@ Change.. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM 
 etch-intensive foundry demand.
 
 Source: Barchart.com | Date: 2026-10-08
-
-### 72 - Cerebras - AI accelerator demand
-
-[Cerebras: Wafer-scale 'monster' chip-can it challenge NVDA? - Longbridge](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGSW9TVVk2RXYzTTlWX054X0tGTlJncVRYTmJEU1gxU1U0V0RNRlJqc05ITm1PWFlGYzhkYUI1Z3dzVTI3UEJ3QjRJWktkTlJzRGtOY2F6ajVTYkU?oc=5)
-
-Longbridge reports that Cerebras: Wafer-scale 'monster' chip-can it challenge NVDA?. Cerebras:
-AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive
-foundry demand.
-
-Source: Longbridge | Date: 2026-10-09
 
 ### 68 - Marvell - ASIC and custom silicon
 
@@ -266,16 +246,6 @@ Source: Microsoft Azure | Date: 2026-10-12
 
 ### 68 - Credo Technology - AI accelerator demand
 
-[Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5)
-
-Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group
-Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading
-indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
-
-Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-10-09
-
-### 68 - Credo Technology - AI accelerator demand
-
 [Credo Unveils 1.6T ZeroFlap Active Light Cable, Industry's First Row-Scale, Wide-Parallel Optical Interconnect for AI Data Centers - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMisAJBVV95cUxQbjBhWjd4UFR3UjhFT3pEX1g1a181RFlWbFZhSi1naENRdlc2ZlFvV3JqWUZRUDItVnR3Ym5hdVFpM2g0QXBEUThib3Z1NUdROVhNVUZJdlgxNHQ2MmdnSlVRNElRcmpobjdJaDZOLXFrZVhLUEhURWNNay1VWlhBQkZDZUV5TnVJaFd4alFLTS0tVmNNMnd1MkxtcnVhRU91dEJnczNxUGhlSHlIelU3dUVfaDBhV1YxTndKcHliNVpJZTY0dXVtcXd0cF9BX0txUjhoUFZHSUozcVJTcUt2eTZkYkZ5U1c4RnBnUVVDZFF1RXRqNGpGQWl6a2hsOHdBbkZkcnh5TUtWZUxyZzhza1ZtWlZTcmJxN1VEZ0ZaWFYzR0ZYd1VGV2VRdDFTQjJD?oc=5)
 
 Credo Technology Group Holding Ltd - Investor Relations reports that Credo Unveils 1.6T ZeroFlap
@@ -284,6 +254,26 @@ Centers. Credo Technology: AI accelerator momentum is a leading indicator for Co
 constraints and etch-intensive foundry demand.
 
 Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-10-12
+
+### 67 - TSMC - Advanced packaging
+
+[TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America's Advanced Packaging Supply Chain - semivision](https://news.google.com/rss/articles/CBMifkFVX3lxTE1XdVdESnlGQzNDQWFqU3JpZ2E1aHNkVzFCTDZmUXRITkJYMEpvQjNRNWpqaG5jRGpfNkV4MWtsRjBmVkJoM0xKUjNTQUNHd2tzb3BBRTFYekwyXzFNQjlrYkszRFFSVmg0aWhKNVRHNVVaa2s3Y2lCQTNSdlBPZw?oc=5)
+
+semivision reports that TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America's
+Advanced Packaging Supply Chain. TSMC: advanced packaging expansion can reshape adjacent process
+demand and customer priority.
+
+Source: semivision | Date: 2026-10-09
+
+### 66 - GlobalFoundries - Fab announcements
+
+[GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiative - GlobalFoundries](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVW9mTXJLZWtuSlVKNGw4bTZ1aTJuXzZ4UGZkcW14SFpXVjc5eDFsQUo5eldnMFo1a1NBNFpvTnhVSm5qRHAxbzE3Nl95cU9OMkhFLWMyamdST2ljcTl3NnhndjJzRnNnR3BwSWtiNTA5TWl2Vkx4YVBIVE1rZC1haFNDZjhUQUNXanlGZUFVN3NFT3Bzckp4UFRXaXRWbEZtYV9GbjBlakNXazBkSEtoSDJUbWJLTTFwOFZBMm1oWnN4T2dnSjIyY2laazlNLUxZQ3NrZWswMUY0M0Z6RWZn?oc=5)
+
+GlobalFoundries reports that GlobalFoundries selected to operate two new semiconductor fabs in
+New York under landmark U.S.-Japan initiative. GlobalFoundries: fab and capacity signals should
+be checked for ramp timing, layer complexity, and tool pull-ins.
+
+Source: GlobalFoundries | Date: 2026-10-14
 
 ### 66 - GlobalFoundries - Fab announcements
 
@@ -297,12 +287,23 @@ Source: Unite.AI | Date: 2026-10-09
 
 ### 66 - GlobalFoundries - Fab announcements
 
-[GlobalFoundries tops out Dresden expansion - Evertiq](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQy11UWxXQ1FWVHU0TENUSzVSWFlBUW5hVy1vdElYYVMyRUFMRmxjR0VMczdLNXJrRFdQVWF2dU8zcktHaHByM0duUFBRT3hHdmZCYi1WTGlLUHJaX0VmU09sOElvcjJCSFBmMlBwMkpnZ1RTZ3dBRHhHelJBLXM4Y3hRVXFldTQ?oc=5)
+[GlobalFoundries Eyes $21B Japan-Backed New York Fab Expansion - TradingView](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjFJN1g5RGQ2QUptRHFIMmtWTGs3eFAyUmZleEQtM29pSDVyQU9TZ0l2RFBUeF9KaVdPYkNWbGVaamNBMWRYaXVMMFBSRjlUNjhrbnMzNTVxblhFYWlvdmNWSm96VVVOYlVnT0RvXzd4ZnZEZWRWY1gxY0VoaVAza3ZxN3N1dVZDVU9CQVBlU0M3NnB6MEZITVRSdTFUVHE4SzlLZDlBMmdQN1NCcy1PR0kwdHJzRFJmNWtvOXlR?oc=5)
 
-Evertiq reports that GlobalFoundries tops out Dresden expansion. GlobalFoundries: fab and
-capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.
+TradingView reports that GlobalFoundries Eyes $21B Japan-Backed New York Fab Expansion.
+GlobalFoundries: fab and capacity signals should be checked for ramp timing, layer complexity,
+and tool pull-ins.
 
-Source: Evertiq | Date: 2026-10-12
+Source: TradingView | Date: 2026-10-14
+
+### 66 - UMC - CapEx changes
+
+[United Microelectronics Corp Stock (UMC) Moved Down by 9.95% on Oct 5: Facts Behind the Movement - TradingKey](https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHpZYmt2OTdnbkh5TlRJaXZYODdjc3h0S1d6dUNjRWFBcWczSXNFYlFVS0lObzNMaXBpQ2NOWHotdFVBTmxIQXZoSUxuTmg2dHZvSHRRQ29DUUZBRnBTblFVRno0elZ0di13Y2FKbGlCY3JRdmY3TG4tVFVQYnpVYU1PcHU2NkM5UlE?oc=5)
+
+TradingKey reports that United Microelectronics Corp Stock (UMC) Moved Down by 9.95% on Oct 5:
+Facts Behind the Movement. UMC: CapEx language is a direct read-through to WFE budgets, timing,
+and tool allocation.
+
+Source: TradingKey | Date: 2026-10-05
 
 ### 66 - Tower Semiconductor - Fab announcements
 
@@ -325,6 +326,16 @@ Source: Simply Wall Street | Date: 2026-10-08
 
 ### 66 - Texas Instruments - Fab announcements
 
+[A Silent Winner: Texas Instruments Anchors the AI Supercycle - TradingView](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0FJTzkwSlp2MkNROEZ5WkxxYXNDMGpRRWNoYkdHX0ttVF9idmZZSGpyaGNkdUstLWdhbXpMUzhDSEc0M2xRdUhpaGRyXzdyUzNZZnRYNTVxYWMtYkRzeFJ6XzN1YXBqczVvS2IxdlZNZlJqZWJ1QXF4eEFhYzhCZWtpTm9UQzBXOUpUR0dTWVpDbmh2NVpzckwzUGY4R2t1TlRVSExTbThqdUJjemM0bl9YWk40bUh3Q2I0?oc=5)
+
+TradingView reports that A Silent Winner: Texas Instruments Anchors the AI Supercycle. Texas
+Instruments: fab and capacity signals should be checked for ramp timing, layer complexity, and
+tool pull-ins.
+
+Source: TradingView | Date: 2026-10-13
+
+### 66 - Texas Instruments - Fab announcements
+
 [Texas Instruments Inc Stock (TXN) Opened Down by 3.14% on Oct 7: Facts Behind the Movement - TradingKey](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXNqXzc2UlRDRUtIdU5ZUmxuZlItRWE2YkZqU0lLZXNjWUFtQUhLbllPZzN2d1YyTldMVmlDSzR2dmR6X3V4Uzc4ZlJjODdHZzRaNWJ6MjQwcW9YYlc4ODlGUFFTQ24yWDNrZ3dSRHJ0YUlIdUxjVC1QUlhtZmE2SXRqdjZJb2tNOXc?oc=5)
 
 TradingKey reports that Texas Instruments Inc Stock (TXN) Opened Down by 3.14% on Oct 7: Facts
@@ -343,42 +354,23 @@ capacity, and advanced-node etch pull.
 
 Source: Seeking Alpha | Date: 2026-10-10
 
-### 58 - Synopsys - EDA / IP design starts
+### 62 - Infineon - Automotive and edge silicon
 
-[Synopsys Stock Jumps As AI Deals And Guidance Ignite Bulls - Timothy Sykes](https://news.google.com/rss/articles/CBMidEFVX3lxTFBWc2hrYm1tYjNkNjJTM3BQYUx4SGdhX1ozYnExZzZDelgxYm9CQmVEandfQzhkLUlfZzBteXhVYWFuSVgwMWxpRVRSWGxpZGh2SWJLY2Q4WUZ5Q0I2bHF3QzQ1MmxQOG85SkhrNktoOGZ2ek1X?oc=5)
+[Infineon Signs 200-millimeter Silicon Carbide Wafer Supply Agreement with Wolfspeed to Further Strengthen Supply... - Electronics / Instrumentation / RFID - Infineon Technologies AG - NewswireToday](https://news.google.com/rss/articles/CBMiggJBVV95cUxQWDhraW9TSVVmVFVVUlU3cnF4UHBrb2J4OENrcHdoQ0NkRktZWE5GODZvWFZiaUlNU3JWclo2MlhFaDlhZDVkbV9fa05UWTZMd1d2V01sTnd2b3NENFF3OUhwTDRaSnBaNUpKbnRvMGR2SWZWSFBtUXRPSkZOMnRwTzdhZlN3N1M4MnhXU1lBYVhhYkhZbGZXNDZDeTZ4VkZab2lET2p0c01Jb0dJamhFUGpnaXkwMElvVTd5eVdFcEh1SjBUV2tnQlliRVd0WUl5NlluYlJhSHBQc2VCRlgtX1oxSmxQLWstYU4yRnRVOTlLLXJENXV2TVJ3TzZYdkwtRWc?oc=5)
 
-Timothy Sykes reports that Synopsys Stock Jumps As AI Deals And Guidance Ignite Bulls. Synopsys:
-EDA/IP activity is an upstream signal for design starts that can become future foundry and etch
-demand.
+NewswireToday reports that Infineon Signs 200-millimeter Silicon Carbide Wafer Supply Agreement
+with Wolfspeed to Further Strengthen Supply... - Electronics / Instrumentation / RFID - Infineon
+Technologies AG. Infineon: automotive and power-semiconductor demand can influence specialty fab
+loading and mature-node etch utilization.
 
-Source: Timothy Sykes | Date: 2026-10-01
-
-### 58 - Synopsys - EDA / IP design starts
-
-[Synopsys Stock Jumps As AI Deals And Targets Power SNPS - Timothy Sykes](https://news.google.com/rss/articles/CBMickFVX3lxTE5xenZHMXpGSU5DVE90dVljVXB2NWNWNnk3MEl4T2pNSV9sYzd4WmZVOVUtdXo0SERyR09kRDcxd2NlY2MwRlhPZUtTdEdQaW45ZEQ4UEpyNkdibnRtNmgzc3hQMEsxcUVwOTVyRmVRT2JXUQ?oc=5)
-
-Timothy Sykes reports that Synopsys Stock Jumps As AI Deals And Targets Power SNPS. Synopsys:
-EDA/IP activity is an upstream signal for design starts that can become future foundry and etch
-demand.
-
-Source: Timothy Sykes | Date: 2026-10-01
+Source: NewswireToday | Date: 2026-10-15
 
 ### 55 - Infineon - Automotive and edge silicon
 
-[Infineon at AI & Technology Virtual Investor Conference: AI growth lifts outlook By Investing.com - Investing.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQVpZNnhKS3Q5bkJWb01PYW05ZjBxUUtzVk1VRUNSd1lWVzRBWkdiLVM5M0NkQjAzaTFVS2FseFVBeXFLRld1UGM5M0JodHhhVVEtLTVHWTJaMVB3YXJSd3kyWjRTTUhkMmhNWGZleXBjZlRXaThxUDlKNGhobGZ3ZThEaXhXLVF5WkdVSTZQY25Nb0pIVXgtVERZRV9aRnRmcENPRk1LVHZBM0VxSE4yR1hrRUVJSDR3SGQ4aVNJQktlYmZDbTU5UTlVVF9PVk0?oc=5)
+[Infineon Technologies (XTRA:IFX) Stock Forecast & Analyst Predictions - Simply Wall Street](https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjBJdEo4bHFPaC0yZ3NUTkEyY2h1WmZKZXRZbkRXYXcyYTZwd1BtR2JOWlEzbzZETFI4REc4bkVtMkY5SWN0Qmx6cW1mRmxxQ1E1OVZFUmJsSEdnQTRqdFhIUzg3NWYzbDVINzB2TGYzcGl1WFVqTlMzZzMxdDNVTWpFR0ppVVlVV2YtZGRGZnFjVU1W?oc=5)
 
-Investing.com reports that Infineon at AI & Technology Virtual Investor Conference: AI growth
-lifts outlook By Investing.com. Infineon: automotive and power-semiconductor demand can
-influence specialty fab loading and mature-node etch utilization.
+Simply Wall Street reports that Infineon Technologies (XTRA:IFX) Stock Forecast & Analyst
+Predictions. Infineon: automotive and power-semiconductor demand can influence specialty fab
+loading and mature-node etch utilization.
 
-Source: Investing.com | Date: 2026-10-01
-
-### 55 - Infineon - Automotive and edge silicon
-
-[Infineon Completes Acquisition of C2i Semiconductors - EE Times Asia](https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVN4dDdiczRVRHhneHhnRDZaZ3hhYUtFZTM0bXhFTnBOaXp0TVlhLTBBTWZpcVVISnB3YllmTzVmUlFaTF9aeUxpd1RCNHVpekIzSklOeFlyTjFQRzFlM0JfZ3dTQjJQUnBERlVsT0hhRnM4RlZFSTJaZ29rS3E5QVdTMA?oc=5)
-
-EE Times Asia reports that Infineon Completes Acquisition of C2i Semiconductors. Infineon:
-automotive and power-semiconductor demand can influence specialty fab loading and mature-node
-etch utilization.
-
-Source: EE Times Asia | Date: 2026-10-07
+Source: Simply Wall Street | Date: 2026-10-09
