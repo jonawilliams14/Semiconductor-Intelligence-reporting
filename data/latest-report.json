@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:22:12.872103+00:00",
+  "generated_at": "2026-10-19T19:17:37.198927+00:00",
   "customers": [
     "TSMC",
     "Samsung Foundry",
@@ -145,16 +145,16 @@
       "implication": "Microsoft Maia: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand."
     },
     {
-      "headline": "TSMC Stock Forecast: Texas Expansion and 2nm Ramp Put Record AI Demand in Focus - TradingKey",
+      "headline": "TSMC Stock Forecast: Record Profit and 2nm Ramp Test $430 Support - TradingKey",
       "implication": "TSMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters."
-    },
-    {
-      "headline": "GlobalFoundries Lands $2 Billion TSMC Order, Establishing First US CoWoS Interposer Capacity - BigGo Finance",
-      "implication": "TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority."
     },
     {
       "headline": "NVIDIA May Use Intel's Foveros for Chip Packaging From Late 2028, Analyst Says - XenoSpectrum",
       "implication": "Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority."
+    },
+    {
+      "headline": "[News] AI Chip Memory Strategies Diverge: Microsoft's Maia 300 Fuels HBM4 Demand as Intel Bets on LPDDR5X - TrendForce",
+      "implication": "Microsoft Maia: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand."
     }
   ],
   "signals": [
@@ -181,22 +181,12 @@
     {
       "customer": "TSMC",
       "topic": "Fab announcements",
-      "title": "TSMC Stock Forecast: Texas Expansion and 2nm Ramp Put Record AI Demand in Focus - TradingKey",
-      "summary": "TradingKey reports that TSMC Stock Forecast: Texas Expansion and 2nm Ramp Put Record AI Demand in Focus. TSMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
+      "title": "TSMC Stock Forecast: Record Profit and 2nm Ramp Test $430 Support - TradingKey",
+      "summary": "TradingKey reports that TSMC Stock Forecast: Record Profit and 2nm Ramp Test $430 Support. TSMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
       "impact_score": 91,
-      "date": "2026-10-07",
+      "date": "2026-10-15",
       "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXl4MkJLMHBfZDk2aUdJOHNuOUVtVFZpUy1KUkxfVzBlRG02UXQ1ZXVjRGIzMFEyZVdCTi1mSHpoOU85VHJwWWhfSHBBenhwcVJMQ1RsQklhcGxHQXFCZ3pIdGdTZ0JZdC1GM2NxNDdkSHljVEZsck5pMXh2a3R0X0dIRTVnUXROc2lrVVFGM0k2aElTektQRUZhR2Y2VmIteVBj?oc=5"
-    },
-    {
-      "customer": "TSMC",
-      "topic": "Advanced packaging",
-      "title": "GlobalFoundries Lands $2 Billion TSMC Order, Establishing First US CoWoS Interposer Capacity - BigGo Finance",
-      "summary": "BigGo Finance reports that GlobalFoundries Lands $2 Billion TSMC Order, Establishing First US CoWoS Interposer Capacity. TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.",
-      "impact_score": 89,
-      "date": "2026-10-10",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMnFPSHVfejZTSVZXZElyX0QtZWJaM2Q3S2F6RDFhR3ltQ0hUSnJxclI5STVxNFpVNU5CcFhYN2pxZ1dWUHNIQ0RINzRBYzBucUZzRnpqTzRxdjJiT18yNlI2Rl9RVmNSWW5YU2xEVmZPSUIyNVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU2xrZ3RwR3B1X3JNNVN5dmJoRVhNX3JJSUZzRDR3Vk03c2QwRncycWZja1JoX25EQVd6MDlRWUgyNkh3YVhocWxkSEt4dUZkTU0wZHIzWWJUQlZSTUFIdmY1U01IR2lDX3VmaGFKV0U0M2l3OUFZcVRKQlJ6TWlOY1hZaHRrZUcxNnlCNV8yVHZMRTFGYURBWEVtQTlUU3pXbjE0ZTJmZ0U5ZW5kTkRMcU5GRWx1SXJMUTdZRWVwMmdRRmM?oc=5"
     },
     {
       "customer": "Intel Foundry",
@@ -207,16 +197,6 @@
       "date": "2026-10-09",
       "source": "XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82SldkUjk4ZS1xWFk4WEtpbVp4OGNlSW0zcFpGa29FZTU5MlVQSnRtUmNpclNmUTJxYkFXMEFocnVLS2pVc245a25tb3EzWFNHaFBpbG9DeFFWblBJWmlxVWJoV3pMSXIxazNmN2VMalEzbVBBWDYtVUdFc1RTdw?oc=5"
-    },
-    {
-      "customer": "Intel Foundry",
-      "topic": "EUV roadmap",
-      "title": "Intel Stock Price Forecast - INTC ($109.51) Falls 3.19% on Terafab-TSMC Doubt - $102.86 Support, $118 Target - TradingNEWS",
-      "summary": "TradingNEWS reports that Intel Stock Price Forecast - INTC ($109.51) Falls 3.19% on Terafab-TSMC Doubt - $102.86 Support, $118 Target. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
-      "impact_score": 88,
-      "date": "2026-10-08",
-      "source": "TradingNEWS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjlPcU5CWVJYN0pKZXMyRFlDbUdvTHFnMjUzYnhHSDRFc2lkSzQtS01WcHoweWNxaXJTMllZZGdLajdsUkxJdzJXSWo4Zlo0d2dBdzBvY2ZOSTJHTndwYmhXeGtxZDAwWFNaRHNDLUFfYXlseGRMU3l0RjBXbkNXak56dFk3cnhBS3d6cnRhTHVEcHNhdWdVMXhhRGc3Mm5XN0djeg?oc=5"
     },
     {
       "customer": "Microsoft Maia",
@@ -234,7 +214,7 @@
       "title": "Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune",
       "summary": "Fortune reports that Intel (INTC) Q1 2026 Earnings Call Transcript. Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.",
       "impact_score": 83,
-      "date": "2026-10-13",
+      "date": "2026-10-16",
       "source": "Fortune",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDZ1UVdPM3d1SGlxcHl2MWUzU2pDc0hyRHdmeFpTOEF3SkZsaUpteEszQkxjUlQ2QnFJaDJSUXBUWWZuQl9FRVNmVDZDOWJiSVhWU1EwSHBWMmdxVGRrUA?oc=5"
     },
@@ -251,12 +231,12 @@
     {
       "customer": "TSMC",
       "topic": "Advanced packaging",
-      "title": "TSMC's 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity - semivision",
-      "summary": "semivision reports that TSMC's 2026 Q3 Earnings Call: AI Demand, A14, Texas Expansion and the Race for Chip Capacity. TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.",
-      "impact_score": 81,
-      "date": "2026-10-15",
-      "source": "semivision",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnVXYkRNSFd2SXhUeDl3czBnck5yd0FUMl9fMk5mM095eTVIcnN3eGdKTnlBeVRaSXFVZm1mTkxtQ19WTU5pZG5zc0k1M0NaUG9wbUt1ZUlTZzQxaTFRcTBRVHlpYmhRUkRiTFVuUVRVeEtWY1dFOVdzVWt3aHprdmllTDE?oc=5"
+      "title": "GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US - Five-year agreement valued at $2 billion - Tom's Hardware",
+      "summary": "Tom's Hardware reports that GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US - Five-year agreement valued at $2 billion. TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "impact_score": 79,
+      "date": "2026-10-08",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQlpVMmk3OHdIMmdkQ1ZNUkhRbDN0cDNCVlpZSG5wcS1UWFpxM0hrN3hsLUFfOENTLUkyTUxHOFpMemVxS3V0Yllfa2ttN0RVMjhXaGNYdlpwWS05UGNyTUtnTmlxYnFaTW1ZR19DZXFTazBLeUtDVkN0VlE5bUNFWldjeF9MQTNWT1VsSm0zS1FmV0hTVUFnLU1jWEdEcXlRQU1UZ3RieFVSSUlPaUJtZVlqRVozWXRoNU5XV1czdk5PNGdUSGxVZ2tRakZTbFA3a2JhUUJpY3JUR1poR25UOHRONHlzeXF1bmtpeXB3aXp0azc2aVA3TlRBTnROT1I4b2dz?oc=5"
     },
     {
       "customer": "Samsung Foundry",
@@ -269,26 +249,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVhQRG42RnpNdkFiRExWekI4cDFfMEpyWkh0eWxzakNIUGtxcDdjUGxRbVFqYmFzSDRLRndfbG9OQnVheGhINXhMM1NTUThJbThJQnBWaU5sUVQxS2FVazZhZXRWa1JlQVMzUXYyUXRGM1gxSU1fUXk1TFRKYjdNMWgxb3JwSktlajdYWXNUREdOSUU1NDEyOS1waGhrbldRaC1uTjMyRHZXY0dDbDVqcWxkT1FYOEVaOEh3?oc=5"
     },
     {
-      "customer": "SK hynix",
-      "topic": "HBM demand",
-      "title": "How to Play SK Hynix Stock Amid a Potential $10B Solidigm IPO - TradingView",
-      "summary": "TradingView reports that How to Play SK Hynix Stock Amid a Potential $10B Solidigm IPO. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
-      "impact_score": 77,
-      "date": "2026-10-12",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkpoVnAzb3FVZ2VWSTFTN0tRNE9Md0k0bElCejZ2Uk9jYzU1UGM3b1lzOVlVQmF2VkZEWEk4bTlJNkRJZnZZUlVGR0hoQUJsM0JrazA0YWs0NmM5QkJrTmhIVXViSldoaVhxRHBUV0lXdmNFUmo3RW9vSWthZGVvYjlUNWhXMzEzLUg0Sm51YnJST05zUnk0d0FMcmhDM2xLZ2lLUVZvTUZGeElUdGdLWWNxN1IyUQ?oc=5"
-    },
-    {
-      "customer": "SK hynix",
-      "topic": "HBM demand",
-      "title": "SK Hynix, SanDisk, and Micron Drop 3% Despite Goldman Sachs Calling China Chip Fears Overdone - 24/7 Wall St.",
-      "summary": "24/7 Wall St. reports that SK Hynix, SanDisk, and Micron Drop 3% Despite Goldman Sachs Calling China Chip Fears Overdone. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
-      "impact_score": 77,
-      "date": "2026-10-16",
-      "source": "24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1ZZZTY4bmhPSzZ1cjV0WllQWGZOVTRMN2t3emE5blRHUHNTekFGelpNZ2ZZU2lHUmRDTE4tYzZPeVZiVWxpTVVUaURYeE5XQWNyM2pQNlg2LTFGMkpnVmVNM19IcDR1VUdvQ0IzWnU1bFk4aFp0ZGYxVjFWR2hiTkxmUndGUzl1MEZmSm52TE5jTE9pNU1JZEYyMnJSaUIxTXJlb2RSUnZXMzZwM2NkcUNBSkJoQWhYaXcyNnpFcDhveTlVTGVIb25rR3h6WnM?oc=5"
-    },
-    {
       "customer": "Credo Technology",
       "topic": "AI accelerator demand",
       "title": "Credo to Showcase Broad Portfolio of Connectivity Solutions for AI Scale-Out and Scale-Up Fabrics at 2026 OCP Global Summit - Credo Technology Group Holding Ltd - Investor Relations",
@@ -297,6 +257,16 @@
       "date": "2026-10-09",
       "source": "Credo Technology Group Holding Ltd - Investor Relations",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQMWxpdE1rckV5M01tNWp6RjdTaklHVU13Q2c5aDRxLXQ0SzlkdkMtYklpZ2lfXzlyOVBEdlQtRTV3UVF4NkxDdmU5Nm1pQnhfOHk2ZEQ3Q1I5UFl1cGFCTUlpb1lTOWk4Mi1VYUhMUXQxUkgyUEJQYjdfcnZLN1dXZjlFVzZhbzlSdHdLcGhOM1NVWlZYRDZLbVVCSW0tS3pEaUY1UWdMLWVwemtNM2RhejZ1dHBDem5sN0gzdVZIbzFlcU9jclBhcG40TkhMNFZlWjJrME9aY1JGRWdUVkJTTUdLLU5sVEh4YVJVZG9XT2tuQ2VlSTVZOTJtNHI4ZUNCUlRJZXlLblBDMjBFU3kyVVVaa1hKWmhyMjd2V1NtYUo4eURmMDdLcnRuQQ?oc=5"
+    },
+    {
+      "customer": "TSMC",
+      "topic": "Fab announcements",
+      "title": "[News] AMD's Lisa Su Visits TSMC, AI Supply Chain Partners as Company Locks In Capacity 3-5 Years Ahead - TrendForce",
+      "summary": "TrendForce reports that [News] AMD's Lisa Su Visits TSMC, AI Supply Chain Partners as Company Locks In Capacity 3-5 Years Ahead. TSMC: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
+      "impact_score": 76,
+      "date": "2026-10-06",
+      "source": "TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRFFZVkJhbWZ2MlFua3lhalhScnNnZnBOenNyOXFhVmNmQVRhUHJ0X25ob0hyLU1GTllPcUFlZ0N0VHNXdzEwNW9aMUNzRlAzTWZNUlZSWDZ5NUUwZl9lVzNENnZXUFBWOGFrV1pXN2xIY3VYeUtzWGNRanFfUW9xTC1sWWN3TnQtZXZNTVNJZVhST0I4MlF3Y0tha3hvQWk2RVZVVzNqNUFjY2NFZlI4RklMREhqaVpFN0NxSHpUUVdkSzRiRjdvRXpWYWVSTHBEemptcUJKZmNFeE0?oc=5"
     },
     {
       "customer": "Texas Instruments",
@@ -309,24 +279,34 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclR6S1lvaGlhRjNjSjkzb0F1WUV4dFh0ejBGWEJVclFoM3JyRkhLWnBCTGNkLVlvQVR5a2FyWU1sd3M3Z1d3d01rcGhiY3NWNXgzTFFDVmh2UjhOYjB2RDB4RHp2RjZ4Z2RnM3ZtZHJpTFc3MUhuSlJWc0x6LWh2bzNuU0JpZ0FETFZmU0M3QlBqSnBMN0RIM1I1bDFlZWo1?oc=5"
     },
     {
-      "customer": "Broadcom",
-      "topic": "ASIC and custom silicon",
-      "title": "Broadcom-Samsung Chip Pricing Deal Matches Nvidia Terms [2026] - https://tech-insider.org/",
-      "summary": "https://tech-insider.org/ reports that Broadcom-Samsung Chip Pricing Deal Matches Nvidia Terms [2026]. Broadcom: custom silicon demand can translate into foundry starts, packaging capacity, and advanced-node etch pull.",
-      "impact_score": 74,
-      "date": "2026-10-05",
-      "source": "https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkNudU1pamtPX1BjVDhZLTB0TEFIYTN6RmZHbnJTZjRwLWZSY2R2RzRDQUtwLUdhTzdUMGNUVF9PNWZ5QmFCQzl6U2NSbi1zZ0dGS1pBSkMzS1ZlamwzbUIwTDZQQklmMkZxOVNsMFdwbkVubGpYTldJMEo5aERmVA?oc=5"
+      "customer": "Samsung Electronics",
+      "topic": "NAND / DRAM pricing",
+      "title": "Samsung Electronics (KOSE:A005930) Showcased AI Memory And Storage At GMIF - Simply Wall Street",
+      "summary": "Simply Wall Street reports that Samsung Electronics (KOSE:A005930) Showcased AI Memory And Storage At GMIF. Samsung Electronics: memory price and utilization momentum help estimate when deferred etch demand may return.",
+      "impact_score": 73,
+      "date": "2026-10-19",
+      "source": "Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV1B2azlkRF9XTGxnNHp4M29yX1h3VVFVQThFbjN1MzlXSWJNV0pCcVdsMzZPVENVUUJjcnZCMWZpQmFrUmcyOWZHeE5jU2wxOWpCRnhRcFVQOFhvSHdMbmZiSThiczNqR3JUYzRnbVlqWHctdlJlQU1tZ2NtaC1GTTAtcDk5R0tXdUNhelRDNER6UkgtUjVWUmt5djZ5dUdHbDBhYXJ3ZDZWMlczSE5YVU9iOTU3NTBHU3dZX2d6ZnNwS1l1YWwweTVYbXlWbkIwak5hdFdTQ1pad9IB3wFBVV95cUxOTi0xZTZvTndpN2oxTXMxWlROV21TRGRON3pzNDZnU1JMcVNKc19tYlc2MHQ1WmVSelF3bzU4bExSWWhwODFycE10Ry1nZVQzTVRIMml3SEd4SVZteUltSHlyeHZIT2lKaGpjTVJ4dV9ENnJ4TlhxVXNGRDNib1VNLWJsQ01TYXBPeHZrelMtc0F4dk1acm5RM1hjdEp5WmE1emNQNHdNREY3YW04SVhnTHh2OVF6YmxKVDN0aV82YzJpQ1lIMEpFQXFnUFN3cm9mYWZKdzNLTExfRUNqcVZv?oc=5"
     },
     {
       "customer": "SK hynix",
       "topic": "HBM demand",
-      "title": "SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12 - The Korea Herald",
-      "summary": "The Korea Herald reports that SK hynix, Samsung push 16-layer HBM4 as Rubin favors 12. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
+      "title": "SK hynix HBM Technology and AI Computing Growth - Spherical Insights",
+      "summary": "Spherical Insights reports that SK hynix HBM Technology and AI Computing Growth. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
       "impact_score": 73,
-      "date": "2026-10-09",
-      "source": "The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UNFZSQnNwQlpIZ1JBTlhtZmFndHpiM1BBYmU5aXpKQ3lyOVBjbUhCSFpMUmlHaVFheFBoS00yTVJ1TXVBM3k3Q2Rsc0ZvbGczaE5JSVJOQQ?oc=5"
+      "date": "2026-10-18",
+      "source": "Spherical Insights",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xZnkyRl94X25tSDNZMjVZTGg2cEdldGU4SkZXUTJhcHZNMmlkWDJiVWVFUHlKMW5fcDFBTzlITTBXeElFZm0wWTRtMTd0ZkU4V29aTUxsbjNiUmhQajIxcUNYRWUyZGZpZnl5dERkZHVSNGdqYVJiNkZpbw?oc=5"
+    },
+    {
+      "customer": "SK hynix",
+      "topic": "HBM demand",
+      "title": "Onto Innovation Receives Best Partner Award from SK hynix for Hidden Defect Prevention in High Bandwidth Memory Production - Business Wire",
+      "summary": "Business Wire reports that Onto Innovation Receives Best Partner Award from SK hynix for Hidden Defect Prevention in High Bandwidth Memory Production. SK hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting conductor etch relevance.",
+      "impact_score": 73,
+      "date": "2026-10-12",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYjBVUTVtb3lKSkRyVnRyUS1mc1NmWHJrMUVOZDc4anZ3R3BEUEloTzU1SWRsTHNtbnlyS00xRUlzU2ZKdnRLaVh3b2RWaWYwSVM3elpnYVJwR2VTVFNMTWRidEduRy15T2hqOXBHUjRmaW5HNGFISkhnLTVNRzFCdWNyWVZHZVlmankwcHdfUU4xaXpqWFpiT1VZelNKTXlWcDFUTmMtLUZSMWlHOGtlZGM5a3EzZWhldEF5N2E1cnhNb0h2cXlwc0lqNFpwWlI2MjFJZUlnMWNKWk9Uc2pHNVUwcW9FeGozMUhQd0Y4UjFxNWdvX2I4REdoTXRlNHhOMmUtSU1DYjhMQ00?oc=5"
     },
     {
       "customer": "Kioxia",
@@ -339,16 +319,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbm5VV1JDaFdBU0ZKQmRUVVAyRFI4bEVBenFJZTZUUldleDgxNmVoTmdHZnpNWkRxNVh2bDJDQ200bjFVMGVOdFdoVVE0Y1lXal9jSGxUeWRjd3JKampibXdzUmRNNTFxc05hV2lQTEE5aTBMWnVweUZ1T25lYUs0LTJhdWVCZmhiZE5FYVFXQVJtTUpKS3R1WFlJTVhBY1RQUmNXWWVZUTFXMExDeDh6c2FuZ3BBNnZPVjMycXlVUQ?oc=5"
     },
     {
-      "customer": "Kioxia",
-      "topic": "NAND / DRAM pricing",
-      "title": "Kioxia plunges 13%-how far will it fall? Memory stocks shaken by new tech from Chinese players; what's the focus going forward? - Moomoo",
-      "summary": "Moomoo reports that Kioxia plunges 13%-how far will it fall? Memory stocks shaken by new tech from Chinese players; what's the focus going forward?. Kioxia: memory price and utilization momentum help estimate when deferred etch demand may return.",
-      "impact_score": 73,
-      "date": "2026-10-13",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMktxbE16d2RpUUY5T1U2ZzZUT29SRVdlUnVURFhaeGxhU2hFd0FRZll1VXhCR1paek9CMlZ4ekk4MVBINHVDZVJSaHRuanBwaGZkRzI1N3JPcjdOd2ZCUlVmTGwzckRrWk1nZGJIaHplNnlTM1AzVFFXanNfeHFpd1JSRk90RlZxRk5yUGVrRkZvdms5WTQtWTJiRDQxTk5VdVd1bHFYVVZXSU1wM0E?oc=5"
-    },
-    {
       "customer": "Western Digital",
       "topic": "NAND / DRAM pricing",
       "title": "Can Toshiba's Expansion Lower Hard Drive Prices, and What Does It Mean for Western Digital, Seagate and Kioxia? - TradingKey",
@@ -359,14 +329,14 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ2FGZXJnUXJHcmQzS1BtR0dPd1ZBT1k2OTBZWkxQdmNFSnltclF0RGhFdXZ4QmZZMGptTkkzSmQ3M1ZWdi1nUTRYMVVwWWZOeS04WGZZaTN2NlVPWXZ2ZVBfZU0yQnVwekExZUxraTNmdzZiVmRqd2M0emJfalRONjNIcm9ST29nZlBiZkJsY0lTd0dpWjVqZ0U3a1FmX0FaVkJDWTVoN091NUp6dlJBakhzVHRsNmdIYURtdEg1RmV0bWtvVmxZRDQzSDI?oc=5"
     },
     {
-      "customer": "Cerebras",
-      "topic": "AI accelerator demand",
-      "title": "Cerebras bets its whole chip design on dodging the packaging queue crushing rivals - Startup Fortune",
-      "summary": "Startup Fortune reports that Cerebras bets its whole chip design on dodging the packaging queue crushing rivals. Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
-      "impact_score": 72,
-      "date": "2026-10-04",
-      "source": "Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTkydDJCX1ZLamQ0amJFZS1CTEczMlFISFNXbXRxRVhvcE5JVUR3SVZBQVItWW42Zm5XckZuM0xLRWJWaGJqaE93bVRYS3dYY3JheGlPQXdIVEp2aTQwUXhfUXIxeGdyb1BUSUNZN0VCTmR6VXl5dDZkNUVqaUZLa2RHUUxwUHZ4N084dGw3VmRWTVk4Tk1EX21EX3lFZ1FCbVA4QlBqWUZQeXZDcklz?oc=5"
+      "customer": "SK hynix",
+      "topic": "CapEx changes",
+      "title": "Is SK Hynix (KOSE:A000660) Set For A Longer Chip Boom Through 2027? - Yahoo Finance",
+      "summary": "Yahoo Finance reports that Is SK Hynix (KOSE:A000660) Set For A Longer Chip Boom Through 2027?. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
+      "impact_score": 70,
+      "date": "2026-10-18",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZE1WUmpKWFlscDBDYkJWdm5qYnlVemYwcV9RcHNrQUs0VjV4WkVLSzdSb21jRGxQM1lIby1sLUNVR0M0V21FVjFIMUFKaWtMTDljVFotQ3NocFYyd1QwdlljTl9SZFktYXJGeUc4cEZYaXh1czl2aTJFM182a1hzeG1nXzRSUFhiMVJYTU5NWFZzZVU?oc=5"
     },
     {
       "customer": "Marvell",
@@ -409,34 +379,34 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWRBT1FubUFrQkxpak9semM2bWxpN1RTYzVGeThWMTY0SGVmVjZZa0JUUGdZaUZucDhGQk1GZXJETUNLNmtrb1VLU1BaaFRxeGdXZkJ2VGpaU25qcnRjcUNxTWlMSU1Eb3JGRkZFTkI3WkdtLVBiQlA5aXNfLVFIbDRVVHlQYnJwTXQwdnNoWWh6Mmc?oc=5"
     },
     {
+      "customer": "Cerebras",
+      "topic": "AI accelerator demand",
+      "title": "Cerebras System: Beaten To A Pulp On Irrational Fears (Rating Upgrade) (NASDAQ:CBRS) - Seeking Alpha",
+      "summary": "Seeking Alpha reports that Cerebras System: Beaten To A Pulp On Irrational Fears (Rating Upgrade) (NASDAQ:CBRS). Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
+      "impact_score": 68,
+      "date": "2026-10-18",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVzRnUlNYUVFybGtiOG5EMkRlY1pKT2ROTTJkMlByUnRLc3FoM2wtcHVCTUV2a3VuS2hhbWxPOVM2bUNnVzlwQ2RNbmlaRnhPX0FTdXNudURtOVVFTGJMUW5WSnJLdWw3QWF2QTh5WWIyUVZPYkw5WThLWVREOHpvWHFSMTBhY3pyaFlUNlRFNXdXNFRxUFlCbG9aZUxtZ1hLbGtMclBWYXM0a2hsMXQwSVZUeTBPbGFKeXRWMTUweFE1TnRpbzZyQ1dHci1rVW5G?oc=5"
+    },
+    {
       "customer": "Credo Technology",
       "topic": "AI accelerator demand",
       "title": "Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations",
       "summary": "Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
       "impact_score": 68,
-      "date": "2026-10-14",
+      "date": "2026-10-16",
       "source": "Credo Technology Group Holding Ltd - Investor Relations",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5"
     },
     {
-      "customer": "Credo Technology",
-      "topic": "AI accelerator demand",
-      "title": "Credo Unveils 1.6T ZeroFlap Active Light Cable, Industry's First Row-Scale, Wide-Parallel Optical Interconnect for AI Data Centers - Credo Technology Group Holding Ltd - Investor Relations",
-      "summary": "Credo Technology Group Holding Ltd - Investor Relations reports that Credo Unveils 1.6T ZeroFlap Active Light Cable, Industry's First Row-Scale, Wide-Parallel Optical Interconnect for AI Data Centers. Credo Technology: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.",
-      "impact_score": 68,
-      "date": "2026-10-12",
-      "source": "Credo Technology Group Holding Ltd - Investor Relations",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQbjBhWjd4UFR3UjhFT3pEX1g1a181RFlWbFZhSi1naENRdlc2ZlFvV3JqWUZRUDItVnR3Ym5hdVFpM2g0QXBEUThib3Z1NUdROVhNVUZJdlgxNHQ2MmdnSlVRNElRcmpobjdJaDZOLXFrZVhLUEhURWNNay1VWlhBQkZDZUV5TnVJaFd4alFLTS0tVmNNMnd1MkxtcnVhRU91dEJnczNxUGhlSHlIelU3dUVfaDBhV1YxTndKcHliNVpJZTY0dXVtcXd0cF9BX0txUjhoUFZHSUozcVJTcUt2eTZkYkZ5U1c4RnBnUVVDZFF1RXRqNGpGQWl6a2hsOHdBbkZkcnh5TUtWZUxyZzhza1ZtWlZTcmJxN1VEZ0ZaWFYzR0ZYd1VGV2VRdDFTQjJD?oc=5"
-    },
-    {
       "customer": "TSMC",
-      "topic": "Fab announcements",
-      "title": "TSMC Q3 Net Profit Soars 68.7%; Q4 Revenue Guidance Set at $54.3 Billion - BigGo Finance",
-      "summary": "BigGo Finance reports that TSMC Q3 Net Profit Soars 68.7%; Q4 Revenue Guidance Set at $54.3 Billion. TSMC: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
-      "impact_score": 66,
+      "topic": "Advanced packaging",
+      "title": "TSMC Q3 2026 Earnings Call: 17 Key Questions and the Technological Transformation of the AI Semiconductor Industry - semivision",
+      "summary": "semivision reports that TSMC Q3 2026 Earnings Call: 17 Key Questions and the Technological Transformation of the AI Semiconductor Industry. TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.",
+      "impact_score": 67,
       "date": "2026-10-15",
-      "source": "BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vek5OeUlHZ0lVWVNQN1ZHamJhN0RKUUJuOGN0RDFidThPX3lDTjVNRkFwa0VMaFhycUNxVFlKNllzclAzUlZoVVZJSmY0QzBpeFcyVmozQnltU3ZSbXRkSkpnTHhTbC1CaDlhN1lNS3FuUWhfcnc?oc=5"
+      "source": "semivision",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsNTBhdEpsQ3V2ZWoxSnJLanlKbUd2ZE9nMGRHZzlPTlg5M2dyVHc0UHYzMk9fbWZJV2FDaTcybUZMX285Y3RUOUNiNmxWWl9uN3hVbmVjb0NnR093bmQ2eHJ6OHJRUmppT0ktcXpRY3FmaUh2emExamhOczU1QQ?oc=5"
     },
     {
       "customer": "GlobalFoundries",
@@ -451,32 +421,22 @@
     {
       "customer": "GlobalFoundries",
       "topic": "Fab announcements",
+      "title": "GlobalFoundries Eyes $21B Japan-Backed New York Fab Expansion - TradingView",
+      "summary": "TradingView reports that GlobalFoundries Eyes $21B Japan-Backed New York Fab Expansion. GlobalFoundries: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
+      "impact_score": 66,
+      "date": "2026-10-14",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFg5OWN6S3NXc2U5b1dzeWEweWZnQW1ZaFBGS3hJYm5UZEN3ZVZXMHhlSnZQczlVZ3licTFKV2oya0lxQmVSRlpDcExaNmtqdkhkSWdzRUtYWlBwektuTGlZYWpYa3VGLVlqeWFVeUZrVXgzWk9EUU43MHdWelVqRFc1bTVuZU5xODF0OEVBa09kYjVNVW1oX2NrbEVkZFpTSFRHU1VDUUYwZXlPcVlaN1M3SDNWQ2hlQTNhWQ?oc=5"
+    },
+    {
+      "customer": "GlobalFoundries",
+      "topic": "Fab announcements",
       "title": "GlobalFoundries Tops Out Dresden Fab Expansion and Unveils FDX Fusion - Unite.AI",
       "summary": "Unite.AI reports that GlobalFoundries Tops Out Dresden Fab Expansion and Unveils FDX Fusion. GlobalFoundries: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
       "impact_score": 66,
       "date": "2026-10-09",
       "source": "Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYUY0djNCaE9pNExyWHZLeE40dWgtd2V1bFB2dzZtTS05OG0xMXQzYTdNaW53WmhybTVxRjExVDU1Z0tqdE9DTDBiUVFHRGpKaUh1a3pRbDRBeFBWTkVORXpZaXhzcEdqdHktUTF5bHlDLXl4YkVGTkplM0VPajg5amNpSWZPdUFER3IwWHFHbW5UdjNBblE?oc=5"
-    },
-    {
-      "customer": "GlobalFoundries",
-      "topic": "Fab announcements",
-      "title": "GlobalFoundries Eyes $21B Japan-Backed New York Fab Expansion - TradingView",
-      "summary": "TradingView reports that GlobalFoundries Eyes $21B Japan-Backed New York Fab Expansion. GlobalFoundries: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
-      "impact_score": 66,
-      "date": "2026-10-14",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjFJN1g5RGQ2QUptRHFIMmtWTGs3eFAyUmZleEQtM29pSDVyQU9TZ0l2RFBUeF9KaVdPYkNWbGVaamNBMWRYaXVMMFBSRjlUNjhrbnMzNTVxblhFYWlvdmNWSm96VVVOYlVnT0RvXzd4ZnZEZWRWY1gxY0VoaVAza3ZxN3N1dVZDVU9CQVBlU0M3NnB6MEZITVRSdTFUVHE4SzlLZDlBMmdQN1NCcy1PR0kwdHJzRFJmNWtvOXlR?oc=5"
-    },
-    {
-      "customer": "UMC",
-      "topic": "CapEx changes",
-      "title": "United Microelectronics Corp Stock (UMC) Moved Down by 9.95% on Oct 5: Facts Behind the Movement - TradingKey",
-      "summary": "TradingKey reports that United Microelectronics Corp Stock (UMC) Moved Down by 9.95% on Oct 5: Facts Behind the Movement. UMC: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
-      "impact_score": 66,
-      "date": "2026-10-05",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeHpZYmt2OTdnbkh5TlRJaXZYODdjc3h0S1d6dUNjRWFBcWczSXNFYlFVS0lObzNMaXBpQ2NOWHotdFVBTmxIQXZoSUxuTmg2dHZvSHRRQ29DUUZBRnBTblFVRno0elZ0di13Y2FKbGlCY3JRdmY3TG4tVFVQYnpVYU1PcHU2NkM5UlE?oc=5"
     },
     {
       "customer": "Tower Semiconductor",
@@ -491,12 +451,12 @@
     {
       "customer": "SK hynix",
       "topic": "CapEx changes",
-      "title": "SK hynix (KOSE:A000660) Stock Forecast & Analyst Predictions - Simply Wall Street",
-      "summary": "Simply Wall Street reports that SK hynix (KOSE:A000660) Stock Forecast & Analyst Predictions. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
+      "title": "SK hynix (KOSE:A000660) And The AI Memory Case After A Sharp Pullback - Simply Wall Street",
+      "summary": "Simply Wall Street reports that SK hynix (KOSE:A000660) And The AI Memory Case After A Sharp Pullback. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool allocation.",
       "impact_score": 66,
-      "date": "2026-10-08",
+      "date": "2026-10-17",
       "source": "Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTAtNWFkX1gycFV0QVo0U0FLRzh6a2Q5M0pZcDA2eWFWRGlyc0U2Qm1YaDAyVHFjdm16UWNhckVyN1o5QUNsVWRxUmd2RUJLeGVuQjZmUnl6T1Nnd2Y1MjFNYktKYjhDR1labloxQkx5RF96YkRBX016dnlnMGJlY1lXSEduLW5mSHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEViSWZrLVpvY211MTRKSkE2U0tFQ3ZBT0FESkxUVG9QNkh6VDRFNFcyb1Fnb2RaS0dhcmZMRGhMb1RFaGYxYkpwVGpkZEFxM19jbUlqYXJ3SU9SMVR3Y1N3ZUlNVVNLSTdIZklLTjVtZE5PcEpPZDJFd2lZMXNSekloek56N1pOcFdsVS1QajZTOHFXTTV2bDU4bDZfQmtJRFlSazFOOV9rYTI3S2pDRUZiaTQzd1ZuaXhtaHNBVENFUkRKS1g1UzFfREpJUGs0d2ZybWRsaETSAd4BQVVfeXFMT1VnRTd0azhncEhfVmlJVjJoQWFIbjdIMms2RS1VZ2NTUTYxX05HUkVjMy1xRkl5MEltbjFKUXJNbks1SWFXSHBSalZvWUJGU1IyYzJVUHZvRnN6X3FjSi1WSkM4eE5maldvbjZaMzA5M0ZwUmF3TjFuQUMwVGxYcllQU1ZGblN1TVZ2NnY2NXZveTg3em5xN0lVNFFiYWpIaFRyZndlaDRsZlpPdmZobHd4R1dqZ2c4LWxnQ1phcEFlbGxuYVdhU3lfQU1QdnpoYUpqQXVRWTY4VXJWdXFB?oc=5"
     },
     {
       "customer": "Texas Instruments",
@@ -506,7 +466,7 @@
       "impact_score": 66,
       "date": "2026-10-13",
       "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0FJTzkwSlp2MkNROEZ5WkxxYXNDMGpRRWNoYkdHX0ttVF9idmZZSGpyaGNkdUstLWdhbXpMUzhDSEc0M2xRdUhpaGRyXzdyUzNZZnRYNTVxYWMtYkRzeFJ6XzN1YXBqczVvS2IxdlZNZlJqZWJ1QXF4eEFhYzhCZWtpTm9UQzBXOUpUR0dTWVpDbmh2NVpzckwzUGY4R2t1TlRVSExTbThqdUJjemM0bl9YWk40bUh3Q2I0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1JCb3lMM1ZSTzh2MVJRNnFrRElvTTlyc2x6bHN1bG9qS0l2MjFjNnVqeFVqYldQcnlsUkxOUTlMb2NDWmlVcWtjOHlXUU1VRlF3VVctakhSYlBDYXdLb1doN2FScmJmQU9VdFl3OEJVZUYyXzI1RFhkV1Etb1hNZjN3bTU0ODNIUXJIc3huQ0tON1JacFkybFN5V3pfempUQkVsMU9PcjlNZXJFaXo0MnRqeHV6SmJTUjhzRg?oc=5"
     },
     {
       "customer": "Texas Instruments",
@@ -529,24 +489,24 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGVTTFpva1FJenZ4WkZWQ3JRNTY5MjIzYUVzbFg3Q3ZpWWQwYUZkZ1Q0blhCSExucE11aTZPYXR1VTVSNkZyaWdCZENtNXJrVEFGQld0bG5Vc29wdU55TVZ3MHZLaEVEX1E2c2FEeFJZS2kzVVNrazdZV29hWmRSY29ObE9HdjFqQ2xEN0pjcm5yV0pFdF9OYzRIWWxlbDhvTGlNdmtJT1otaFp6?oc=5"
     },
     {
-      "customer": "Infineon",
-      "topic": "Automotive and edge silicon",
-      "title": "Infineon Signs 200-Millimeter Silicon Carbide Wafer Supply Agreement With Wolfspeed to Further Strengthen Supply Chain Resilience - ELE Times",
-      "summary": "ELE Times reports that Infineon Signs 200-Millimeter Silicon Carbide Wafer Supply Agreement With Wolfspeed to Further Strengthen Supply Chain Resilience. Infineon: automotive and power-semiconductor demand can influence specialty fab loading and mature-node etch utilization.",
-      "impact_score": 62,
-      "date": "2026-10-16",
-      "source": "ELE Times",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNGxRZUJ5bHZXdWhWbzRFcDd5elFvekIxdnJzeFVLVWhXQ3J5QWJORFVTRmcyOHpDVW5KTTlybEdqaE9YTDFYdnRLT2R4Q3Jxbkpic0pPSkZ0OVRfanVYNWtZTHRVV3FfeVlZUTg0ajJEY3dRSW01WHZTYm96LWtiRm95MVphc2JoeHd3LWh2VFdPTFljR1EzM1VIZTVxMkhrb0F3a2p3T091aTQ0Zk1lQ1VCbjJGZEFuMU9EeHpTY3dnVzhoeGpxQUNmX1BOdGR4MW1XZHFzYndKb3Y1SHNicE1OSF9zNVhH?oc=5"
+      "customer": "Samsung Foundry",
+      "topic": "Foundry customer wins",
+      "title": "Samsung Outsources Nvidia AI Memory Base Dies to TSMC as Foundry Yields Fall Short - Tech Times",
+      "summary": "Tech Times reports that Samsung Outsources Nvidia AI Memory Base Dies to TSMC as Foundry Yields Fall Short. Samsung Foundry: fab and capacity signals should be checked for ramp timing, layer complexity, and tool pull-ins.",
+      "impact_score": 63,
+      "date": "2026-10-19",
+      "source": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGNaNVZwOFkwdlNrdXEyQlhiYWEwYXFrZ2FjRi1zV0llNmMzWlJmbWNjWndZS1NmOHdHQXVuaUttd2RucU5aT0NTMTUxQXRnT3NJdzRwX294VGo2QkJRamNqNVZWc1NJZ1JLcDltaHI4bWVWYk5nREJ4dWZsS1BBLTJwSmx6bDJKZ0FvVmJYR3QwckxTUmxvZEF4UXVJOFNVR2stUGhXdFZyelhWWGlSLUxRYUhnVE81WDF2bHd1N0xLRkVmcnNoQWltRQ?oc=5"
     },
     {
       "customer": "Infineon",
       "topic": "Automotive and edge silicon",
-      "title": "Infineon secures 200mm SiC wafer supply deal with Wolfspeed ... - eeNews Europe",
-      "summary": "eeNews Europe reports that Infineon secures 200mm SiC wafer supply deal with Wolfspeed.... Infineon: automotive and power-semiconductor demand can influence specialty fab loading and mature-node etch utilization.",
+      "title": "Infineon, Wolfspeed Sign Multi-Year 200mm SiC Wafer Supply - Bisinfotech",
+      "summary": "Bisinfotech reports that Infineon, Wolfspeed Sign Multi-Year 200mm SiC Wafer Supply. Infineon: automotive and power-semiconductor demand can influence specialty fab loading and mature-node etch utilization.",
       "impact_score": 55,
       "date": "2026-10-16",
-      "source": "eeNews Europe",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1praVVEbUMyMHZycFltVnd3NEFUaTVzMXczN1VBcGtETlY3dHVvMk94ZWxmdW9iRVZ5QWF1T0dGd3Nzc1o3RVpUSlNVcFZ1VWNiVVNvbWJ5ZE4wckhpSE5SZUhTUnF6b2JqVHF2clQ2UGp3dEV4Tm5PM3ZwZUcxWGRFa3pBU0pCQmpwR1NWb2RveDIxeUhZ?oc=5"
+      "source": "Bisinfotech",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcS0ySEFTQXAyUHJ0S29jNm0zQ21EMXN1UjJKNHJCcUM3MG1tR1hXTWIyOWx3SDg0VFk4bjNsbHVmQTNaZlp5ZS01dzN3MlpaeWNqbVY2OUtCZjk1cGJUbkFNVDFiQ1B2b3l3aXJwdkdBRTI1ZVBybHg2TFZvZEJyRkRROUNOUlJYUExn?oc=5"
     }
   ]
 }
