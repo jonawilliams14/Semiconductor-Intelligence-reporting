@@ -1,6 +1,6 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-10-20T17:57:16.779914+00:00
+Generated: 2026-10-21T17:59:47.252990+00:00
 
 Tracked entities: 53
 
@@ -10,7 +10,7 @@ Tracked entities: 53
 - **Microsoft Maia 300 Puts 288GB of HBM4 at 18TB/s on an N2P Chiplet and 96 Accelerators in a 167kW Rack - StorageReview.com** - Microsoft Maia: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
 - **Samsung's 4nm Capacity Fully Booked, 5nm Winning Orders, but 2nm Flagship Customer Contract Stalls - BigGo Finance** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **TSMC Stock Forecast: Record Profit and 2nm Ramp Test $430 Support - TradingKey** - TSMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **NVIDIA May Use Intel's Foveros for Chip Packaging From Late 2028, Analyst Says - XenoSpectrum** - Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.
+- **GlobalFoundries Lands $2 Billion TSMC Order, Establishing First US CoWoS Interposer Capacity - BigGo Finance** - TSMC: advanced packaging expansion can reshape adjacent process demand and customer priority.
 
 ## Ranked signals
 
@@ -53,15 +53,15 @@ roadmap progress points to leading-edge process complexity where conductor etch 
 
 Source: TradingKey | Date: 2026-10-15
 
-### 89 - Intel Foundry - Advanced packaging
+### 89 - TSMC - Advanced packaging
 
-[NVIDIA May Use Intel's Foveros for Chip Packaging From Late 2028, Analyst Says - XenoSpectrum](https://news.google.com/rss/articles/CBMifkFVX3lxTE82SldkUjk4ZS1xWFk4WEtpbVp4OGNlSW0zcFpGa29FZTU5MlVQSnRtUmNpclNmUTJxYkFXMEFocnVLS2pVc245a25tb3EzWFNHaFBpbG9DeFFWblBJWmlxVWJoV3pMSXIxazNmN2VMalEzbVBBWDYtVUdFc1RTdw?oc=5)
+[GlobalFoundries Lands $2 Billion TSMC Order, Establishing First US CoWoS Interposer Capacity - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMnFPSHVfejZTSVZXZElyX0QtZWJaM2Q3S2F6RDFhR3ltQ0hUSnJxclI5STVxNFpVNU5CcFhYN2pxZ1dWUHNIQ0RINzRBYzBucUZzRnpqTzRxdjJiT18yNlI2Rl9RVmNSWW5YU2xEVmZPSUIyNVE?oc=5)
 
-XenoSpectrum reports that NVIDIA May Use Intel's Foveros for Chip Packaging From Late 2028,
-Analyst Says. Intel Foundry: advanced packaging expansion can reshape adjacent process demand
-and customer priority.
+BigGo Finance reports that GlobalFoundries Lands $2 Billion TSMC Order, Establishing First US
+CoWoS Interposer Capacity. TSMC: advanced packaging expansion can reshape adjacent process
+demand and customer priority.
 
-Source: XenoSpectrum | Date: 2026-10-09
+Source: BigGo Finance | Date: 2026-10-10
 
 ### 86 - Microsoft Maia - AI accelerator demand
 
@@ -90,16 +90,6 @@ Semiecosystem reports that TSMC Posts Strong Results, Plans 3nm/2nm Expansion. T
 progress points to leading-edge process complexity where conductor etch timing matters.
 
 Source: Semiecosystem | Date: 2026-10-15
-
-### 79 - TSMC - Advanced packaging
-
-[GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US - Five-year agreement valued at $2 billion - Tom's Hardware](https://news.google.com/rss/articles/CBMigwJBVV95cUxOQlpVMmk3OHdIMmdkQ1ZNUkhRbDN0cDNCVlpZSG5wcS1UWFpxM0hrN3hsLUFfOENTLUkyTUxHOFpMemVxS3V0Yllfa2ttN0RVMjhXaGNYdlpwWS05UGNyTUtnTmlxYnFaTW1ZR19DZXFTazBLeUtDVkN0VlE5bUNFWldjeF9MQTNWT1VsSm0zS1FmV0hTVUFnLU1jWEdEcXlRQU1UZ3RieFVSSUlPaUJtZVlqRVozWXRoNU5XV1czdk5PNGdUSGxVZ2tRakZTbFA3a2JhUUJpY3JUR1poR25UOHRONHlzeXF1bmtpeXB3aXp0azc2aVA3TlRBTnROT1I4b2dz?oc=5)
-
-Tom's Hardware reports that GlobalFoundries to produce silicon interposers for TSMC's CoWoS in
-the US - Five-year agreement valued at $2 billion. TSMC: advanced packaging expansion can
-reshape adjacent process demand and customer priority.
-
-Source: Tom's Hardware | Date: 2026-10-08
 
 ### 79 - Samsung Foundry - Foundry customer wins
 
@@ -132,6 +122,16 @@ budgets, timing, and tool allocation.
 
 Source: Yahoo Finance | Date: 2026-10-09
 
+### 75 - Intel Foundry - Advanced packaging
+
+[AI Packaging: Why GlobalFoundries, Intel, and Corning Matter - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter](https://news.google.com/rss/articles/CBMif0FVX3lxTFBqZ1hQSmdZcE93bnBUSV91UExIOHFDSHo0YmhSMGZxUTVfYlRoMFplVXJrWlBRc283cHRGQjZyRGd4bExUaWJxa3AtQnNkRlktNDByOFJhRkw1dldNbUFqd01IOWl1dG81ZG8zX2ZSd3dEa3l5U0ZoOUlMMHlLRkE?oc=5)
+
+Dr. Robert Castellano's Semiconductor Deep Dive Newsletter reports that AI Packaging: Why
+GlobalFoundries, Intel, and Corning Matter. Intel Foundry: advanced packaging expansion can
+reshape adjacent process demand and customer priority.
+
+Source: Dr. Robert Castellano's Semiconductor Deep Dive Newsletter | Date: 2026-10-21
+
 ### 73 - Samsung Electronics - NAND / DRAM pricing
 
 [Samsung Electronics (KOSE:A005930) Showcased AI Memory And Storage At GMIF - Simply Wall Street](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV1B2azlkRF9XTGxnNHp4M29yX1h3VVFVQThFbjN1MzlXSWJNV0pCcVdsMzZPVENVUUJjcnZCMWZpQmFrUmcyOWZHeE5jU2wxOWpCRnhRcFVQOFhvSHdMbmZiSThiczNqR3JUYzRnbVlqWHctdlJlQU1tZ2NtaC1GTTAtcDk5R0tXdUNhelRDNER6UkgtUjVWUmt5djZ5dUdHbDBhYXJ3ZDZWMlczSE5YVU9iOTU3NTBHU3dZX2d6ZnNwS1l1YWwweTVYbXlWbkIwak5hdFdTQ1pad9IB3wFBVV95cUxOTi0xZTZvTndpN2oxTXMxWlROV21TRGRON3pzNDZnU1JMcVNKc19tYlc2MHQ1WmVSelF3bzU4bExSWWhwODFycE10Ry1nZVQzTVRIMml3SEd4SVZteUltSHlyeHZIT2lKaGpjTVJ4dV9ENnJ4TlhxVXNGRDNib1VNLWJsQ01TYXBPeHZrelMtc0F4dk1acm5RM1hjdEp5WmE1emNQNHdNREY3YW04SVhnTHh2OVF6YmxKVDN0aV82YzJpQ1lIMEpFQXFnUFN3cm9mYWZKdzNLTExfRUNqcVZv?oc=5)
@@ -144,16 +144,6 @@ Source: Simply Wall Street | Date: 2026-10-19
 
 ### 73 - SK hynix - HBM demand
 
-[SK hynix looks beyond HBM to tackle AI memory bottlenecks - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LSjlwUDB1SGtyV2w3ZDI0cGJySzhMZGRpNXpPT2pJcjYtMWhvY0FQRlhiMVRnRmxKMmJnRFA1eGNXNTRvNlBvQlRDT0NWN1ByYk4xTzNrYw?oc=5)
-
-The Korea Herald reports that SK hynix looks beyond HBM to tackle AI memory bottlenecks. SK
-hynix: HBM demand can pull advanced DRAM capacity and packaging intensity forward, lifting
-conductor etch relevance.
-
-Source: The Korea Herald | Date: 2026-10-14
-
-### 73 - SK hynix - HBM demand
-
 [SK hynix HBM Technology and AI Computing Growth - Spherical Insights](https://news.google.com/rss/articles/CBMie0FVX3lxTE1xZnkyRl94X25tSDNZMjVZTGg2cEdldGU4SkZXUTJhcHZNMmlkWDJiVWVFUHlKMW5fcDFBTzlITTBXeElFZm0wWTRtMTd0ZkU4V29aTUxsbjNiUmhQajIxcUNYRWUyZGZpZnl5dERkZHVSNGdqYVJiNkZpbw?oc=5)
 
 Spherical Insights reports that SK hynix HBM Technology and AI Computing Growth. SK hynix: HBM
@@ -161,6 +151,16 @@ demand can pull advanced DRAM capacity and packaging intensity forward, lifting 
 relevance.
 
 Source: Spherical Insights | Date: 2026-10-18
+
+### 73 - SK hynix - HBM demand
+
+[Onto Innovation Receives Best Partner Award from SK hynix for Hidden Defect Prevention in High Bandwidth Memory Production - Business Wire](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYjBVUTVtb3lKSkRyVnRyUS1mc1NmWHJrMUVOZDc4anZ3R3BEUEloTzU1SWRsTHNtbnlyS00xRUlzU2ZKdnRLaVh3b2RWaWYwSVM3elpnYVJwR2VTVFNMTWRidEduRy15T2hqOXBHUjRmaW5HNGFISkhnLTVNRzFCdWNyWVZHZVlmankwcHdfUU4xaXpqWFpiT1VZelNKTXlWcDFUTmMtLUZSMWlHOGtlZGM5a3EzZWhldEF5N2E1cnhNb0h2cXlwc0lqNFpwWlI2MjFJZUlnMWNKWk9Uc2pHNVUwcW9FeGozMUhQd0Y4UjFxNWdvX2I4REdoTXRlNHhOMmUtSU1DYjhMQ00?oc=5)
+
+Business Wire reports that Onto Innovation Receives Best Partner Award from SK hynix for Hidden
+Defect Prevention in High Bandwidth Memory Production. SK hynix: HBM demand can pull advanced
+DRAM capacity and packaging intensity forward, lifting conductor etch relevance.
+
+Source: Business Wire | Date: 2026-10-12
 
 ### 73 - Kioxia - NAND / DRAM pricing
 
@@ -172,15 +172,15 @@ return.
 
 Source: Business Wire | Date: 2026-10-09
 
-### 73 - Western Digital - NAND / DRAM pricing
+### 73 - Kioxia - NAND / DRAM pricing
 
-[Western Digital (NasdaqGS:WDC) Stock Forecast & Analyst Predictions - Simply Wall Street](https://news.google.com/rss/articles/CBMiekFVX3lxTFByNGg3VU5zR0N6ZmtERFFGZFJONXNBM2pQOVM1aE1rMWhWV2VZMDk5bzJhMjBiUHpxZGNtZjg4dnY3NDJ6QkxQeDMyUHJGakVzbGpXam9XRElLMkJZdm56MmhWVm02QkI3WWE5Um9INjhKdzZMakVUdEJB?oc=5)
+[NAND Supercycle Reshapes Landscape: Kioxia Falls Out of Top Four, SanDisk's High-Margin Sustainability Sparks Debate - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9ub1lpX2hpdkt3TWtYWkJodXc5MVlRNlVrWjlwTy0xcmdpa1hYdjRXbFQ5SnFlMnBiTl9lQk4wWWpfY0NjNEthWGtqN0s2ajU3d2hETnoxcHpDZllLamM2R0NtTWlMSjZtenpMQURsWTBiVm5rUGc?oc=5)
 
-Simply Wall Street reports that Western Digital (NasdaqGS:WDC) Stock Forecast & Analyst
-Predictions. Western Digital: memory price and utilization momentum help estimate when deferred
-etch demand may return.
+BigGo Finance reports that NAND Supercycle Reshapes Landscape: Kioxia Falls Out of Top Four,
+SanDisk's High-Margin Sustainability Sparks Debate. Kioxia: memory price and utilization
+momentum help estimate when deferred etch demand may return.
 
-Source: Simply Wall Street | Date: 2026-10-16
+Source: BigGo Finance | Date: 2026-10-08
 
 ### 72 - Cerebras - AI accelerator demand
 
@@ -191,6 +191,16 @@ AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etc
 foundry demand.
 
 Source: Longbridge | Date: 2026-10-09
+
+### 70 - TSMC - Fab announcements
+
+[TSMC Kumamoto 3nm Fab Approved, but Japan Is Trading Volume for Advanced Chips - remio](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTTZhNjUtZXQzRlhFcTVxcEZKQzFIdUZtMS0tRFZvbWFjR1hWRTh0TlJMUXlKeE1OZUxhNFZhRVVrcE5MLXkwRTgxZ3FCbnpRZHE3Q3RlVjRuVlE1WEdWbmhCaWFlckpKTXlyNl9oZ3ZkT2owNEg0TXY2cFJtZVVNTWNaUDkyQVlXaGNEWkhDZmdURms2LW9DU25lQlhodW96aVVwWTVn?oc=5)
+
+remio reports that TSMC Kumamoto 3nm Fab Approved, but Japan Is Trading Volume for Advanced
+Chips. TSMC: EDA/IP activity is an upstream signal for design starts that can become future
+foundry and etch demand.
+
+Source: remio | Date: 2026-10-21
 
 ### 70 - SK hynix - CapEx changes
 
@@ -213,33 +223,23 @@ Source: The Official Microsoft Blog | Date: 2026-10-12
 
 ### 68 - Cerebras - AI accelerator demand
 
-[Cerebras System: Beaten To A Pulp On Irrational Fears (Rating Upgrade) (NASDAQ:CBRS) - Seeking Alpha](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVzRnUlNYUVFybGtiOG5EMkRlY1pKT2ROTTJkMlByUnRLc3FoM2wtcHVCTUV2a3VuS2hhbWxPOVM2bUNnVzlwQ2RNbmlaRnhPX0FTdXNudURtOVVFTGJMUW5WSnJLdWw3QWF2QTh5WWIyUVZPYkw5WThLWVREOHpvWHFSMTBhY3pyaFlUNlRFNXdXNFRxUFlCbG9aZUxtZ1hLbGtMclBWYXM0a2hsMXQwSVZUeTBPbGFKeXRWMTUweFE1TnRpbzZyQ1dHci1rVW5G?oc=5)
+[Cerebras: AI Inferencing Premium Already Baked-In (NASDAQ:CBRS) - Seeking Alpha](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOENKbFhBeXI2YnNIbXRVd1FJZF85cXowSnJJU1NvWmZQUWZJZjAtMUJnelU1UkF1Mk9FWVFvMmt0cWhYY0lXMEMxRjRZblNmY21jRHY1anZqSW9xMmFabVg5MXhXdF8wd2VLYW9UNFNVSjZ0V1FicnloNWVhcTlNYlZuV0pKMkpHaEJXQWtLcU55WUE?oc=5)
 
-Seeking Alpha reports that Cerebras System: Beaten To A Pulp On Irrational Fears (Rating
-Upgrade) (NASDAQ:CBRS). Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM
-constraints and etch-intensive foundry demand.
+Seeking Alpha reports that Cerebras: AI Inferencing Premium Already Baked-In (NASDAQ:CBRS).
+Cerebras: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-
+intensive foundry demand.
 
-Source: Seeking Alpha | Date: 2026-10-18
-
-### 68 - Cerebras - AI accelerator demand
-
-[Cerebras Systems (Nasdaq:CBRS) - Stock Analysis - Simply Wall Street](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkNGbWFzTXU5Zi1IMjNOVE9zX0xZcVZFVGNQbnVxYi1oMjdESXZlUV8zQ2xWUGVSX1h1WGZMS2NoVzdmdHlEc1NzVzdHMG11dkJNZVI1RVRuSWhHUEpCbWhVNEZCMGxpZWlrWURKYnpEM2FEYmNWVUx2bFV0YjBvbg?oc=5)
-
-Simply Wall Street reports that Cerebras Systems (Nasdaq:CBRS) - Stock Analysis. Cerebras: AI
-accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry
-demand.
-
-Source: Simply Wall Street | Date: 2026-10-20
+Source: Seeking Alpha | Date: 2026-10-10
 
 ### 68 - Credo Technology - AI accelerator demand
 
-[Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5)
+[Credo Technology Group Holding (Nasdaq:CRDO) - Stock Analysis - Simply Wall Street](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0IwWDZ0ZGpmM0h3S24yZ0tsQkVrcUFCWDlGckJtQlk5ajJhWkNxckNVY2EtUXByLS1xZk5DMkprcEw5Qkt6MTBYNVBaQXJxdWplVjlfaVMwSTBmYk5lR1FMaC1iTTV1aDZDUUJJMEtZUUhYTzVLQXZpc3JuS1lkczBnX2JPUXNvU25JQjdZd3FIVW8?oc=5)
 
-Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group
-Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading
-indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
+Simply Wall Street reports that Credo Technology Group Holding (Nasdaq:CRDO) - Stock Analysis.
+Credo Technology: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and
+etch-intensive foundry demand.
 
-Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-10-16
+Source: Simply Wall Street | Date: 2026-10-18
 
 ### 67 - TSMC - Advanced packaging
 
@@ -250,26 +250,6 @@ Transformation of the AI Semiconductor Industry. TSMC: advanced packaging expans
 adjacent process demand and customer priority.
 
 Source: semivision | Date: 2026-10-15
-
-### 67 - Samsung Foundry - Foundry customer wins
-
-[Gaonchips to Develop AI Chip for Next-Generation Drones Using Samsung 8nm Process - THE ELEC, Korea Electronics Industry Media](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zNkZCY1JHZGUyalIzR2YxWk42b0FFTE9WMU5YWVhYVDdsV1JVeENibGEzSEFmbnlleVVuZldsZFVROW1pM3BNcWdMN01kdXZaV1RmNjJ6ZEx3R2syS0FTMEt6bWl5Nmc?oc=5)
-
-THE ELEC, Korea Electronics Industry Media reports that Gaonchips to Develop AI Chip for Next-
-Generation Drones Using Samsung 8nm Process. Samsung Foundry: EDA/IP activity is an upstream
-signal for design starts that can become future foundry and etch demand.
-
-Source: THE ELEC, Korea Electronics Industry Media | Date: 2026-10-20
-
-### 66 - TSMC - Fab announcements
-
-[TSMC Q3 Net Profit Soars 68.7%; Q4 Revenue Guidance Set at $54.3 Billion - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE1vek5OeUlHZ0lVWVNQN1ZHamJhN0RKUUJuOGN0RDFidThPX3lDTjVNRkFwa0VMaFhycUNxVFlKNllzclAzUlZoVVZJSmY0QzBpeFcyVmozQnltU3ZSbXRkSkpnTHhTbC1CaDlhN1lNS3FuUWhfcnc?oc=5)
-
-BigGo Finance reports that TSMC Q3 Net Profit Soars 68.7%; Q4 Revenue Guidance Set at $54.3
-Billion. TSMC: fab and capacity signals should be checked for ramp timing, layer complexity, and
-tool pull-ins.
-
-Source: BigGo Finance | Date: 2026-10-15
 
 ### 66 - GlobalFoundries - Fab announcements
 
@@ -319,7 +299,7 @@ Simply Wall Street reports that SK hynix (KOSE:A000660) And The AI Memory Case A
 Pullback. SK hynix: CapEx language is a direct read-through to WFE budgets, timing, and tool
 allocation.
 
-Source: Simply Wall Street | Date: 2026-10-17
+Source: Simply Wall Street | Date: 2026-10-18
 
 ### 66 - SK hynix - CapEx changes
 
@@ -340,16 +320,6 @@ tool pull-ins.
 
 Source: TradingView | Date: 2026-10-13
 
-### 66 - Texas Instruments - Fab announcements
-
-[Texas Instruments Inc Stock (TXN) Opened Down by 3.14% on Oct 7: Facts Behind the Movement - TradingKey](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXNqXzc2UlRDRUtIdU5ZUmxuZlItRWE2YkZqU0lLZXNjWUFtQUhLbllPZzN2d1YyTldMVmlDSzR2dmR6X3V4Uzc4ZlJjODdHZzRaNWJ6MjQwcW9YYlc4ODlGUFFTQ24yWDNrZ3dSRHJ0YUlIdUxjVC1QUlhtZmE2SXRqdjZJb2tNOXc?oc=5)
-
-TradingKey reports that Texas Instruments Inc Stock (TXN) Opened Down by 3.14% on Oct 7: Facts
-Behind the Movement. Texas Instruments: fab and capacity signals should be checked for ramp
-timing, layer complexity, and tool pull-ins.
-
-Source: TradingKey | Date: 2026-10-07
-
 ### 64 - Broadcom - ASIC and custom silicon
 
 [Broadcom: Growth Reliance On OpenAI And Anthropic Becomes Concerning (NASDAQ:AVGO) - Seeking Alpha](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGVTTFpva1FJenZ4WkZWQ3JRNTY5MjIzYUVzbFg3Q3ZpWWQwYUZkZ1Q0blhCSExucE11aTZPYXR1VTVSNkZyaWdCZENtNXJrVEFGQld0bG5Vc29wdU55TVZ3MHZLaEVEX1E2c2FEeFJZS2kzVVNrazdZV29hWmRSY29ObE9HdjFqQ2xEN0pjcm5yV0pFdF9OYzRIWWxlbDhvTGlNdmtJT1otaFp6?oc=5)
@@ -368,14 +338,14 @@ ELE Times reports that Infineon Signs 200-Millimeter Silicon Carbide Wafer Suppl
 Wolfspeed to Further Strengthen Supply Chain Resilience. Infineon: automotive and power-
 semiconductor demand can influence specialty fab loading and mature-node etch utilization.
 
-Source: ELE Times | Date: 2026-10-17
+Source: ELE Times | Date: 2026-10-16
 
 ### 58 - Siemens EDA - EDA / IP design starts
 
-[Siemens to acquire Defacto Technologies for automated SoC design - scanx.trade](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUEFEdnBHbEdrLUh0bjU4Ul9ZNDNWY1ZsbVktMUpwdlZHb2N1TVJEa085VFd2Z1otLWtPTW95aWtiVW1nZ3VQTmZJdEUwT2VackRBZVl3RjNROEhsLUdIT3dpazhBeVAtaU1hWFlqMTFiN2tXcFJjWW1BZnVvTUpxRS16bFV4UHNPQ29Qb1BHNVlNaGV1M3dHVHNTNkRBcGNDb0hHQ2diZ2p5R2tKMVkwTjdUb1hWWTg?oc=5)
+[Siemens Adds Self-Verification for Long-Running EDA Agents - www.embedded.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTy01UmNwS3dUR1BydE9KYV9jWmZibTNVSnNuNHQwMWZXeXlhVEh2dkEzR2luOEpjVWx4NWp0RmZCcjJRME9oQ0UwOWM4Qkx1ZXpfT2FUdDZiSWZUd3ppQUNQRkktdGFENVpHTHljNmdBTnFiRFY1SUJ0Y2lnNWJnS3Vlc0NUTXdBYVkw?oc=5)
 
-scanx.trade reports that Siemens to acquire Defacto Technologies for automated SoC design.
+www.embedded.com reports that Siemens Adds Self-Verification for Long-Running EDA Agents.
 Siemens EDA: EDA/IP activity is an upstream signal for design starts that can become future
 foundry and etch demand.
 
-Source: scanx.trade | Date: 2026-10-17
+Source: www.embedded.com | Date: 2026-10-21
