@@ -1,28 +1,38 @@
 # Semiconductor Intelligence Report
 
-Generated: 2026-11-18T21:22:36.676873+00:00
+Generated: 2026-11-19T21:27:05.094226+00:00
 
 Tracked entities: 53
 
 ## What matters to conductor etch this week
 
-- **Intel's Biggest Foundry Bet Is Still On The Cards With 14A PDK 0.9 Now Available To Customers, & PDK 1.0 Close By For High-Volume Readiness - Wccftech** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Intel 18A yields hit 70% as company signs Microsoft as EMIB customer - the first company to publicly commit to Intel's new packaging technology - Tom's Hardware** - Intel Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Morgan Stanley Sets TSMC Target Price at NT$3,088, Bullish on 2nm Capacity Doubling and 42% Implied Upside - BigGo Finance** - TSMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 - **UMC announces new 22nm wafer fab in Singapore - Singapore Economic Development Board (EDB)** - UMC: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
+- **Microsoft Will Use Intel EMIB Packaging for Azure Silicon, but Release Omits Chip and Date - Tech Times** - Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.
 - **Microsoft to Use Intel's EMIB Advanced Packaging Technology - TechPowerUp** - Intel Foundry: advanced packaging expansion can reshape adjacent process demand and customer priority.
-- **New AI chip made using Samsung's 2nm tech uses just 5 watts of power - SamMobile** - Samsung Foundry: roadmap progress points to leading-edge process complexity where conductor etch timing matters.
-- **[News] Google Reportedly Eyes Direct HBM Purchases for TPUs, Reducing Broadcom-Related Costs - TrendForce** - Google TPU: AI accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
 
 ## Ranked signals
 
-### 94 - Intel Foundry - EUV roadmap
+### 99 - Intel Foundry - Advanced packaging
 
-[Intel's Biggest Foundry Bet Is Still On The Cards With 14A PDK 0.9 Now Available To Customers, & PDK 1.0 Close By For High-Volume Readiness - Wccftech](https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGk5ZG5Jd29QVG5KeC1QUC01UUhXVVI1WkZNODB2V0VUU0ZHRm9oLXRJdGJ1UEhKOXNCWldSME5uXzhOTDVlSHJjR0dqdVZEOE9fV1lFWGFPdDFfSV9WSDNTWXBXVWlDMWFRNzRUWHViYVNkcWx0bGx3c3k2Vnp3a0xuQjQwd0prV1dnLTFnQXNsRy1XMFVfNDR4aUs5ZFpr0gGmAUFVX3lxTE5RVXFQVm1ieEtjM3ZVNlpFLVlBUWZEREl4NXdTZndIaGRJUTBOT21GbXJNeFFiSDlKRHE0V3lNYzZiMTNIaXNudklUbW1waG5UcEkzdDhkc2s0d3JlU3FWY2RCRUFrVTRfMEJGeGF4M1Z0bWdsM29WbWhFdzAycUZEYmtEZUtHTGE2cVVjWEdBTl9iOE9fTG5LN25GZlJhZTMwd2E3Vmc?oc=5)
+[Intel 18A yields hit 70% as company signs Microsoft as EMIB customer - the first company to publicly commit to Intel's new packaging technology - Tom's Hardware](https://news.google.com/rss/articles/CBMirgJBVV95cUxNSnBJMnEtekQ4Q0M3YzhBYUI5Mk5rTzlydVBDeG9HX2JQYWUxYWpmOXBsX2R5OWVZYlM4bmJwUmg1RDRkX25zUWQyRVp1eHFKZEFoRER4SzBHajRyUDQyNGxuY1Zad3BoUWNNcnpRSTdHS3hIREwxRWpEbnpzcG56eDB6S2JnYWxTbThEd2VqSE1ZeTlHV284SGdYcU9zeTNiSmNQeUxGcFgzWlVOMTlsOUItclN6NDRlWjZsY1FrbEhERkZtNjZ6ME1BVnJtcXUyRmpnTzRfY1Qyb2hkUGVNVTdLNjZBeW43Uk5INjVYTFlUemtQSTY3bkg5V1FWOHFla21UVW5iMVlJNWtoZVhockFfTDdLMFBEY3NIWFhsSW5iZWRzY18yZE1zZzIxdw?oc=5)
 
-Wccftech reports that Intel's Biggest Foundry Bet Is Still On The Cards With 14A PDK 0.9 Now
-Available To Customers, & PDK 1.0 Close By For High-Volume Readiness. Intel Foundry: roadmap
-progress points to leading-edge process complexity where conductor etch timing matters.
+Tom's Hardware reports that Intel 18A yields hit 70% as company signs Microsoft as EMIB customer
+- the first company to publicly commit to Intel's new packaging technology. Intel Foundry:
+roadmap progress points to leading-edge process complexity where conductor etch timing matters.
 
-Source: Wccftech | Date: 2026-11-05
+Source: Tom's Hardware | Date: 2026-11-19
+
+### 92 - TSMC - Fab announcements
+
+[Morgan Stanley Sets TSMC Target Price at NT$3,088, Bullish on 2nm Capacity Doubling and 42% Implied Upside - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9hTVN0THY1UWVXTU5Pa2tyT29oQlRtZl8ycEExVmQxZTRCOF9nVGc2T1JGdVcwbFFZN1hmQ0dWUmUzY01wZzBUa05yd2Z3bnFLMVllb1pzSzA1cEtmaXhzSm9ZUldSNk5yV2NfdExucjJOclAxOHc?oc=5)
+
+BigGo Finance reports that Morgan Stanley Sets TSMC Target Price at NT$3,088, Bullish on 2nm
+Capacity Doubling and 42% Implied Upside. TSMC: roadmap progress points to leading-edge process
+complexity where conductor etch timing matters.
+
+Source: BigGo Finance | Date: 2026-11-19
 
 ### 91 - UMC - CapEx changes
 
@@ -33,6 +43,16 @@ Singapore. UMC: roadmap progress points to leading-edge process complexity where
 timing matters.
 
 Source: Singapore Economic Development Board (EDB) | Date: 2026-11-10
+
+### 89 - Intel Foundry - Advanced packaging
+
+[Microsoft Will Use Intel EMIB Packaging for Azure Silicon, but Release Omits Chip and Date - Tech Times](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjlwaTlXcG5KTTVuX2NWeDZJOHhJZjZpVEUtRVhkWXNsbGJrOW5lVV91bWRxSGFQcHNwMGJOdkxFajdCQzJEWW9RaTVEdjBndS10ZDRmZVRQVjB3M2hfVVNYbE45UUlBV3dpUHdyemNfLUxfcUEydzVVTW1tLVRrUzZHNVlFeTk4X21Vd0hSTnUxamtCZEhMTUlsSW05N2VDYzVuS0R3ZDBjTUhQWXlHSGduLTh6d01SeDdtOHl2UDZPMHpDYmdrYzNyblA?oc=5)
+
+Tech Times reports that Microsoft Will Use Intel EMIB Packaging for Azure Silicon, but Release
+Omits Chip and Date. Intel Foundry: advanced packaging expansion can reshape adjacent process
+demand and customer priority.
+
+Source: Tech Times | Date: 2026-11-18
 
 ### 85 - Intel Foundry - Advanced packaging
 
@@ -52,6 +72,15 @@ Samsung Foundry: roadmap progress points to leading-edge process complexity wher
 timing matters.
 
 Source: SamMobile | Date: 2026-11-10
+
+### 83 - Intel Foundry - EUV roadmap
+
+[Intel (INTC) Q1 2026 Earnings Call Transcript - Fortune](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUDZ1UVdPM3d1SGlxcHl2MWUzU2pDc0hyRHdmeFpTOEF3SkZsaUpteEszQkxjUlQ2QnFJaDJSUXBUWWZuQl9FRVNmVDZDOWJiSVhWU1EwSHBWMmdxVGRrUA?oc=5)
+
+Fortune reports that Intel (INTC) Q1 2026 Earnings Call Transcript. Intel Foundry: roadmap
+progress points to leading-edge process complexity where conductor etch timing matters.
+
+Source: Fortune | Date: 2026-11-13
 
 ### 82 - Google TPU - AI accelerator demand
 
@@ -114,6 +143,26 @@ conductor etch relevance.
 
 Source: The Korea Herald | Date: 2026-11-11
 
+### 77 - Western Digital - NAND / DRAM pricing
+
+[SanDisk and Micron Rise 4% as Anthropic's Record IPO Revives the AI Trade; Western Digital Gains 5% - 24/7 Wall St.](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLVFybjd3ZGJ4R2x2VVA0VjYtc3RFd3JCbFVWdC1QQWZRTUhyOUtTMnotbE1mTjJ0RGFMZlZvVzFySWd3T25yYnNmeFlGTWx2SGpHVW1YLXZONFhpMVAtOGYxSzktSTg4N0ZYNTduMkg0SFdMNFFCMGRrNU1FLWlJa1BMeExUc3RRaEs5bnVLallfSzhCaGdPaGxnUk9kcHpKVElINlAzQktWQUZ4Y2M0My11SGNBajc1NTU1VV9pTmpNTXphR3VMeTNWMUlXaTR4VkJDdnpn?oc=5)
+
+24/7 Wall St. reports that SanDisk and Micron Rise 4% as Anthropic's Record IPO Revives the AI
+Trade; Western Digital Gains 5%. Western Digital: memory price and utilization momentum help
+estimate when deferred etch demand may return.
+
+Source: 24/7 Wall St. | Date: 2026-11-19
+
+### 76 - SMIC - Fab announcements
+
+[SMIC: Full capacity is just the appetizer; price hikes are the main event? - Longbridge](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hbXlYeTh6R3pyZFJmbTZPMEJHOHV6UVNuMUxWbHZhTVFremp2cC1OZ0o5WHdDeWxHZDZ6MlY0dGFjUlVPZGFiek5yTmpDWXNxUWlBSElMYmk5dFk?oc=5)
+
+Longbridge reports that SMIC: Full capacity is just the appetizer; price hikes are the main
+event?. SMIC: fab and capacity signals should be checked for ramp timing, layer complexity, and
+tool pull-ins.
+
+Source: Longbridge | Date: 2026-11-12
+
 ### 75 - Samsung Foundry - Advanced packaging
 
 [[News] Samsung Reportedly Eyes Early 2027 for 3D Cube-H Advanced Packaging Development, Featuring Hybrid Bonding - TrendForce](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNejZnYXQ1MEtCYkhDT2tRSDh3R1RxWGZTcTNLZ2NWemtvRncxd0xLZG01cUNvNkJVWVRRVWE0TldmRFRVUE43eVNCQTdwY01NTU9rU05ra0Jwck9HZ0ZFU3dUTmFpQW5HOTNVS19mNURBWnNrWXY1ckJQSUp3a3BBbzRGOWFfWkEzdFcwcEQ5UVdjb1hGVGVCUC0zSXpEWFJ0enM3VTd1ckFGMTVfdVViQ0k3WFlYalBCRGJNSjlyVkdxQXlPckhPQ08wR0dlNkN1Q1NkQmd0LUpKVXZTR0t5Y3VKdERMNi16?oc=5)
@@ -134,15 +183,15 @@ priority.
 
 Source: SammyGuru | Date: 2026-11-10
 
-### 75 - SK hynix - CapEx changes
+### 73 - Samsung Electronics - NAND / DRAM pricing
 
-[South Korea's SK Hynix to Pour approximately $449 Billion Into Yongin, Completing 4 Fabs by 2033 - 12 Years Ahead of Schedule - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTFBjTUNnSmp4c0pGSUgxdXdjeWFGREpWa0dsTDhQamR6V3NkVFNVb0lVVFA3UE5NWG1aX1hocHBtWHhNdlBvdU9Za0JEdDZZS3ZiR01BVWkwNXJRT2o0emV4d1hRbXd3SzU1Z0E3aGdCMXdYc0RrdHc?oc=5)
+[Samsung Electronics (KOSE:A005930) In Focus As U.S. Pressure On Chinese Memory Grows - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTYxZ2F4eVB0clFfbWhoSHkybEppaFQyS1FCbVFCaUhWMTJmRmV2emxJOWZhLURDZDhON1BuNXdLWVNDSWxubnppZEMtYjE1LTF1YW9HQk9qV2QzazBfZVdrQUp1TnprT0t1emJ3a2xfSkZSNWNpN1R1TTlKZTZkMGF0UUlmY2dYY1lfeE9SQTJiSDdQaWFwZk1oRWxIMm5ZQmc5Qw?oc=5)
 
-BigGo Finance reports that South Korea's SK Hynix to Pour approximately $449 Billion Into
-Yongin, Completing 4 Fabs by 2033 - 12 Years Ahead of Schedule. SK hynix: CapEx language is a
-direct read-through to WFE budgets, timing, and tool allocation.
+Yahoo Finance reports that Samsung Electronics (KOSE:A005930) In Focus As U.S. Pressure On
+Chinese Memory Grows. Samsung Electronics: memory price and utilization momentum help estimate
+when deferred etch demand may return.
 
-Source: BigGo Finance | Date: 2026-11-16
+Source: Yahoo Finance | Date: 2026-11-15
 
 ### 73 - Samsung Electronics - NAND / DRAM pricing
 
@@ -204,26 +253,6 @@ and etch-intensive foundry demand.
 
 Source: BNamericas | Date: 2026-11-13
 
-### 68 - Cerebras - AI accelerator demand
-
-[Cerebras Lands A Microsoft Cloud Deal, But Power Is Tight - Finimize](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjRmNUE5VnZGRnJpUmVuYW8wNmFQQmRWamNzeDBvT0hQUVhCNzFBYWpGakJYZktKXzlvdGxEWk5nclA1WXliaTNSUi1yMlcxbE0wM0FaLVFTYjNuVEdSNm00bFpSV0JIUGRyU2FJZ3ktcmVsRndqYk5tWTlpNmdhWXlFMUhWbVhTY1h3NzZR?oc=5)
-
-Finimize reports that Cerebras Lands A Microsoft Cloud Deal, But Power Is Tight. Cerebras: AI
-accelerator momentum is a leading indicator for CoWoS/HBM constraints and etch-intensive foundry
-demand.
-
-Source: Finimize | Date: 2026-11-12
-
-### 68 - Credo Technology - AI accelerator demand
-
-[Credo Technology Group Holding Ltd - Investor Relations - Credo Technology Group Holding Ltd - Investor Relations](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAycWpxcmFHWVNOeS1scHI3Vkhidjhyb2NWZmt4NlhYWlJxNE9fSXZZbXczMTBHRGtKcEhOTTBpakxVNEZCSkpUaUU2X0d4b1kwMm80MmJwcElwQnl2MTR1Y18tdw?oc=5)
-
-Credo Technology Group Holding Ltd - Investor Relations reports that Credo Technology Group
-Holding Ltd - Investor Relations. Credo Technology: AI accelerator momentum is a leading
-indicator for CoWoS/HBM constraints and etch-intensive foundry demand.
-
-Source: Credo Technology Group Holding Ltd - Investor Relations | Date: 2026-11-13
-
 ### 66 - GlobalFoundries - Fab announcements
 
 [GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative - GlobalFoundries](https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0l1QUFlMDRjTFFwek1KLWw0WFB3VDFCVGNnQTdwZVFDendWY2Y3UE5lZWxhekpBOXI2S2E1MGJqVHV4T1FicnVBWDQ3ZUc3d0pLSHBZdVJBNjhyQXRiZ0x6RGluWVhtQWhvT0RVN0pUbTM3ck9KM3hDSXBITU1laVZTOVRfU1luVzVhODYxQ1BILVczMEUxdndTd1dZMk44SE1WT3BhUXI2Skx0blduZDZycWJOTUJkR0dRSHFrQmF2bmhsNkl6RXJhcG0?oc=5)
@@ -234,15 +263,25 @@ ramp timing, layer complexity, and tool pull-ins.
 
 Source: GlobalFoundries | Date: 2026-11-13
 
-### 66 - Vanguard International Semiconductor - Fab announcements
+### 66 - GlobalFoundries - Fab announcements
 
-[Singapore fab set to drive VIS growth as AI interposers reshape output - digitimes](https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0k3M1hYT2MxSXZ3VHFtTzBxVkdsNXNJQWdKdk9kSUk0bm5oQWdTdjlnUnFNRGhaX05YUHdEazR3V1pLdEFZeEJsTGRmQlBxYWhHTzQ3ODBTZ3BPeWZtZ0FIOFU5SnVuLVRkQjVLSnF3Y1FwcmdSWnpoRnJVUk8wVXEzeVp1N1E?oc=5)
+[GLOBALFOUNDRIES (NasdaqGS:GFS) Stock Forecast & Analyst Predictions - Simply Wall St](https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0FXYzRQQ0ZtbmV6UklBQ3R4cUtLcmQ0UU13UVhEOUpnN2pRYXU3REJIbnhJbVV1clBqUTRBVFoxci1MRDNCOXUyeHl0c21fUXZCVmFIalBqVjlGLW5jMzlGaVVWX2JFaVNZT045RG5kZjdMQmJyZUh2dm1zU0pxWURjdTlzTlU?oc=5)
 
-digitimes reports that Singapore fab set to drive VIS growth as AI interposers reshape output.
-Vanguard International Semiconductor: fab and capacity signals should be checked for ramp
-timing, layer complexity, and tool pull-ins.
+Simply Wall St reports that GLOBALFOUNDRIES (NasdaqGS:GFS) Stock Forecast & Analyst Predictions.
+GlobalFoundries: fab and capacity signals should be checked for ramp timing, layer complexity,
+and tool pull-ins.
 
-Source: digitimes | Date: 2026-11-10
+Source: Simply Wall St | Date: 2026-11-06
+
+### 66 - Micron Technology - Fab announcements
+
+[Micron Technology (NasdaqGS:MU) previsión de las acciones y estimaciones de analistas - Simply Wall St](https://news.google.com/rss/articles/CBMijAFBVV95cUxPM25mbW5LSkhIRXZjUGhXNEJwQWhkT1dmTnVFbHhkQ1BMQlF6TGdpYm94TkxSZVNMTURDTVdqRUloenZKQ25nVGpCbDY2dzJjTktXRS1rRkMxMndadFIxaldtY0lfUjQ3WHZuUDUyeFYtQlgyVWc0ZkR0YmZpWVNGeDdZbWZTOWc4cVg0cA?oc=5)
+
+Simply Wall St reports that Micron Technology (NasdaqGS:MU) previsión de las acciones y
+estimaciones de analistas. Micron Technology: fab and capacity signals should be checked for
+ramp timing, layer complexity, and tool pull-ins.
+
+Source: Simply Wall St | Date: 2026-11-09
 
 ### 66 - SK hynix - CapEx changes
 
@@ -274,25 +313,15 @@ specialty fab loading and mature-node etch utilization.
 
 Source: TechPowerUp | Date: 2026-11-09
 
-### 58 - Synopsys - EDA / IP design starts
+### 55 - STMicroelectronics - Automotive and edge silicon
 
-[SYNOPSYS INC. R (SYP.HM) Q2 FY2026 earnings call transcript - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxOanJCZG83WDNEbU1vcl9WcldWYlg4MjhxcjZseG1qZEdfX2EyN0gyZGdkMHRSN25wYk1Jb29uSHV2VGZTdDhoVHZrRTJFNXFsWUV2N3VHMXBSVFIyVUtJcUM2TnBhMWdsZHZhMVZoMGNOaGhuU3p1T3o1bGVSQzBUYW44aXhJR3l2Y0F5b2pZZWgwZw?oc=5)
+[STMicroelectronics at Morgan Stanley conference: data centers drive growth By Investing.com - Investing.com India](https://news.google.com/rss/articles/CBMizwFBVV95cUxPR251N2poSm14VFZDUlZEZ0JBMWtGRE1jWXlWQkNHX0d1YmxjNXo0RFBla3l4QWFKOVBnRV92ZENmS2pDRWZYSU55Z25XS2xubHdrLUxtcjVxWGtyRDlsNVJveFZfdjZ2SEdCQTJmVWxYRGlHMUktR3NjZzZsVnNWSXhjTmhjX1BjdHBHN1ctYTdYWWVTb0ZPZF9oWk9fMnlMX1Y3bFdfckxxZW5UeHF3OTJjOG05U0ZzbEtYenE1X2VsTlozX19wdlBKOUh3WFU?oc=5)
 
-Yahoo Finance reports that SYNOPSYS INC. R (SYP.HM) Q2 FY2026 earnings call transcript.
-Synopsys: EDA/IP activity is an upstream signal for design starts that can become future foundry
-and etch demand.
+Investing.com India reports that STMicroelectronics at Morgan Stanley conference: data centers
+drive growth By Investing.com. STMicroelectronics: automotive and power-semiconductor demand can
+influence specialty fab loading and mature-node etch utilization.
 
-Source: Yahoo Finance | Date: 2026-11-14
-
-### 55 - Infineon - Automotive and edge silicon
-
-[Infineon says it processed functional power devices on 300mm SiC wafers - digitimes](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjhVSTY3M19vOGR6ZXRrMTBKRjBsdW5EeHRnRm9GOVFpTEJLWGI4SU9TTU9UOGRlOWNia2MwMzVKckVCVEQ3M0tIQ0pBZGpaQ3QzblR3Mk10VnlMd3lNQzU2NWdHaDlaZHQ3bVByOUtqLWo5aW9hWUJKTjdiUi03WWx6MzV3SmQ2NXc?oc=5)
-
-digitimes reports that Infineon says it processed functional power devices on 300mm SiC wafers.
-Infineon: automotive and power-semiconductor demand can influence specialty fab loading and
-mature-node etch utilization.
-
-Source: digitimes | Date: 2026-11-11
+Source: Investing.com India | Date: 2026-11-19
 
 ### 54 - Apple Silicon - GPU / CPU roadmaps
 
